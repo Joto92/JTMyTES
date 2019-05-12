@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Types>
+		<Row Type="IMPROVEMENT_IMPERIAL_FORT" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_WORD_WALL" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_XANMEER" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_MUSHROOM_TOWER" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ASHLANDER_CAMP" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ORC_STRONGHOLD" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_DARK_ANCHORS" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_OBLIVION_GATE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_AYLEID_WELL" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_DWEMER_TOWER" Kind="KIND_IMPROVEMENT"/>
+
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" PlunderType="NO_PLUNDER" Buildable="true" CanBuildOutsideTerritory="true" DefenseModifier="6" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_IMPERIAL_FORT"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" Icon="ICON_IMPROVEMENT_WORD_WALL" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_WORD_WALL" SameAdjacentValid="false" TilesRequired="2"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" Icon="ICON_IMPROVEMENT_XANMEER" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" Buildable="true" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_XANMEER"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" PlunderType="PLUNDER_CULTURE" Buildable="true" DefenseModifier="2" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_MUSHROOM_TOWER"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" PrereqTech="TECH_ANIMAL_HUSBANDRY" Housing="1" TilesRequired="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ASHLANDER_CAMP"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" Name="LOC_IMPROVEMENT_ORC_STRONGHOLD_NAME" Description="LOC_IMPROVEMENT_ORC_STRONGHOLD_DESCRIPTION" Icon="ICON_IMPROVEMENT_ORC_STRONGHOLD" PlunderType="NO_PLUNDER" Buildable="true" DefenseModifier="4" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ORC_STRONGHOLD"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" Name="LOC_IMPROVEMENT_DARK_ANCHORS_NAME" Description="LOC_IMPROVEMENT_DARK_ANCHORS_DESCRIPTION" Icon="ICON_IMPROVEMENT_DARK_ANCHORS" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_CRAFTSMANSHIP" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_DARK_ANCHORS" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" Name="LOC_IMPROVEMENT_OBLIVION_GATE_NAME" Description="LOC_IMPROVEMENT_OBLIVION_GATE_DESCRIPTION" Icon="ICON_IMPROVEMENT_OBLIVION_GATE" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_CRAFTSMANSHIP" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_OBLIVION_GATE" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" Icon="ICON_IMPROVEMENT_AYLEID_WELL" PlunderType="PLUNDER_SCIENCE" PlunderAmount="25" Buildable="true" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_AYLEID_WELL"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" Name="LOC_IMPROVEMENT_DWEMER_TOWER_NAME" Description="LOC_IMPROVEMENT_DWEMER_TOWER_DESCRIPTION" Icon="ICON_IMPROVEMENT_DWEMER_TOWER" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" DefenseModifier="4" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_DWEMER_TOWER"/>
+
+	</Improvements>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" TerrainType="TERRAIN_SNOW_HILLS"/>
+	</Improvement_ValidTerrains>
+	
+	<Improvement_ValidFeatures>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" FeatureType="FEATURE_MARSH"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" FeatureType="FEATURE_MARSH"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" FeatureType="FEATURE_JUNGLE"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" FeatureType="FEATURE_MARSH"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" FeatureType="FEATURE_FOREST"/>
+
+	</Improvement_ValidFeatures>
+	
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" UnitType="UNIT_IMPERIAL_LEGIONNAIRE"/>
+		<Row ImprovementType="IMPROVEMENT_IMPERIAL_FORT" UnitType="UNIT_MILITARY_ENGINEER"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" UnitType="UNIT_MILITARY_ENGINEER"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" UnitType="UNIT_BUILDER"/>
+
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_WORD_WALL" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" YieldType="YIELD_SCIENCE" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" YieldType="YIELD_FOOD" YieldChange="5"/>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" YieldType="YIELD_PRODUCTION" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" YieldType="YIELD_FOOD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" YieldType="YIELD_FAITH" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" YieldType="YIELD_FAITH" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+	</Improvement_YieldChanges>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_MUSHROOM_TOWER" YieldChangeId="MushroomTower_Adjacency"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" YieldChangeId="AshlanderProduction"/>
+		<Row ImprovementType="IMPROVEMENT_ASHLANDER_CAMP" YieldChangeId="AshlanderFood"/>
+		<Row ImprovementType="IMPROVEMENT_ORC_STRONGHOLD" YieldChangeId="OrcStrongholdProduction"/>
+		<Row ImprovementType="IMPROVEMENT_DARK_ANCHORS" YieldChangeId="DarkAnchorProduction"/>
+		<Row ImprovementType="IMPROVEMENT_OBLIVION_GATE" YieldChangeId="OblivionGateProduction"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" YieldChangeId="AyleidScience"/>
+		<Row ImprovementType="IMPROVEMENT_AYLEID_WELL" YieldChangeId="AyleidFaith"/>
+		<Row ImprovementType="IMPROVEMENT_DWEMER_TOWER" YieldChangeId="DwemerProduction"/>
+
+	</Improvement_Adjacencies>
+	
+	<Adjacency_YieldChanges>
+		<Row ID="MushroomTower_Adjacency" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="AshlanderProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="3" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_CAMP"/>
+		<Row ID="AshlanderFood" Description="Placeholder" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_CAMP"/>
+		<Row ID="OrcStrongholdProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="DarkAnchorProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="OblivionGateProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_ENCAMPMENT"/>
+		<Row ID="AyleidScience" Description="Placeholder" YieldType="YIELD_SCIENCE" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_CAMPUS"/>
+		<Row ID="AyleidFaith" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentDistrict="DISTRICT_HOLY_SITE"/>
+		<Row ID="DwemerProduction" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_INDUSTRIAL_ZONE"/>
+
+	</Adjacency_YieldChanges>
+	
+	<ImprovementModifiers>
+		<Row>
+			<ImprovementType>IMPROVEMENT_WORD_WALL</ImprovementType>
+			<ModifierId>STEPWELL_HOLYSITEADJACENCY_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_XANMEER</ImprovementType>
+			<ModifierId>XANMEER_RIVERADJACENCY_SCIENCE</ModifierId>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_DARK_ANCHORS</ImprovementType>
+			<ModifierId>DARK_ANCHORS_NEWCONTINENT_FAITH</ModifierId>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OBLIVION_GATE</ImprovementType>
+			<ModifierId>DARK_ANCHORS_NEWCONTINENT_FAITH</ModifierId>
+		</Row>
+	</ImprovementModifiers>
+	
+	<Modifiers>
+		<Row>
+			<ModifierId>XANMEER_RIVERADJACENCY_SCIENCE</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>PLOT_ADJACENT_TO_RIVER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>DARK_ANCHORS_NEWCONTINENT_FAITH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>PLOT_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>XANMEER_RIVERADJACENCY_SCIENCE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>XANMEER_RIVERADJACENCY_SCIENCE</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>DARK_ANCHORS_NEWCONTINENT_FAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>DARK_ANCHORS_NEWCONTINENT_FAITH</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+	</ModifierArguments>
+
+	<Improvement_Tourism>
+		<Row ImprovementType="IMPROVEMENT_XANMEER" TourismSource="TOURISMSOURCE_CULTURE" PrereqTech="TECH_FLIGHT" ScalingFactor="100"/>
+
+	</Improvement_Tourism>
+</GameData>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>415</build>
+		<revision>990</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyElderSFlags256"/>
+			<m_ObjectName text="MyElderSFlags256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags80"/>
+			<m_ObjectName text="MyElderSFlags80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags64"/>
+			<m_ObjectName text="MyElderSFlags64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags50"/>
+			<m_ObjectName text="MyElderSFlags50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags48"/>
+			<m_ObjectName text="MyElderSFlags48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags45"/>
+			<m_ObjectName text="MyElderSFlags45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags44"/>
+			<m_ObjectName text="MyElderSFlags44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags36"/>
+			<m_ObjectName text="MyElderSFlags36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags32"/>
+			<m_ObjectName text="MyElderSFlags32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags30"/>
+			<m_ObjectName text="MyElderSFlags30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderSFlags22"/>
+			<m_ObjectName text="MyElderSFlags22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders256"/>
+			<m_ObjectName text="MyElderScrollsLeaders256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders80"/>
+			<m_ObjectName text="MyElderScrollsLeaders80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders64"/>
+			<m_ObjectName text="MyElderScrollsLeaders64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders55"/>
+			<m_ObjectName text="MyElderScrollsLeaders55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders50"/>
+			<m_ObjectName text="MyElderScrollsLeaders50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders48"/>
+			<m_ObjectName text="MyElderScrollsLeaders48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders45"/>
+			<m_ObjectName text="MyElderScrollsLeaders45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyElderScrollsLeaders32"/>
+			<m_ObjectName text="MyElderScrollsLeaders32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits256"/>
+			<m_ObjectName text="MyTESPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits200"/>
+			<m_ObjectName text="MyTESPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits95"/>
+			<m_ObjectName text="MyTESPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits70"/>
+			<m_ObjectName text="MyTESPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits50"/>
+			<m_ObjectName text="MyTESPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESPotraits38"/>
+			<m_ObjectName text="MyTESPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units256"/>
+			<m_ObjectName text="MyTES_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units80"/>
+			<m_ObjectName text="MyTES_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units50"/>
+			<m_ObjectName text="MyTES_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units38"/>
+			<m_ObjectName text="MyTES_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units32"/>
+			<m_ObjectName text="MyTES_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units22"/>
+			<m_ObjectName text="MyTES_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units256_FOW"/>
+			<m_ObjectName text="MyTES_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units80_FOW"/>
+			<m_ObjectName text="MyTES_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units50_FOW"/>
+			<m_ObjectName text="MyTES_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units38_FOW"/>
+			<m_ObjectName text="MyTES_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units32_FOW"/>
+			<m_ObjectName text="MyTES_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTES_Units22_FOW"/>
+			<m_ObjectName text="MyTES_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings256"/>
+			<m_ObjectName text="MyTESBuildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings128"/>
+			<m_ObjectName text="MyTESBuildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings80"/>
+			<m_ObjectName text="MyTESBuildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings70"/>
+			<m_ObjectName text="MyTESBuildings70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings50"/>
+			<m_ObjectName text="MyTESBuildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings38"/>
+			<m_ObjectName text="MyTESBuildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings32"/>
+			<m_ObjectName text="MyTESBuildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTESBuildings22"/>
+			<m_ObjectName text="MyTESBuildings22"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

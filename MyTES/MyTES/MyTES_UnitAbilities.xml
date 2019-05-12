@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_MYTES_ANTICAV_UNITS_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_IMPERIAL_LEGIONNAIRE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_STORMCLOAK" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HIGHELF_VINDICATOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_THALMOR_MAGE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ARCHEIN_VENOMTONGUE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SHELLBACKS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_PROTECTOR_MANE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RA_GADA" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ORDINATOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DARK_ARCHMAGE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_AMBUSHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LEAFLURKER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LION_GUARD" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BRETON_CONJURER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BATTLERAGE_ORC" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DREMORA" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_FLAME_ATRONACH" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DAEDROTH" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_AURORAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARVEN_SPIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARVEN_SPHERE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DWARVEN_CENTURION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GOBLIN_SLAVE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DAIKATANA_SOLDIER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SNOW_DEMON" Kind="KIND_ABILITY"/>
+
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_MYTES_ANTICAV_UNITS_BONUS" Tag="CLASS_ANTI_CAVALRY"/>
+		<Row Type="ABILITY_IMPERIAL_LEGIONNAIRE" Tag="CLASS_IMPERIAL_LEGIONNAIRE"/>
+		<Row Type="ABILITY_STORMCLOAK" Tag="CLASS_STORMCLOAK"/>
+		<Row Type="ABILITY_HIGHELF_VINDICATOR" Tag="CLASS_HIGHELF_VINDICATOR"/>
+		<Row Type="ABILITY_THALMOR_MAGE" Tag="CLASS_THALMOR_MAGE"/>
+		<Row Type="ABILITY_ARCHEIN_VENOMTONGUE" Tag="CLASS_ARCHEIN_VENOMTONGUE"/>
+		<Row Type="ABILITY_SHELLBACKS" Tag="CLASS_SHELLBACKS"/>
+		<Row Type="ABILITY_PROTECTOR_MANE" Tag="CLASS_PROTECTOR_MANE"/>
+		<Row Type="ABILITY_RA_GADA" Tag="CLASS_RA_GADA"/>
+		<Row Type="ABILITY_ORDINATOR" Tag="CLASS_ORDINATOR"/>
+		<Row Type="ABILITY_DARK_ARCHMAGE" Tag="CLASS_DARK_ARCHMAGE"/>
+		<Row Type="ABILITY_AMBUSHER" Tag="CLASS_AMBUSHER"/>
+		<Row Type="ABILITY_LEAFLURKER" Tag="CLASS_LEAFLURKER"/>
+		<Row Type="ABILITY_LION_GUARD" Tag="CLASS_LION_GUARD"/>
+		<Row Type="ABILITY_BRETON_CONJURER" Tag="CLASS_BRETON_CONJURER"/>
+		<Row Type="ABILITY_BATTLERAGE_ORC" Tag="CLASS_BATTLERAGE_ORC"/>
+		<Row Type="ABILITY_DREMORA" Tag="CLASS_DREMORA"/>
+		<Row Type="ABILITY_FLAME_ATRONACH" Tag="CLASS_FLAME_ATRONACH"/>
+		<Row Type="ABILITY_DAEDROTH" Tag="CLASS_DAEDROTH"/>
+		<Row Type="ABILITY_AURORAN" Tag="CLASS_AURORAN"/>
+		<Row Type="ABILITY_DWARVEN_SPIDER" Tag="CLASS_DWARVEN_SPIDER"/>
+		<Row Type="ABILITY_DWARVEN_SPHERE" Tag="CLASS_DWARVEN_SPHERE"/>
+		<Row Type="ABILITY_DWARVEN_CENTURION" Tag="CLASS_DWARVEN_CENTURION"/>
+		<Row Type="ABILITY_GOBLIN_SLAVE" Tag="CLASS_GOBLIN_SLAVE"/>
+		<Row Type="ABILITY_DAIKATANA_SOLDIER" Tag="CLASS_DAIKATANA_SOLDIER"/>
+		<Row Type="ABILITY_SNOW_DEMON" Tag="CLASS_SNOW_DEMON"/>
+
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_MYTES_ANTICAV_UNITS_BONUS" Name="LOC_TRAIT_MYTES_ANTICAV_UNITS_BONUS_NAME" Description="LOC_ABILITY_MYTES_ANTICAV_UNITS_BONUS_DESCRIPTION"  Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_IMPERIAL_LEGIONNAIRE" Name="LOC_ABILITY_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_ABILITY_IMPERIAL_LEGIONNAIRE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_STORMCLOAK" Name="LOC_ABILITY_STORMCLOAK_NAME" Description="LOC_ABILITY_STORMCLOAK_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HIGHELF_VINDICATOR" Name="LOC_ABILITY_HIGHELF_VINDICATOR_NAME" Description="LOC_ABILITY_HIGHELF_VINDICATOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_THALMOR_MAGE" Name="LOC_ABILITY_THALMOR_MAGE_NAME" Description="LOC_ABILITY_THALMOR_MAGE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ARCHEIN_VENOMTONGUE" Name="LOC_ABILITY_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_ABILITY_ARCHEIN_VENOMTONGUE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SHELLBACKS" Name="LOC_ABILITY_SHELLBACKS_NAME" Description="LOC_ABILITY_SHELLBACKS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_PROTECTOR_MANE" Name="LOC_ABILITY_PROTECTOR_MANE_NAME" Description="LOC_ABILITY_PROTECTOR_MANE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RA_GADA" Name="LOC_ABILITY_RA_GADA_NAME" Description="LOC_ABILITY_RA_GADA_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ORDINATOR" Name="LOC_ABILITY_ORDINATOR_NAME" Description="LOC_ABILITY_ORDINATOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DARK_ARCHMAGE" Name="LOC_ABILITY_DARK_ARCHMAGE_NAME" Description="LOC_ABILITY_DARK_ARCHMAGE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_AMBUSHER" Name="LOC_ABILITY_AMBUSHER_NAME" Description="LOC_ABILITY_AMBUSHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LEAFLURKER" Name="LOC_ABILITY_LEAFLURKER_NAME" Description="LOC_ABILITY_LEAFLURKER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LION_GUARD" Name="LOC_ABILITY_LION_GUARD_NAME" Description="LOC_ABILITY_LION_GUARD_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BRETON_CONJURER" Name="LOC_ABILITY_BRETON_CONJURER_NAME" Description="LOC_ABILITY_BRETON_CONJURER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BATTLERAGE_ORC" Name="LOC_ABILITY_BATTLERAGE_ORC_NAME" Description="LOC_ABILITY_BATTLERAGE_ORC_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DREMORA" Name="LOC_ABILITY_DREMORA_NAME" Description="LOC_ABILITY_DREMORA_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_FLAME_ATRONACH" Name="LOC_ABILITY_FLAME_ATRONACH_NAME" Description="LOC_ABILITY_FLAME_ATRONACH_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DAEDROTH" Name="LOC_ABILITY_DAEDROTH_NAME" Description="LOC_ABILITY_DAEDROTH_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_AURORAN" Name="LOC_ABILITY_AURORAN_NAME" Description="LOC_ABILITY_AURORAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARVEN_SPIDER" Name="LOC_ABILITY_DWARVEN_SPIDER_NAME" Description="LOC_ABILITY_DWARVEN_SPIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARVEN_SPHERE" Name="LOC_ABILITY_DWARVEN_SPHERE_NAME" Description="LOC_ABILITY_DWARVEN_SPHERE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DWARVEN_CENTURION" Name="LOC_ABILITY_DWARVEN_CENTURION_NAME" Description="LOC_ABILITY_DWARVEN_CENTURION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GOBLIN_SLAVE" Name="LOC_ABILITY_GOBLIN_SLAVE_NAME" Description="LOC_ABILITY_GOBLIN_SLAVE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DAIKATANA_SOLDIER" Name="LOC_ABILITY_DAIKATANA_SOLDIER_NAME" Description="LOC_ABILITY_DAIKATANA_SOLDIER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SNOW_DEMON" Name="LOC_ABILITY_SNOW_DEMON_NAME" Description="LOC_ABILITY_SNOW_DEMON_DESCRIPTION"/>
+
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_MYTES_ANTICAV_UNITS_BONUS</UnitAbilityType>
+			<ModifierId>MYTES_ANTICAV_UNITS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_IMPERIAL_LEGIONNAIRE</UnitAbilityType>
+			<ModifierId>MYTES_IMPERIAL_LEGIONNAIRE_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_STORMCLOAK</UnitAbilityType>
+			<ModifierId>TES_STORMCLOAK_BONUS_ON_TUNDRA</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HIGHELF_VINDICATOR</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_THALMOR_MAGE</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ARCHEIN_VENOMTONGUE</UnitAbilityType>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_JUNGLE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ARCHEIN_VENOMTONGUE</UnitAbilityType>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_MARSH</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SHELLBACKS</UnitAbilityType>
+			<ModifierId>MYTES_SHELLBACKS_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_PROTECTOR_MANE</UnitAbilityType>
+			<ModifierId>MYTES_PROTECTOR_MANE_CONTINENT_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RA_GADA</UnitAbilityType>
+			<ModifierId>UNIT_STRONG_WHEN_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RA_GADA</UnitAbilityType>
+			<ModifierId>UNIT_WEAK_WHEN_DEFENDING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ORDINATOR</UnitAbilityType>
+			<ModifierId>TES_COVER_DEFENSE_BONUS_VS_RANGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DARK_ARCHMAGE</UnitAbilityType>
+			<ModifierId>TES_SHOT_BONUS_VS_UNITS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AMBUSHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AMBUSHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AMBUSHER</UnitAbilityType>
+			<ModifierId>TES_PERCENT_FLANKING_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LEAFLURKER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LEAFLURKER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LION_GUARD</UnitAbilityType>
+			<ModifierId>SAMURAI_NO_REDUCTION_DAMAGE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BRETON_CONJURER</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BATTLERAGE_ORC</UnitAbilityType>
+			<ModifierId>UNIT_STRONG_WHEN_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BATTLERAGE_ORC</UnitAbilityType>
+			<ModifierId>UNIT_WEAK_WHEN_DEFENDING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DREMORA</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_FLAME_ATRONACH</UnitAbilityType>
+			<ModifierId>TES_URBAN_RAIDER_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DAEDROTH</UnitAbilityType>
+			<ModifierId>TES_MARSH_DAEDROTH_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AURORAN</UnitAbilityType>
+			<ModifierId>TES_AURORAN_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARVEN_SPIDER</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARVEN_SPHERE</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DWARVEN_CENTURION</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_GOBLIN_SLAVE</UnitAbilityType>
+			<ModifierId>TES_GOBLIN_SLAVE_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DAIKATANA_SOLDIER</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SNOW_DEMON</UnitAbilityType>
+			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYTES_ANTICAV_UNITS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_IMPERIAL_LEGIONNAIRE_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTES_LEGIONNAIRE_PLOT_IS_LEGIONNAIRE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_STORMCLOAK_BONUS_ON_TUNDRA</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>PLOT_HAS_TUNDRA_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_JUNGLE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTES_JUNGLE_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_MARSH</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTES_MARSH_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_SHELLBACKS_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTES_SHELLBACKS_PLOT_IS_SHELLBACKS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_PROTECTOR_MANE_CONTINENT_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GARDE_PLOT_IS_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_COVER_DEFENSE_BONUS_VS_RANGED</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>TOP_COVER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_SHOT_BONUS_VS_UNITS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GRAPE_SHOT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_PERCENT_FLANKING_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TES_URBAN_RAIDER_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>URBAN_RAIDER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_MARSH_DAEDROTH_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTES_MARSH_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_AURORAN_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>CREW_WEAPONS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TES_GOBLIN_SLAVE_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYTES_ANTICAV_UNITS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>6</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_IMPERIAL_LEGIONNAIRE_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_STORMCLOAK_BONUS_ON_TUNDRA</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_JUNGLE</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_ARCHEIN_BONUS_ON_MARSH</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_SHELLBACKS_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTES_PROTECTOR_MANE_CONTINENT_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_COVER_DEFENSE_BONUS_VS_RANGED</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_SHOT_BONUS_VS_UNITS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_PERCENT_FLANKING_BONUS</ModifierId>
+			<Name>Percent</Name>
+			<Value>200</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_URBAN_RAIDER_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_MARSH_DAEDROTH_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_AURORAN_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>TES_GOBLIN_SLAVE_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="MYTES_ANTICAV_UNITS_BONUS" Context="Preview" Text="LOC_ABILITY_MYTES_ANTICAV_UNITS_BONUS_DESCRIPTION"/>
+		<Row ModifierId="MYTES_IMPERIAL_LEGIONNAIRE_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_IMPERIAL_LEGIONNAIRE_DESCRIPTION"/>
+		<Row ModifierId="TES_STORMCLOAK_BONUS_ON_TUNDRA" Context="Preview" Text="LOC_ABILITY_STORMCLOAK_DESCRIPTION"/>
+		<Row ModifierId="TES_ARCHEIN_BONUS_ON_JUNGLE" Context="Preview" Text="LOC_ABILITY_ARCHEIN_VENOMTONGUE_JUNGLE_DESCRIPTION"/>
+		<Row ModifierId="TES_ARCHEIN_BONUS_ON_MARSH" Context="Preview" Text="LOC_ABILITY_ARCHEIN_VENOMTONGUE_MARSH_DESCRIPTION"/>
+		<Row ModifierId="MYTES_SHELLBACKS_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_SHELLBACKS_DESCRIPTION"/>
+		<Row ModifierId="MYTES_PROTECTOR_MANE_CONTINENT_COMBAT" Context="Preview" Text="LOC_ABILITY_PROTECTOR_MANE_DESCRIPTION"/>
+		<Row ModifierId="TES_COVER_DEFENSE_BONUS_VS_RANGED" Context="Preview" Text="LOC_ABILITY_ORDINATOR_DESCRIPTION"/>
+		<Row ModifierId="TES_SHOT_BONUS_VS_UNITS" Context="Preview" Text="LOC_ABILITY_DARK_ARCHMAGE_DESCRIPTION"/>
+		<Row ModifierId="TES_PERCENT_FLANKING_BONUS" Context="Preview" Text="LOC_ABILITY_AMBUSHER_DESCRIPTION"/>
+		<Row ModifierId="TES_URBAN_RAIDER_BONUS" Context="Preview" Text="LOC_ABILITY_FLAME_ATRONACH_DESCRIPTION"/>
+		<Row ModifierId="TES_MARSH_DAEDROTH_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_DAEDROTH_DESCRIPTION"/>
+		<Row ModifierId="TES_AURORAN_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_AURORAN_DESCRIPTION"/>
+		<Row ModifierId="TES_GOBLIN_SLAVE_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_GOBLIN_SLAVE_DESCRIPTION"/>
+
+	</ModifierStrings>
+	
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYTES_LEGIONNAIRE_PLOT_IS_LEGIONNAIRE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_JUNGLE_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_MARSH_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_SHELLBACKS_PLOT_IS_SHELLBACKS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYTES_LEGIONNAIRE_PLOT_IS_LEGIONNAIRE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYTES_LEGIONNAIRE_UNIT_NEXT_TO_LEGIONNAIRE</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_JUNGLE_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_MARSH_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_MARSH_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTES_SHELLBACKS_PLOT_IS_SHELLBACKS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYTES_SHELLBACKS_UNIT_NEXT_TO_SHELLBACKS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYTES_LEGIONNAIRE_UNIT_NEXT_TO_LEGIONNAIRE</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYTES_SHELLBACKS_UNIT_NEXT_TO_SHELLBACKS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYTES_LEGIONNAIRE_UNIT_NEXT_TO_LEGIONNAIRE</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_IMPERIAL_LEGIONNAIRE</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYTES_SHELLBACKS_UNIT_NEXT_TO_SHELLBACKS</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_SHELLBACKS</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

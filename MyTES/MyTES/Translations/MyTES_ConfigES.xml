@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- EMPIRE -->
+		<Replace Tag="LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME" Language="es_ES">
+			<Text>Cyrodilic Empire</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CYRODILIC_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Cyrodilic Empire</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_CYRODILIC_EMPIRE_ADJECTIVE" Language="es_ES">
+			<Text>Imperial</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_TIBER_SEPTIM_NAME" Language="es_ES">
+			<Text>Tiber Septim</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TAMRIELIC_EMPIRE_NAME" Language="es_ES">
+			<Text>Tamrielic Empire</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION" Language="es_ES">
+			<Text>Espacio adicional para política militar. +7 a la Fuerza de combate [ICON_Strength] al atacar ciudades-estado.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GENERAL_TALOS_NAME" Language="es_ES">
+			<Text>General Talos</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GENERAL_TALOS_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades que fundes o conquistes comienzan con un Puesto comercial. Si se encuentran dentro del alcance de una Ruta comercial [ICON_TradeRoute] de tu capital [ICON_Capital] también comenzarán con una Carretera hacia ella. Tus Rutas comerciales [ICON_TradeRoute] ganan +1 de Oro [ICON_Gold] por pasar por los Puestos comerciales que hay en tus ciudades.</Text>
+		</Replace>
+		<!-- END EMPIRE-->
+	</LocalizedText>
+</GameData>

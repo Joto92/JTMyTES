@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TIBER_SEPTIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TIBER_SEPTIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TIBER_SEPTIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GENERAL_TALOS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GENERAL_TALOS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TIBER_SEPTIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TIBER_SEPTIM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_JORUNN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JORUNN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JORUNN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_EBONHEART_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_EBONHEART_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JORUNN</LeaderAbilityIcon>
+			<Portrait>LEADER_JORUNN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ALTMER</CivilizationType>
+			<LeaderType>LEADER_AYRENN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AYRENN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AYRENN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ALDMER_HERITAGE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ALDMER_HERITAGE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_UNFORESEEN_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_UNFORESEEN_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AYRENN</LeaderAbilityIcon>
+			<Portrait>LEADER_AYRENN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_HIST_SPEAKER_ANXILEEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HIST_SPEAKER_ANXILEEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIST_ADVISE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIST_ADVISE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderAbilityIcon>
+			<Portrait>LEADER_HIST_SPEAKER_ANXILEEL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_KEIRGO_ANAQUINA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_KEIRGO_ANAQUINA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_NE_QUINAL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_NE_QUINAL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderAbilityIcon>
+			<Portrait>LEADER_KEIRGO_ANAQUINA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HAMMERFEL</CivilizationType>
+			<LeaderType>LEADER_FAHARA_JAD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HAMMERFEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FAHARA_JAD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FAHARA_JAD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_REDGUARDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_REDGUARDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DESERT_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DESERT_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FAHARA_JAD</LeaderAbilityIcon>
+			<Portrait>LEADER_FAHARA_JAD_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_ALMALEXIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALMALEXIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALMALEXIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_MERCY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_MERCY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALMALEXIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALMALEXIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_AERADAN_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AERADAN_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_AERADAN_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_EMERIC_CUMBERLAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EMERIC_CUMBERLAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WAYREST_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WAYREST_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderAbilityIcon>
+			<Portrait>LEADER_EMERIC_CUMBERLAND_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ORSINIUM</CivilizationType>
+			<LeaderType>LEADER_GORTWOG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORSINIUM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GORTWOG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GORTWOG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ORSIMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ORSIMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARLORD_OFTHE_ORCS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARLORD_OFTHE_ORCS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GORTWOG</LeaderAbilityIcon>
+			<Portrait>LEADER_GORTWOG_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MEHRUNES_DAGON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MEHRUNES_DAGON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OF_DESTRUCTION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OF_DESTRUCTION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderAbilityIcon>
+			<Portrait>LEADER_MEHRUNES_DAGON_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_HADHUUL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HADHUUL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HADHUUL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FIRE_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FIRE_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HADHUUL</LeaderAbilityIcon>
+			<Portrait>LEADER_HADHUUL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DWEMER</CivilizationType>
+			<LeaderType>LEADER_DUMAC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DWEMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DWEMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DUMAC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DUMAC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DEEP_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DEEP_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DWEMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DWARFKING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DWARFKING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DUMAC</LeaderAbilityIcon>
+			<Portrait>LEADER_DUMAC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_TSAESCI</CivilizationType>
+			<LeaderType>LEADER_VERSIDUE_SHAIE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TSAESCI_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TSAESCI</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VERSIDUE_SHAIE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TSAESCI</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SERPENT_MEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SERPENT_MEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderAbilityIcon>
+			<Portrait>LEADER_VERSIDUE_SHAIE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KA_POTUN</CivilizationType>
+			<LeaderType>LEADER_TOSH_RAKA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KA_POTUN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOSH_RAKA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOSH_RAKA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TIGER_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TIGER_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIGER_DRAGON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIGER_DRAGON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOSH_RAKA</LeaderAbilityIcon>
+			<Portrait>LEADER_TOSH_RAKA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KAMAL</CivilizationType>
+			<LeaderType>LEADER_DIRKAMAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KAMAL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KAMAL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DIRKAMAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DIRKAMAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SNOW_HELL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SNOW_HELL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KAMAL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_AMONG_DEMONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_AMONG_DEMONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DIRKAMAL</LeaderAbilityIcon>
+			<Portrait>LEADER_DIRKAMAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_PYANDONEA</CivilizationType>
+			<LeaderType>LEADER_ORGANUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_PYANDONEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ORGANUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ORGANUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TROPICAL_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TROPICAL_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEA_SERPENT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEA_SERPENT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ORGANUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ORGANUM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_URIEL_SEPTIM_VII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URIEL_SEPTIM_VII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEPTIM_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEPTIM_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderAbilityIcon>
+			<Portrait>LEADER_URIEL_SEPTIM_VII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TITUS_MEDEII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TITUS_MEDEII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TITUS_MEDEII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITEGOLD_CONCORDAT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITEGOLD_CONCORDAT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TITUS_MEDEII</LeaderAbilityIcon>
+			<Portrait>LEADER_TITUS_MEDEII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_REMAN_CYRODIIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_REMAN_CYRODIIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_REMAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_REMAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderAbilityIcon>
+			<Portrait>LEADER_REMAN_CYRODIIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_ALESSIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALESSIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALESSIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SLAVE_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SLAVE_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALESSIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALESSIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_YSGRAMOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YSGRAMOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YSGRAMOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ATMORAN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ATMORAN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YSGRAMOR</LeaderAbilityIcon>
+			<Portrait>LEADER_YSGRAMOR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_ULFRIC_STORMCLOAK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ULFRIC_STORMCLOAK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_PRETENDER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_PRETENDER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderAbilityIcon>
+			<Portrait>LEADER_ULFRIC_STORMCLOAK_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_RED_BRAMMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RED_BRAMMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RED_BRAMMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TOPAL_BAY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TOPAL_BAY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RED_BRAMMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_RED_BRAMMAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_ESHITA_PELLITINE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHITA_PELLITINE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PAALATIIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PAALATIIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHITA_PELLITINE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_HLAALU_HELSETH</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HLAALU_HELSETH_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HLAALU_HELSETH</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SON_BARENZIAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SON_BARENZIAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HLAALU_HELSETH</LeaderAbilityIcon>
+			<Portrait>LEADER_HLAALU_HELSETH_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_VIVEC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VIVEC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VIVEC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARRIOR_POET_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARRIOR_POET_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VIVEC</LeaderAbilityIcon>
+			<Portrait>LEADER_VIVEC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_SOTHA_SIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SOTHA_SIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SOTHA_SIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_MYSTERY_MORROWIND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_MYSTERY_MORROWIND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SOTHA_SIL</LeaderAbilityIcon>
+			<Portrait>LEADER_SOTHA_SIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_HAYMON_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HAYMON_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_USURPER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_USURPER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_HAYMON_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_RANSER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RANSER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RANSER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_SHORNHELM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_SHORNHELM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RANSER</LeaderAbilityIcon>
+			<Portrait>LEADER_RANSER_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_CASIMIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CASIMIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CASIMIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_DAGGERFALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_DAGGERFALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CASIMIR</LeaderAbilityIcon>
+			<Portrait>LEADER_CASIMIR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MOLAG_BAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MOLAG_BAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MOLAG_BAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GOD_BRUTALITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GOD_BRUTALITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MOLAG_BAL</LeaderAbilityIcon>
+			<Portrait>LEADER_MOLAG_BAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_LALORIARAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LALORIARAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LALORIARAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RULER_DARK_TIMES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RULER_DARK_TIMES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LALORIARAN</LeaderAbilityIcon>
+			<Portrait>LEADER_LALORIARAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TIBER_SEPTIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TIBER_SEPTIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TIBER_SEPTIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GENERAL_TALOS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GENERAL_TALOS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TIBER_SEPTIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TIBER_SEPTIM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_JORUNN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JORUNN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JORUNN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_EBONHEART_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_EBONHEART_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JORUNN</LeaderAbilityIcon>
+			<Portrait>LEADER_JORUNN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALTMER</CivilizationType>
+			<LeaderType>LEADER_AYRENN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AYRENN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AYRENN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ALDMER_HERITAGE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ALDMER_HERITAGE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_UNFORESEEN_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_UNFORESEEN_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AYRENN</LeaderAbilityIcon>
+			<Portrait>LEADER_AYRENN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_HIST_SPEAKER_ANXILEEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HIST_SPEAKER_ANXILEEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIST_ADVISE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIST_ADVISE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderAbilityIcon>
+			<Portrait>LEADER_HIST_SPEAKER_ANXILEEL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_KEIRGO_ANAQUINA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_KEIRGO_ANAQUINA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_NE_QUINAL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_NE_QUINAL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderAbilityIcon>
+			<Portrait>LEADER_KEIRGO_ANAQUINA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HAMMERFEL</CivilizationType>
+			<LeaderType>LEADER_FAHARA_JAD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HAMMERFEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FAHARA_JAD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FAHARA_JAD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_REDGUARDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_REDGUARDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DESERT_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DESERT_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FAHARA_JAD</LeaderAbilityIcon>
+			<Portrait>LEADER_FAHARA_JAD_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_ALMALEXIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALMALEXIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALMALEXIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_MERCY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_MERCY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALMALEXIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALMALEXIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_AERADAN_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AERADAN_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_AERADAN_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_EMERIC_CUMBERLAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EMERIC_CUMBERLAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WAYREST_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WAYREST_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderAbilityIcon>
+			<Portrait>LEADER_EMERIC_CUMBERLAND_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ORSINIUM</CivilizationType>
+			<LeaderType>LEADER_GORTWOG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORSINIUM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GORTWOG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GORTWOG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ORSIMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ORSIMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARLORD_OFTHE_ORCS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARLORD_OFTHE_ORCS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GORTWOG</LeaderAbilityIcon>
+			<Portrait>LEADER_GORTWOG_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MEHRUNES_DAGON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MEHRUNES_DAGON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OF_DESTRUCTION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OF_DESTRUCTION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderAbilityIcon>
+			<Portrait>LEADER_MEHRUNES_DAGON_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_HADHUUL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HADHUUL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HADHUUL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FIRE_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FIRE_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HADHUUL</LeaderAbilityIcon>
+			<Portrait>LEADER_HADHUUL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_DWEMER</CivilizationType>
+			<LeaderType>LEADER_DUMAC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DWEMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DWEMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DUMAC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DUMAC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DEEP_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DEEP_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DWEMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DWARFKING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DWARFKING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DUMAC</LeaderAbilityIcon>
+			<Portrait>LEADER_DUMAC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_TSAESCI</CivilizationType>
+			<LeaderType>LEADER_VERSIDUE_SHAIE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TSAESCI_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TSAESCI</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VERSIDUE_SHAIE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TSAESCI</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SERPENT_MEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SERPENT_MEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderAbilityIcon>
+			<Portrait>LEADER_VERSIDUE_SHAIE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KA_POTUN</CivilizationType>
+			<LeaderType>LEADER_TOSH_RAKA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KA_POTUN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOSH_RAKA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOSH_RAKA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TIGER_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TIGER_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIGER_DRAGON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIGER_DRAGON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOSH_RAKA</LeaderAbilityIcon>
+			<Portrait>LEADER_TOSH_RAKA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KAMAL</CivilizationType>
+			<LeaderType>LEADER_DIRKAMAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KAMAL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KAMAL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DIRKAMAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DIRKAMAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SNOW_HELL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SNOW_HELL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KAMAL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_AMONG_DEMONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_AMONG_DEMONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DIRKAMAL</LeaderAbilityIcon>
+			<Portrait>LEADER_DIRKAMAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_PYANDONEA</CivilizationType>
+			<LeaderType>LEADER_ORGANUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_PYANDONEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ORGANUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ORGANUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TROPICAL_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TROPICAL_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEA_SERPENT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEA_SERPENT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ORGANUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ORGANUM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_URIEL_SEPTIM_VII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URIEL_SEPTIM_VII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEPTIM_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEPTIM_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderAbilityIcon>
+			<Portrait>LEADER_URIEL_SEPTIM_VII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TITUS_MEDEII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TITUS_MEDEII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TITUS_MEDEII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITEGOLD_CONCORDAT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITEGOLD_CONCORDAT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TITUS_MEDEII</LeaderAbilityIcon>
+			<Portrait>LEADER_TITUS_MEDEII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_REMAN_CYRODIIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_REMAN_CYRODIIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_REMAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_REMAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderAbilityIcon>
+			<Portrait>LEADER_REMAN_CYRODIIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_ALESSIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALESSIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALESSIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SLAVE_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SLAVE_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALESSIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALESSIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_YSGRAMOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YSGRAMOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YSGRAMOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ATMORAN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ATMORAN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YSGRAMOR</LeaderAbilityIcon>
+			<Portrait>LEADER_YSGRAMOR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_ULFRIC_STORMCLOAK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ULFRIC_STORMCLOAK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_PRETENDER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_PRETENDER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderAbilityIcon>
+			<Portrait>LEADER_ULFRIC_STORMCLOAK_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_RED_BRAMMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RED_BRAMMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RED_BRAMMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TOPAL_BAY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TOPAL_BAY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RED_BRAMMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_RED_BRAMMAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_ESHITA_PELLITINE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHITA_PELLITINE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PAALATIIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PAALATIIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHITA_PELLITINE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_HLAALU_HELSETH</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HLAALU_HELSETH_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HLAALU_HELSETH</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SON_BARENZIAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SON_BARENZIAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HLAALU_HELSETH</LeaderAbilityIcon>
+			<Portrait>LEADER_HLAALU_HELSETH_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_VIVEC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VIVEC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VIVEC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARRIOR_POET_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARRIOR_POET_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VIVEC</LeaderAbilityIcon>
+			<Portrait>LEADER_VIVEC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_SOTHA_SIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SOTHA_SIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SOTHA_SIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_MYSTERY_MORROWIND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_MYSTERY_MORROWIND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SOTHA_SIL</LeaderAbilityIcon>
+			<Portrait>LEADER_SOTHA_SIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_HAYMON_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HAYMON_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_USURPER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_USURPER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_HAYMON_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_RANSER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RANSER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RANSER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_SHORNHELM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_SHORNHELM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RANSER</LeaderAbilityIcon>
+			<Portrait>LEADER_RANSER_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_CASIMIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CASIMIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CASIMIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_DAGGERFALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_DAGGERFALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CASIMIR</LeaderAbilityIcon>
+			<Portrait>LEADER_CASIMIR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MOLAG_BAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MOLAG_BAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MOLAG_BAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GOD_BRUTALITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GOD_BRUTALITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MOLAG_BAL</LeaderAbilityIcon>
+			<Portrait>LEADER_MOLAG_BAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_LALORIARAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LALORIARAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LALORIARAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RULER_DARK_TIMES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RULER_DARK_TIMES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LALORIARAN</LeaderAbilityIcon>
+			<Portrait>LEADER_LALORIARAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TIBER_SEPTIM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TIBER_SEPTIM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TIBER_SEPTIM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GENERAL_TALOS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GENERAL_TALOS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TIBER_SEPTIM</LeaderAbilityIcon>
+			<Portrait>LEADER_TIBER_SEPTIM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_JORUNN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JORUNN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JORUNN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_EBONHEART_PACT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_EBONHEART_PACT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JORUNN</LeaderAbilityIcon>
+			<Portrait>LEADER_JORUNN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ALTMER</CivilizationType>
+			<LeaderType>LEADER_AYRENN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ALTMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ALTMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AYRENN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AYRENN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ALDMER_HERITAGE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ALDMER_HERITAGE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ALTMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_UNFORESEEN_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_UNFORESEEN_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AYRENN</LeaderAbilityIcon>
+			<Portrait>LEADER_AYRENN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_HIST_SPEAKER_ANXILEEL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HIST_SPEAKER_ANXILEEL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HIST_ADVISE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HIST_ADVISE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HIST_SPEAKER_ANXILEEL</LeaderAbilityIcon>
+			<Portrait>LEADER_HIST_SPEAKER_ANXILEEL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_KEIRGO_ANAQUINA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_KEIRGO_ANAQUINA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_NE_QUINAL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_NE_QUINAL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_KEIRGO_ANAQUINA</LeaderAbilityIcon>
+			<Portrait>LEADER_KEIRGO_ANAQUINA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_HAMMERFEL</CivilizationType>
+			<LeaderType>LEADER_FAHARA_JAD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HAMMERFEL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_FAHARA_JAD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_FAHARA_JAD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_REDGUARDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_REDGUARDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HAMMERFEL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DESERT_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DESERT_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_FAHARA_JAD</LeaderAbilityIcon>
+			<Portrait>LEADER_FAHARA_JAD_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_ALMALEXIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALMALEXIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALMALEXIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LADY_OF_MERCY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LADY_OF_MERCY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALMALEXIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALMALEXIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_AERADAN_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AERADAN_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AERADAN_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_AERADAN_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_EMERIC_CUMBERLAND</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EMERIC_CUMBERLAND_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WAYREST_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WAYREST_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EMERIC_CUMBERLAND</LeaderAbilityIcon>
+			<Portrait>LEADER_EMERIC_CUMBERLAND_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ORSINIUM</CivilizationType>
+			<LeaderType>LEADER_GORTWOG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ORSINIUM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GORTWOG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GORTWOG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ORSIMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ORSIMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ORSINIUM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARLORD_OFTHE_ORCS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARLORD_OFTHE_ORCS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GORTWOG</LeaderAbilityIcon>
+			<Portrait>LEADER_GORTWOG_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MEHRUNES_DAGON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MEHRUNES_DAGON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PRINCE_OF_DESTRUCTION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PRINCE_OF_DESTRUCTION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MEHRUNES_DAGON</LeaderAbilityIcon>
+			<Portrait>LEADER_MEHRUNES_DAGON_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_HADHUUL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HADHUUL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HADHUUL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FIRE_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FIRE_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HADHUUL</LeaderAbilityIcon>
+			<Portrait>LEADER_HADHUUL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_DWEMER</CivilizationType>
+			<LeaderType>LEADER_DUMAC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DWEMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DWEMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DUMAC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DUMAC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DEEP_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DEEP_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DWEMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DWARFKING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DWARFKING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DUMAC</LeaderAbilityIcon>
+			<Portrait>LEADER_DUMAC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_TSAESCI</CivilizationType>
+			<LeaderType>LEADER_VERSIDUE_SHAIE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_TSAESCI_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_TSAESCI</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VERSIDUE_SHAIE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VAMPIRIC_SERPENT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_TSAESCI</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SERPENT_MEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SERPENT_MEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VERSIDUE_SHAIE</LeaderAbilityIcon>
+			<Portrait>LEADER_VERSIDUE_SHAIE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KA_POTUN</CivilizationType>
+			<LeaderType>LEADER_TOSH_RAKA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KA_POTUN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TOSH_RAKA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TOSH_RAKA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TIGER_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TIGER_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KA_POTUN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TIGER_DRAGON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TIGER_DRAGON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TOSH_RAKA</LeaderAbilityIcon>
+			<Portrait>LEADER_TOSH_RAKA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KAMAL</CivilizationType>
+			<LeaderType>LEADER_DIRKAMAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KAMAL_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KAMAL</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DIRKAMAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DIRKAMAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SNOW_HELL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SNOW_HELL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KAMAL</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_AMONG_DEMONS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_AMONG_DEMONS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DIRKAMAL</LeaderAbilityIcon>
+			<Portrait>LEADER_DIRKAMAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_PYANDONEA</CivilizationType>
+			<LeaderType>LEADER_ORGANUM</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_PYANDONEA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ORGANUM_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ORGANUM</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TROPICAL_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TROPICAL_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_PYANDONEA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEA_SERPENT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEA_SERPENT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ORGANUM</LeaderAbilityIcon>
+			<Portrait>LEADER_ORGANUM_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_URIEL_SEPTIM_VII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URIEL_SEPTIM_VII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SEPTIM_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SEPTIM_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URIEL_SEPTIM_VII</LeaderAbilityIcon>
+			<Portrait>LEADER_URIEL_SEPTIM_VII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_TITUS_MEDEII</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_TITUS_MEDEII_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_TITUS_MEDEII</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WHITEGOLD_CONCORDAT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WHITEGOLD_CONCORDAT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_TITUS_MEDEII</LeaderAbilityIcon>
+			<Portrait>LEADER_TITUS_MEDEII_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_REMAN_CYRODIIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_REMAN_CYRODIIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_REMAN_DYNASTY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_REMAN_DYNASTY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_REMAN_CYRODIIL</LeaderAbilityIcon>
+			<Portrait>LEADER_REMAN_CYRODIIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_CYRODILIC_EMPIRE</CivilizationType>
+			<LeaderType>LEADER_ALESSIA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_CYRODILIC_EMPIRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ALESSIA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ALESSIA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_TAMRIELIC_EMPIRE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_TAMRIELIC_EMPIRE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_CYRODILIC_EMPIRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SLAVE_QUEEN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SLAVE_QUEEN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ALESSIA</LeaderAbilityIcon>
+			<Portrait>LEADER_ALESSIA_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_YSGRAMOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_YSGRAMOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_YSGRAMOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ATMORAN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ATMORAN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_YSGRAMOR</LeaderAbilityIcon>
+			<Portrait>LEADER_YSGRAMOR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_SKYRIM</CivilizationType>
+			<LeaderType>LEADER_ULFRIC_STORMCLOAK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SKYRIM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SKYRIM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ULFRIC_STORMCLOAK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NORDS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NORDS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SKYRIM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_PRETENDER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_PRETENDER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ULFRIC_STORMCLOAK</LeaderAbilityIcon>
+			<Portrait>LEADER_ULFRIC_STORMCLOAK_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ARGONIANS</CivilizationType>
+			<LeaderType>LEADER_RED_BRAMMAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ARGONIANS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RED_BRAMMAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RED_BRAMMAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SAXHLEEL_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SAXHLEEL_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ARGONIANS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TOPAL_BAY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TOPAL_BAY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RED_BRAMMAN</LeaderAbilityIcon>
+			<Portrait>LEADER_RED_BRAMMAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KHAJIT</CivilizationType>
+			<LeaderType>LEADER_ESHITA_PELLITINE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KHAJIT_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KHAJIT</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ESHITA_PELLITINE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CAT_FOLK_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CAT_FOLK_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KHAJIT</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_PAALATIIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_PAALATIIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ESHITA_PELLITINE</LeaderAbilityIcon>
+			<Portrait>LEADER_ESHITA_PELLITINE_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_HLAALU_HELSETH</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HLAALU_HELSETH_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HLAALU_HELSETH</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SON_BARENZIAH_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SON_BARENZIAH_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HLAALU_HELSETH</LeaderAbilityIcon>
+			<Portrait>LEADER_HLAALU_HELSETH_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_VIVEC</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_VIVEC_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_VIVEC</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_WARRIOR_POET_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_WARRIOR_POET_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_VIVEC</LeaderAbilityIcon>
+			<Portrait>LEADER_VIVEC_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_MORROWIND</CivilizationType>
+			<LeaderType>LEADER_SOTHA_SIL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_MORROWIND_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_MORROWIND</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SOTHA_SIL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SOTHA_SIL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DUNMER_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DUNMER_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_MORROWIND</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_MYSTERY_MORROWIND_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_MYSTERY_MORROWIND_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SOTHA_SIL</LeaderAbilityIcon>
+			<Portrait>LEADER_SOTHA_SIL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_BOSMER</CivilizationType>
+			<LeaderType>LEADER_HAYMON_CAMORAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_BOSMER_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_BOSMER</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HAYMON_CAMORAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_VALENWOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_VALENWOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_BOSMER</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CAMORAN_USURPER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CAMORAN_USURPER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HAYMON_CAMORAN</LeaderAbilityIcon>
+			<Portrait>LEADER_HAYMON_CAMORAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_RANSER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RANSER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RANSER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_SHORNHELM_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_SHORNHELM_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RANSER</LeaderAbilityIcon>
+			<Portrait>LEADER_RANSER_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_HIGHROCK</CivilizationType>
+			<LeaderType>LEADER_CASIMIR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HIGHROCK_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CASIMIR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CASIMIR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_BRETONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_BRETONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HIGHROCK</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_DAGGERFALL_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_DAGGERFALL_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CASIMIR</LeaderAbilityIcon>
+			<Portrait>LEADER_CASIMIR_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_OBLIVION</CivilizationType>
+			<LeaderType>LEADER_MOLAG_BAL</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_OBLIVION_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_OBLIVION</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MOLAG_BAL_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MOLAG_BAL</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_DAEDRA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_DAEDRA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_OBLIVION</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GOD_BRUTALITY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GOD_BRUTALITY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MOLAG_BAL</LeaderAbilityIcon>
+			<Portrait>LEADER_MOLAG_BAL_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_AYLEID</CivilizationType>
+			<LeaderType>LEADER_LALORIARAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AYLEID_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AYLEID</CivilizationIcon>
+			<LeaderName>LOC_LEADER_LALORIARAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_LALORIARAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WILD_ELVES_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WILD_ELVES_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AYLEID</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_RULER_DARK_TIMES_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_RULER_DARK_TIMES_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_LALORIARAN</LeaderAbilityIcon>
+			<Portrait>LEADER_LALORIARAN_NEUTRAL</Portrait>
+			<PortraitBackground>TES_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_HIGHELF_VINDICATOR" Icon="ICON_UNIT_HIGHELF_VINDICATOR" Name="LOC_UNIT_HIGHELF_VINDICATOR_NAME" Description="LOC_UNIT_HIGHELF_VINDICATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_THALMOR_MAGE" Icon="ICON_UNIT_THALMOR_MAGE" Name="LOC_UNIT_THALMOR_MAGE_NAME" Description="LOC_UNIT_THALMOR_MAGE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="UNIT_RA_GADA" Icon="ICON_UNIT_RA_GADA" Name="LOC_UNIT_RA_GADA_NAME" Description="LOC_UNIT_RA_GADA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="BUILDING_REDGUARD_BAZAAR" Icon="ICON_BUILDING_REDGUARD_BAZAAR" Name="LOC_BUILDING_REDGUARD_BAZAAR_NAME" Description="LOC_BUILDING_REDGUARD_BAZAAR_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="UNIT_BATTLERAGE_ORC" Icon="ICON_UNIT_BATTLERAGE_ORC" Name="LOC_UNIT_BATTLERAGE_ORC_NAME" Description="LOC_UNIT_BATTLERAGE_ORC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="IMPROVEMENT_ORC_STRONGHOLD" Icon="ICON_IMPROVEMENT_ORC_STRONGHOLD" Name="LOC_IMPROVEMENT_ORC_STRONGHOLD_NAME" Description="LOC_IMPROVEMENT_ORC_STRONGHOLD_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="IMPROVEMENT_DARK_ANCHORS" Icon="ICON_IMPROVEMENT_DARK_ANCHORS" Name="LOC_IMPROVEMENT_DARK_ANCHORS_NAME" Description="LOC_IMPROVEMENT_DARK_ANCHORS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="IMPROVEMENT_OBLIVION_GATE" Icon="ICON_IMPROVEMENT_OBLIVION_GATE" Name="LOC_IMPROVEMENT_OBLIVION_GATE_NAME" Description="LOC_IMPROVEMENT_OBLIVION_GATE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPIDER" Icon="ICON_UNIT_DWARVEN_SPIDER" Name="LOC_UNIT_DWARVEN_SPIDER_NAME" Description="LOC_UNIT_DWARVEN_SPIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPHERE" Icon="ICON_UNIT_DWARVEN_SPHERE" Name="LOC_UNIT_DWARVEN_SPHERE_NAME" Description="LOC_UNIT_DWARVEN_SPHERE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_CENTURION" Icon="ICON_UNIT_DWARVEN_CENTURION" Name="LOC_UNIT_DWARVEN_CENTURION_NAME" Description="LOC_UNIT_DWARVEN_CENTURION_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="IMPROVEMENT_DWEMER_TOWER" Icon="ICON_IMPROVEMENT_DWEMER_TOWER" Name="LOC_IMPROVEMENT_DWEMER_TOWER_NAME" Description="LOC_IMPROVEMENT_DWEMER_TOWER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_GOBLIN_SLAVE" Icon="ICON_UNIT_GOBLIN_SLAVE" Name="LOC_UNIT_GOBLIN_SLAVE_NAME" Description="LOC_UNIT_GOBLIN_SLAVE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_DAIKATANA_SOLDIER" Icon="ICON_UNIT_DAIKATANA_SOLDIER" Name="LOC_UNIT_DAIKATANA_SOLDIER_NAME" Description="LOC_UNIT_DAIKATANA_SOLDIER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KA_POTUN" LeaderType="LEADER_TOSH_RAKA" Type="BUILDING_DRAGON_TEMPLE" Icon="ICON_BUILDING_DRAGON_TEMPLE" Name="LOC_BUILDING_DRAGON_TEMPLE_NAME" Description="LOC_BUILDING_DRAGON_TEMPLE_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KAMAL" LeaderType="LEADER_DIRKAMAL" Type="UNIT_SNOW_DEMON" Icon="ICON_UNIT_SNOW_DEMON" Name="LOC_UNIT_SNOW_DEMON_NAME" Description="LOC_UNIT_SNOW_DEMON_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_PYANDONEA" LeaderType="LEADER_ORGANUM" Type="UNIT_SEA_SERPENTS" Icon="ICON_UNIT_SEA_SERPENTS" Name="LOC_UNIT_SEA_SERPENTS_NAME" Description="LOC_UNIT_SEA_SERPENTS_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_HIGHELF_VINDICATOR" Icon="ICON_UNIT_HIGHELF_VINDICATOR" Name="LOC_UNIT_HIGHELF_VINDICATOR_NAME" Description="LOC_UNIT_HIGHELF_VINDICATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_THALMOR_MAGE" Icon="ICON_UNIT_THALMOR_MAGE" Name="LOC_UNIT_THALMOR_MAGE_NAME" Description="LOC_UNIT_THALMOR_MAGE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="UNIT_RA_GADA" Icon="ICON_UNIT_RA_GADA" Name="LOC_UNIT_RA_GADA_NAME" Description="LOC_UNIT_RA_GADA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="BUILDING_REDGUARD_BAZAAR" Icon="ICON_BUILDING_REDGUARD_BAZAAR" Name="LOC_BUILDING_REDGUARD_BAZAAR_NAME" Description="LOC_BUILDING_REDGUARD_BAZAAR_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="UNIT_BATTLERAGE_ORC" Icon="ICON_UNIT_BATTLERAGE_ORC" Name="LOC_UNIT_BATTLERAGE_ORC_NAME" Description="LOC_UNIT_BATTLERAGE_ORC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="IMPROVEMENT_ORC_STRONGHOLD" Icon="ICON_IMPROVEMENT_ORC_STRONGHOLD" Name="LOC_IMPROVEMENT_ORC_STRONGHOLD_NAME" Description="LOC_IMPROVEMENT_ORC_STRONGHOLD_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="IMPROVEMENT_DARK_ANCHORS" Icon="ICON_IMPROVEMENT_DARK_ANCHORS" Name="LOC_IMPROVEMENT_DARK_ANCHORS_NAME" Description="LOC_IMPROVEMENT_DARK_ANCHORS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="IMPROVEMENT_OBLIVION_GATE" Icon="ICON_IMPROVEMENT_OBLIVION_GATE" Name="LOC_IMPROVEMENT_OBLIVION_GATE_NAME" Description="LOC_IMPROVEMENT_OBLIVION_GATE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPIDER" Icon="ICON_UNIT_DWARVEN_SPIDER" Name="LOC_UNIT_DWARVEN_SPIDER_NAME" Description="LOC_UNIT_DWARVEN_SPIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPHERE" Icon="ICON_UNIT_DWARVEN_SPHERE" Name="LOC_UNIT_DWARVEN_SPHERE_NAME" Description="LOC_UNIT_DWARVEN_SPHERE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_CENTURION" Icon="ICON_UNIT_DWARVEN_CENTURION" Name="LOC_UNIT_DWARVEN_CENTURION_NAME" Description="LOC_UNIT_DWARVEN_CENTURION_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="IMPROVEMENT_DWEMER_TOWER" Icon="ICON_IMPROVEMENT_DWEMER_TOWER" Name="LOC_IMPROVEMENT_DWEMER_TOWER_NAME" Description="LOC_IMPROVEMENT_DWEMER_TOWER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_GOBLIN_SLAVE" Icon="ICON_UNIT_GOBLIN_SLAVE" Name="LOC_UNIT_GOBLIN_SLAVE_NAME" Description="LOC_UNIT_GOBLIN_SLAVE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_DAIKATANA_SOLDIER" Icon="ICON_UNIT_DAIKATANA_SOLDIER" Name="LOC_UNIT_DAIKATANA_SOLDIER_NAME" Description="LOC_UNIT_DAIKATANA_SOLDIER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KA_POTUN" LeaderType="LEADER_TOSH_RAKA" Type="BUILDING_DRAGON_TEMPLE" Icon="ICON_BUILDING_DRAGON_TEMPLE" Name="LOC_BUILDING_DRAGON_TEMPLE_NAME" Description="LOC_BUILDING_DRAGON_TEMPLE_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KAMAL" LeaderType="LEADER_DIRKAMAL" Type="UNIT_SNOW_DEMON" Icon="ICON_UNIT_SNOW_DEMON" Name="LOC_UNIT_SNOW_DEMON_NAME" Description="LOC_UNIT_SNOW_DEMON_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_PYANDONEA" LeaderType="LEADER_ORGANUM" Type="UNIT_SEA_SERPENTS" Icon="ICON_UNIT_SEA_SERPENTS" Name="LOC_UNIT_SEA_SERPENTS_NAME" Description="LOC_UNIT_SEA_SERPENTS_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="UNIT_IMPERIAL_LEGIONNAIRE" Icon="ICON_UNIT_IMPERIAL_LEGIONNAIRE" Name="LOC_UNIT_IMPERIAL_LEGIONNAIRE_NAME" Description="LOC_UNIT_IMPERIAL_LEGIONNAIRE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TIBER_SEPTIM" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_URIEL_SEPTIM_VII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_TITUS_MEDEII" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_REMAN_CYRODIIL" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE" LeaderType="LEADER_ALESSIA" Type="IMPROVEMENT_IMPERIAL_FORT" Icon="ICON_IMPROVEMENT_IMPERIAL_FORT" Name="LOC_IMPROVEMENT_IMPERIAL_FORT_NAME" Description="LOC_IMPROVEMENT_IMPERIAL_FORT_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="UNIT_STORMCLOAK" Icon="ICON_UNIT_STORMCLOAK" Name="LOC_UNIT_STORMCLOAK_NAME" Description="LOC_UNIT_STORMCLOAK_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="BUILDING_HALL_OFTHE_DEAD" Icon="ICON_BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_JORUNN" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_YSGRAMOR" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_SKYRIM" LeaderType="LEADER_ULFRIC_STORMCLOAK" Type="IMPROVEMENT_WORD_WALL" Icon="ICON_IMPROVEMENT_WORD_WALL" Name="LOC_IMPROVEMENT_WORD_WALL_NAME" Description="LOC_IMPROVEMENT_WORD_WALL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_HIGHELF_VINDICATOR" Icon="ICON_UNIT_HIGHELF_VINDICATOR" Name="LOC_UNIT_HIGHELF_VINDICATOR_NAME" Description="LOC_UNIT_HIGHELF_VINDICATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ALTMER" LeaderType="LEADER_AYRENN" Type="UNIT_THALMOR_MAGE" Icon="ICON_UNIT_THALMOR_MAGE" Name="LOC_UNIT_THALMOR_MAGE_NAME" Description="LOC_UNIT_THALMOR_MAGE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_ARCHEIN_VENOMTONGUE" Icon="ICON_UNIT_ARCHEIN_VENOMTONGUE" Name="LOC_UNIT_ARCHEIN_VENOMTONGUE_NAME" Description="LOC_UNIT_ARCHEIN_VENOMTONGUE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="UNIT_SHELLBACKS" Icon="ICON_UNIT_SHELLBACKS" Name="LOC_UNIT_SHELLBACKS_NAME" Description="LOC_UNIT_SHELLBACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="DISTRICT_HIST_GROVE" Icon="ICON_DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ARGONIANS" LeaderType="LEADER_RED_BRAMMAN" Type="IMPROVEMENT_XANMEER" Icon="ICON_IMPROVEMENT_XANMEER" Name="LOC_IMPROVEMENT_XANMEER_NAME" Description="LOC_IMPROVEMENT_XANMEER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="UNIT_PROTECTOR_MANE" Icon="ICON_UNIT_PROTECTOR_MANE" Name="LOC_UNIT_PROTECTOR_MANE_NAME" Description="LOC_UNIT_PROTECTOR_MANE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_KEIRGO_ANAQUINA" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KHAJIT" LeaderType="LEADER_ESHITA_PELLITINE" Type="BUILDING_SKOOMA_FACTORY" Icon="ICON_BUILDING_SKOOMA_FACTORY_MANE" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="UNIT_RA_GADA" Icon="ICON_UNIT_RA_GADA" Name="LOC_UNIT_RA_GADA_NAME" Description="LOC_UNIT_RA_GADA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HAMMERFEL" LeaderType="LEADER_FAHARA_JAD" Type="BUILDING_REDGUARD_BAZAAR" Icon="ICON_BUILDING_REDGUARD_BAZAAR" Name="LOC_BUILDING_REDGUARD_BAZAAR_NAME" Description="LOC_BUILDING_REDGUARD_BAZAAR_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_ORDINATOR" Icon="ICON_UNIT_ORDINATOR" Name="LOC_UNIT_ORDINATOR_NAME" Description="LOC_UNIT_ORDINATOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="UNIT_DARK_ARCHMAGE" Icon="ICON_UNIT_DARK_ARCHMAGE" Name="LOC_UNIT_DARK_ARCHMAGE_NAME" Description="LOC_UNIT_DARK_ARCHMAGE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_MUSHROOM_TOWER" Icon="ICON_IMPROVEMENT_MUSHROOM_TOWER" Name="LOC_IMPROVEMENT_MUSHROOM_TOWER_NAME" Description="LOC_IMPROVEMENT_MUSHROOM_TOWER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_ALMALEXIA" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_HLAALU_HELSETH" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_VIVEC" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_MORROWIND" LeaderType="LEADER_SOTHA_SIL" Type="IMPROVEMENT_ASHLANDER_CAMP" Icon="ICON_IMPROVEMENT_ASHLANDER_CAMP" Name="LOC_IMPROVEMENT_ASHLANDER_CAMP_NAME" Description="LOC_IMPROVEMENT_ASHLANDER_CAMP_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_AMBUSHER" Icon="ICON_UNIT_AMBUSHER" Name="LOC_UNIT_AMBUSHER_NAME" Description="LOC_UNIT_AMBUSHER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="UNIT_LEAFLURKER" Icon="ICON_UNIT_LEAFLURKER" Name="LOC_UNIT_LEAFLURKER_NAME" Description="LOC_UNIT_LEAFLURKER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_AERADAN_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_BOSMER" LeaderType="LEADER_HAYMON_CAMORAN" Type="DISTRICT_GRAHT_OAK" Icon="ICON_DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_LION_GUARD" Icon="ICON_UNIT_LION_GUARD" Name="LOC_UNIT_LION_GUARD_NAME" Description="LOC_UNIT_LION_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="UNIT_BRETON_CONJURER" Icon="ICON_UNIT_BRETON_CONJURER" Name="LOC_UNIT_BRETON_CONJURER_NAME" Description="LOC_UNIT_BRETON_CONJURER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_EMERIC_CUMBERLAND" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_RANSER" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_HIGHROCK" LeaderType="LEADER_CASIMIR" Type="BUILDING_MAGES_GUILDHALL" Icon="ICON_BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="UNIT_BATTLERAGE_ORC" Icon="ICON_UNIT_BATTLERAGE_ORC" Name="LOC_UNIT_BATTLERAGE_ORC_NAME" Description="LOC_UNIT_BATTLERAGE_ORC_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ORSINIUM" LeaderType="LEADER_GORTWOG" Type="IMPROVEMENT_ORC_STRONGHOLD" Icon="ICON_IMPROVEMENT_ORC_STRONGHOLD" Name="LOC_IMPROVEMENT_ORC_STRONGHOLD_NAME" Description="LOC_IMPROVEMENT_ORC_STRONGHOLD_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DREMORA" Icon="ICON_UNIT_DREMORA" Name="LOC_UNIT_DREMORA_NAME" Description="LOC_UNIT_DREMORA_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_FLAME_ATRONACH" Icon="ICON_UNIT_FLAME_ATRONACH" Name="LOC_UNIT_FLAME_ATRONACH_NAME" Description="LOC_UNIT_FLAME_ATRONACH_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_SCAMP" Icon="ICON_UNIT_SCAMP" Name="LOC_UNIT_SCAMP_NAME" Description="LOC_UNIT_SCAMP_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="UNIT_DAEDROTH" Icon="ICON_UNIT_DAEDROTH" Name="LOC_UNIT_DAEDROTH_NAME" Description="LOC_UNIT_DAEDROTH_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MOLAG_BAL" Type="IMPROVEMENT_DARK_ANCHORS" Icon="ICON_IMPROVEMENT_DARK_ANCHORS" Name="LOC_IMPROVEMENT_DARK_ANCHORS_NAME" Description="LOC_IMPROVEMENT_DARK_ANCHORS_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_OBLIVION" LeaderType="LEADER_MEHRUNES_DAGON" Type="IMPROVEMENT_OBLIVION_GATE" Icon="ICON_IMPROVEMENT_OBLIVION_GATE" Name="LOC_IMPROVEMENT_OBLIVION_GATE_NAME" Description="LOC_IMPROVEMENT_OBLIVION_GATE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="UNIT_AURORAN" Icon="ICON_UNIT_AURORAN" Name="LOC_UNIT_AURORAN_NAME" Description="LOC_UNIT_AURORAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_HADHUUL" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_AYLEID" LeaderType="LEADER_LALORIARAN" Type="IMPROVEMENT_AYLEID_WELL" Icon="ICON_IMPROVEMENT_AYLEID_WELL" Name="LOC_IMPROVEMENT_AYLEID_WELL_NAME" Description="LOC_IMPROVEMENT_AYLEID_WELL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPIDER" Icon="ICON_UNIT_DWARVEN_SPIDER" Name="LOC_UNIT_DWARVEN_SPIDER_NAME" Description="LOC_UNIT_DWARVEN_SPIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_SPHERE" Icon="ICON_UNIT_DWARVEN_SPHERE" Name="LOC_UNIT_DWARVEN_SPHERE_NAME" Description="LOC_UNIT_DWARVEN_SPHERE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="UNIT_DWARVEN_CENTURION" Icon="ICON_UNIT_DWARVEN_CENTURION" Name="LOC_UNIT_DWARVEN_CENTURION_NAME" Description="LOC_UNIT_DWARVEN_CENTURION_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DWEMER" LeaderType="LEADER_DUMAC" Type="IMPROVEMENT_DWEMER_TOWER" Icon="ICON_IMPROVEMENT_DWEMER_TOWER" Name="LOC_IMPROVEMENT_DWEMER_TOWER_NAME" Description="LOC_IMPROVEMENT_DWEMER_TOWER_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_GOBLIN_SLAVE" Icon="ICON_UNIT_GOBLIN_SLAVE" Name="LOC_UNIT_GOBLIN_SLAVE_NAME" Description="LOC_UNIT_GOBLIN_SLAVE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_TSAESCI" LeaderType="LEADER_VERSIDUE_SHAIE" Type="UNIT_DAIKATANA_SOLDIER" Icon="ICON_UNIT_DAIKATANA_SOLDIER" Name="LOC_UNIT_DAIKATANA_SOLDIER_NAME" Description="LOC_UNIT_DAIKATANA_SOLDIER_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KA_POTUN" LeaderType="LEADER_TOSH_RAKA" Type="BUILDING_DRAGON_TEMPLE" Icon="ICON_BUILDING_DRAGON_TEMPLE" Name="LOC_BUILDING_DRAGON_TEMPLE_NAME" Description="LOC_BUILDING_DRAGON_TEMPLE_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KAMAL" LeaderType="LEADER_DIRKAMAL" Type="UNIT_SNOW_DEMON" Icon="ICON_UNIT_SNOW_DEMON" Name="LOC_UNIT_SNOW_DEMON_NAME" Description="LOC_UNIT_SNOW_DEMON_DESCRIPTION" SortIndex="10"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_PYANDONEA" LeaderType="LEADER_ORGANUM" Type="UNIT_SEA_SERPENTS" Icon="ICON_UNIT_SEA_SERPENTS" Name="LOC_UNIT_SEA_SERPENTS_NAME" Description="LOC_UNIT_SEA_SERPENTS_DESCRIPTION" SortIndex="10"/>
+
+	</PlayerItems>
+</GameData>

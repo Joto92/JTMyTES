@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Types>
+		<Row Type="BUILDING_HALL_OFTHE_DEAD" Kind="KIND_BUILDING" />
+		<Row Type="BUILDING_SKOOMA_FACTORY" Kind="KIND_BUILDING" />
+		<Row Type="BUILDING_REDGUARD_BAZAAR" Kind="KIND_BUILDING" />
+		<Row Type="BUILDING_MAGES_GUILDHALL" Kind="KIND_BUILDING" />
+		<Row Type="BUILDING_DRAGON_TEMPLE" Kind="KIND_BUILDING" />
+
+		<Row Type="DISTRICT_HIST_GROVE" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_GRAHT_OAK" Kind="KIND_DISTRICT"/>
+
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_REDGUARD_BAZAAR" ReplacesBuildingType="BUILDING_MARKET"/>
+		<Row CivUniqueBuildingType="BUILDING_MAGES_GUILDHALL" ReplacesBuildingType="BUILDING_LIBRARY"/>
+		<Row CivUniqueBuildingType="BUILDING_DRAGON_TEMPLE" ReplacesBuildingType="BUILDING_TEMPLE"/>
+
+	</BuildingReplaces>
+	
+	<Buildings>
+		<Row BuildingType="BUILDING_HALL_OFTHE_DEAD" Name="LOC_BUILDING_HALL_OFTHE_DEAD_NAME" Description="LOC_BUILDING_HALL_OFTHE_DEAD_DESCRIPTION" PrereqTech="TECH_MASONRY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="75" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="1" TraitType="TRAIT_CIVILIZATION_BUILDING_HALL_OFTHE_DEAD"/>
+		<Row BuildingType="BUILDING_SKOOMA_FACTORY" Name="LOC_BUILDING_SKOOMA_FACTORY_NAME" Description="LOC_BUILDING_SKOOMA_FACTORY_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="135" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_SKOOMA_FACTORY"/>
+		<Row BuildingType="BUILDING_REDGUARD_BAZAAR" Name="LOC_BUILDING_REDGUARD_BAZAAR_NAME" Description="LOC_BUILDING_REDGUARD_BAZAAR_DESCRIPTION" PrereqTech="TECH_CURRENCY" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_REDGUARD_BAZAAR"/>
+		<Row BuildingType="BUILDING_MAGES_GUILDHALL" Name="LOC_BUILDING_MAGES_GUILDHALL_NAME" Description="LOC_BUILDING_MAGES_GUILDHALL_DESCRIPTION" PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" Cost="100" Maintenance="1" Housing="1" AdvisorType="ADVISOR_TECHNOLOGY" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_MAGES_GUILDHALL"/>
+		<Row BuildingType="BUILDING_DRAGON_TEMPLE" Name="LOC_BUILDING_DRAGON_TEMPLE_NAME" Description="LOC_BUILDING_DRAGON_TEMPLE_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1" Housing="1" TraitType="TRAIT_CIVILIZATION_BUILDING_DRAGON_TEMPLE"/>
+
+	</Buildings>
+
+	<BuildingPrereqs>
+		<Row Building="BUILDING_HALL_OFTHE_DEAD" PrereqBuilding="BUILDING_SHRINE"/>
+		<Row Building="BUILDING_SKOOMA_FACTORY" PrereqBuilding="BUILDING_MARKET"/>
+		<Row Building="BUILDING_DRAGON_TEMPLE" PrereqBuilding="BUILDING_SHRINE"/>
+
+	</BuildingPrereqs>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_HALL_OFTHE_DEAD" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_SKOOMA_FACTORY" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_REDGUARD_BAZAAR" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_MAGES_GUILDHALL" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_DRAGON_TEMPLE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_DRAGON_TEMPLE" GreatPersonClassType="GREAT_PERSON_CLASS_GENERAL" PointsPerTurn="1"/>
+
+
+	</Building_GreatPersonPoints>
+
+	<Building_GreatWorks>
+		<Row BuildingType="BUILDING_HALL_OFTHE_DEAD" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="2"/>
+	</Building_GreatWorks>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_HALL_OFTHE_DEAD" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_HALL_OFTHE_DEAD" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row BuildingType="BUILDING_SKOOMA_FACTORY" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_SKOOMA_FACTORY" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_REDGUARD_BAZAAR" YieldType="YIELD_GOLD" YieldChange="3"/>
+		<Row BuildingType="BUILDING_REDGUARD_BAZAAR" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_MAGES_GUILDHALL" YieldType="YIELD_SCIENCE" YieldChange="3"/>
+		<Row BuildingType="BUILDING_DRAGON_TEMPLE" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_DRAGON_TEMPLE" YieldType="YIELD_CULTURE" YieldChange="2"/>
+	</Building_YieldChanges>
+
+	<DistrictReplaces>
+		<Row CivUniqueDistrictType="DISTRICT_HIST_GROVE" ReplacesDistrictType="DISTRICT_HOLY_SITE"/>
+		<Row CivUniqueDistrictType="DISTRICT_GRAHT_OAK" ReplacesDistrictType="DISTRICT_NEIGHBORHOOD"/>
+
+	</DistrictReplaces>
+
+	<Districts>
+		<Row DistrictType="DISTRICT_HIST_GROVE" Name="LOC_DISTRICT_HIST_GROVE_NAME" Description="LOC_DISTRICT_HIST_GROVE_DESCRIPTION" PrereqTech="TECH_ASTROLOGY" PlunderType="PLUNDER_FAITH" PlunderAmount="25" AdvisorType="ADVISOR_RELIGIOUS" Cost="30" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="25" Maintenance="1" RequiresPlacement="true" RequiresPopulation="false" AllowsHolyCity="true" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Appeal="1" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_DISTRICT_HIST_GROVE"/>
+		<Row DistrictType="DISTRICT_GRAHT_OAK" Name="LOC_DISTRICT_GRAHT_OAK_NAME" Description="LOC_DISTRICT_GRAHT_OAK_DESCRIPTION" PrereqCivic="CIVIC_GUILDS" PlunderType="PLUNDER_GOLD" PlunderAmount="50" AdvisorType="ADVISOR_GENERIC" Cost="30" CostProgressionModel="COST_PROGRESSION_GAME_PROGRESS" CostProgressionParam1="1000" RequiresPlacement="true" RequiresPopulation="false" OnePerCity="false" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="true" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Housing="5" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_DISTRICT_GRAHT_OAK"/>
+
+	</Districts>
+
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="NaturalWonder_Faith"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="Mountain_Faith1"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="Mountain_Faith2"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="Mountain_Faith3"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="Mountain_Faith4"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="Mountain_Faith5"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="District_Faith"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldChangeId="MyTES_Forest_Faith"/>
+	</District_Adjacencies>
+
+	<District_RequiredFeatures>
+		<Row DistrictType="DISTRICT_GRAHT_OAK" FeatureType="FEATURE_JUNGLE"/>
+		<Row DistrictType="DISTRICT_GRAHT_OAK" FeatureType="FEATURE_FOREST"/>
+	</District_RequiredFeatures>
+	
+	<District_GreatPersonPoints>
+		<Row DistrictType="DISTRICT_HIST_GROVE" GreatPersonClassType="GREAT_PERSON_CLASS_PROPHET" PointsPerTurn="2"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="2"/>
+	</District_GreatPersonPoints>
+
+	<District_TradeRouteYields>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldType="YIELD_FOOD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldType="YIELD_FAITH" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="1"/>
+	</District_TradeRouteYields>
+
+	<District_CitizenYieldChanges>
+		<Row DistrictType="DISTRICT_HIST_GROVE" YieldType="YIELD_FAITH" YieldChange="2"/>
+	</District_CitizenYieldChanges>
+
+	<Adjacency_YieldChanges>
+		<Row ID="MyTES_Forest_Faith" Description="LOC_DISTRICT_FOREST_FAITH" YieldType="YIELD_FAITH" YieldChange="2" TilesRequired="2" AdjacentFeature="FEATURE_FOREST"/>
+	</Adjacency_YieldChanges>
+
+	<DistrictModifiers>
+		<Row>
+			<DistrictType>DISTRICT_GRAHT_OAK</DistrictType>
+			<ModifierId>MBANZA_FOOD</ModifierId>
+		</Row>
+		<Row>
+			<DistrictType>DISTRICT_GRAHT_OAK</DistrictType>
+			<ModifierId>MBANZA_GOLD</ModifierId>
+		</Row>
+	</DistrictModifiers>
+</GameData>

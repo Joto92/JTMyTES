@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>415</build>
+		<revision>990</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="TES_LOADING_BACKGROUND"/>
+			<m_ObjectName text="TES_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TIBER_SEPTIM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TIBER_SEPTIM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TIBER_SEPTIM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TIBER_SEPTIM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JORUNN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JORUNN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JORUNN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_JORUNN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AYRENN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AYRENN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AYRENN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AYRENN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HIST_SPEAKER_ANXILEEL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HIST_SPEAKER_ANXILEEL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HIST_SPEAKER_ANXILEEL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HIST_SPEAKER_ANXILEEL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KEIRGO_ANAQUINA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_KEIRGO_ANAQUINA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_KEIRGO_ANAQUINA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_KEIRGO_ANAQUINA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FAHARA_JAD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FAHARA_JAD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FAHARA_JAD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FAHARA_JAD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ALMALEXIA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ALMALEXIA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ALMALEXIA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ALMALEXIA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AERADAN_CAMORAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AERADAN_CAMORAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AERADAN_CAMORAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AERADAN_CAMORAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EMERIC_CUMBERLAND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_EMERIC_CUMBERLAND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EMERIC_CUMBERLAND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_EMERIC_CUMBERLAND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GORTWOG_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GORTWOG_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GORTWOG_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GORTWOG_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MEHRUNES_DAGON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MEHRUNES_DAGON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MEHRUNES_DAGON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MEHRUNES_DAGON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HADHUUL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HADHUUL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HADHUUL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HADHUUL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DUMAC_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DUMAC_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DUMAC_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DUMAC_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VERSIDUE_SHAIE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VERSIDUE_SHAIE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VERSIDUE_SHAIE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VERSIDUE_SHAIE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TOSH_RAKA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TOSH_RAKA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TOSH_RAKA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_TOSH_RAKA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIRKAMAL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DIRKAMAL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIRKAMAL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DIRKAMAL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORGANUM_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ORGANUM_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ORGANUM_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ORGANUM_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_URIEL_SEPTIM_VII_NEUTRAL"/>
+			<m_ObjectName text="LEADER_URIEL_SEPTIM_VII_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_TITUS_MEDEII_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TITUS_MEDEII_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_REMAN_CYRODIIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_REMAN_CYRODIIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ALESSIA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ALESSIA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_YSGRAMOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_YSGRAMOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_YSGRAMOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_YSGRAMOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ULFRIC_STORMCLOAK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ULFRIC_STORMCLOAK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RED_BRAMMAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RED_BRAMMAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RED_BRAMMAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RED_BRAMMAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESHITA_PELLITINE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ESHITA_PELLITINE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESHITA_PELLITINE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ESHITA_PELLITINE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HLAALU_HELSETH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HLAALU_HELSETH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VIVEC_NEUTRAL"/>
+			<m_ObjectName text="LEADER_VIVEC_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_VIVEC_BACKGROUND"/>
+			<m_ObjectName text="LEADER_VIVEC_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SOTHA_SIL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SOTHA_SIL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SOTHA_SIL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_SOTHA_SIL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HAYMON_CAMORAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HAYMON_CAMORAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HAYMON_CAMORAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HAYMON_CAMORAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RANSER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RANSER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RANSER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RANSER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CASIMIR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CASIMIR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CASIMIR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CASIMIR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MOLAG_BAL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MOLAG_BAL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MOLAG_BAL_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MOLAG_BAL_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LALORIARAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LALORIARAN_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

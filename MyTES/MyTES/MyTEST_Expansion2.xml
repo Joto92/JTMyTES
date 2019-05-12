@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitReplaces>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_DWARVEN_SPIDER"/></Update>
+	</UnitReplaces>
+
+	<Units>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DWARVEN_SPIDER</UnitType>
+			</Where>
+		</Update>
+	</Units>
+	<UnitUpgrades>
+		<Update><Where Unit="UNIT_DWARVEN_SPIDER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+	</UnitUpgrades>
+
+	<Units_XP2>
+		<Row UnitType="UNIT_IMPERIAL_LEGIONNAIRE" ResourceCost="20"/>
+		<Row UnitType="UNIT_STORMCLOAK" ResourceCost="20"/>
+		<Row UnitType="UNIT_HIGHELF_VINDICATOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_ARCHEIN_VENOMTONGUE" ResourceCost="20"/>
+		<Row UnitType="UNIT_PROTECTOR_MANE" ResourceCost="20"/>
+		<Row UnitType="UNIT_RA_GADA" ResourceCost="20"/>
+		<Row UnitType="UNIT_ORDINATOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_LEAFLURKER" ResourceCost="20"/>
+		<Row UnitType="UNIT_LION_GUARD" ResourceCost="20"/>
+		<Row UnitType="UNIT_BATTLERAGE_ORC" ResourceCost="20"/>
+		<Row UnitType="UNIT_DREMORA" ResourceCost="20"/>
+		<Row UnitType="UNIT_AURORAN" ResourceCost="20"/>
+		<Row UnitType="UNIT_DWARVEN_SPHERE" ResourceCost="20"/>
+		<Row UnitType="UNIT_DWARVEN_CENTURION" ResourceCost="20"/>
+		<Row UnitType="UNIT_DAIKATANA_SOLDIER" ResourceCost="20"/>
+		<Row UnitType="UNIT_SNOW_DEMON" ResourceCost="20"/>
+	</Units_XP2>
+
+	<Traits>
+		<Update>
+			<Set Description="LOC_TRAIT_NORDS_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_NORDS"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_ORSIMER_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_ORSIMER"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_DEEP_ELVES_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_DEEP_ELVES"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_SNOW_HELL_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_SNOW_HELL"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_GOD_BRUTALITY_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_LEADER_GOD_BRUTALITY"/>
+		</Update>
+		<Update>
+			<Set Description="LOC_TRAIT_REDGUARDS_EXPANSION2_DESCRIPTION"/>
+			<Where TraitType="TRAIT_CIVILIZATION_REDGUARDS"/>
+		</Update>
+	</Traits>
+	<TraitModifiers>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_NORDS</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_NORDS</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ORSIMER</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_ORSIMER</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_DEEP_ELVES</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_DEEP_ELVES</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SNOW_HELL</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SNOW_HELL</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SNOW_HELL</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_SNOW_HELL</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GOD_BRUTALITY</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GOD_BRUTALITY</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_PREVENTION_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GOD_BRUTALITY</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_SIGNIFICANT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LEADER_GOD_BRUTALITY</TraitType>
+			<ModifierId>TRAIT_BLIZZARD_DOUBLE_DAMAGE_CRIPPLING</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_REDGUARDS</TraitType>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_CIVILIZATION_REDGUARDS</TraitType>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+		</Row>
+	</TraitModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_RANDOM_EVENT_NO_UNIT_DAMAGE</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_GRADIENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_GRADIENT</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>RandomEventType</Name>
+			<Value>RANDOM_EVENT_DUST_STORM_HABOOB</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTES_PREVENTION_DUST_STORM_HABOOB</ModifierId>
+			<Name>NoDamage</Name>
+			<Value>true</Value>
+		</Row>
+	</ModifierArguments>
+	
+	<!-- 
+	Rivers:###########################
+	Skyrim: The White River, Yorgrim River, Darkwater River, Treva River, Karth River, Hjaal River
+		Iggnir River, Harstrad River, Isild River, Chase River
+	Morrowind: Thir River, Nabia River, Odai River, River Samsi, Pryai River
+	Highrock: Bjoulsae River
+	Hammerfell: Bjoulsae River, Irk River, Tark River
+	Cydoriil: Niben River, White Rose River, Reed River, Corbolo River, Silverfish River, Larsius River, Brena River, Panther River, Strid River
+	Elsweyr: Larsius River, Crescent River
+	Valenwood: Xylo River, Crescent River,  Strid River
+	Summerset: Diceto River, Cloer River
+	Black Marsh: Keel-Sakka River, Onkobra River
+	Taesci: Meratsies River, Topara River
+	Kamal: Golishar River
+	Kapotun: Kan So River
+	-->
+</GameData>
