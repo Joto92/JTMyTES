@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIBER_SEPTIM_QUOTE"  Language="en_US">
+			<Text>Tiber Septim brought peace to Tamriel in 2E 896, by conquering all of the known world. Thus began the Third Era.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JORUNN_SEPTIM_QUOTE"  Language="en_US">
+			<Text>After dear Nurnhilde fell in battle, my brother and I threw back the invaders. Afterward, we disagreed on who should succeed our sister. I believed in diplomacy and wisdom. Fildgor believed in rule by force. I couldn't let him take the throne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYRENN_QUOTE"  Language="en_US">
+			<Text>It was foretold that Princess Ayrenn would reflect the restless and turbulent times in which she was born, and so it came to pass. Nimble and quick-witted, she was quick to master the lessons of her tutors, and from an early age often adopted unorthodox approaches to schoolwork. - Headmaster Tanion</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIST_SPEAKER_ANXILEEL_QUOTE"  Language="en_US">
+			<Text>The Hist gave his people life, form, purpose. It was the Hist who had seen through the shadows to the Oblivion crisis, who called all of the people back to the marsh, defeated the forces of Mehrunes Dagon, drove the Empire into the sea, and laid waste to their ancient enemies in Morrowind.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FAHARA_JAD_QUOTE"  Language="en_US">
+			<Text>All merchant ships and their crews loyal to the Daggerfall Covenant are hereby placed under the mighty protection of King Fahara'jad, and any who sets upon such a ship with the intent of plunder shall be hunted and brought to swift, uncompromising justice.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALMALEXIA_QUOTE"  Language="en_US">
+			<Text>We should preserve these tools in trust for the welfare of the Chimer people. And, who knows, perhaps the Dwemer are not gone forever, but merely transported to some distant realm, from which they may someday return to threaten our security once again. Therefore, we need to keep these tools, to study them and their principles, so that we may be safe in future generations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EMERIC_CUMBERLAND_QUOTE"  Language="en_US">
+			<Text>King Emeric of Cumberland can be rightly described as the pinnacle of Breton achievement. His youth wasn’t misspent idling in a palace and abusing his servants; he learned his father’s trading business, counterbalanced by a regiment of sparring with the Menevia Heavy Dragoons. The canny Emeric used this new wealth wisely, and when the horrific plague of Knahaten Flu slew the entire royal household of the Gardeners, Emeric was the natural choice to assume the throne. The Cumberland dynasty was born. - Anonymous</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MEHRUNES_DAGON_QUOTE"  Language="en_US">
+			<Text>When I will walk the earth again, the Faithful among you shall receive your reward: to be set above all other mortals forever. As for the rest: the weak shall be winnowed: the timid shall be cast down: the mighty shall tremble at my feet and pray for pardon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_URIEL_SEPTIM_VII_QUOTE"  Language="en_US">
+			<Text>When the dragon dies, the Empire dies. Where is the lost dragon's blood, the Empire's sire? And from the womb of the void, who shall stem the blood tide? So long as the blood of the dragon prince runs strong in her rulers, the glory of the Empire shall extend in unbroken years. His heart's blood bleeds in darkness. For once the portals are opened, who shall shut them upon the rising tide? ... forever reborn in blood and fire from the waters of Oblivion for Lord Dagon ...Find him ... and close shut the jaws of Oblivion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YSGRAMOR_QUOTE"  Language="en_US">
+			<Text>Out of this time also rose one of the most legendary of all Tamrielic figures, Ysgramor, from whom all Nordic kings to this day are descended.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ULFRIC_STORMCLOAK_QUOTE"  Language="en_US">
+			<Text>I fight for the men I've held in my arms, dying on foreign soil! I fight for their wives and children, whose names I heard whispered in their last breath. I fight for we few who did come home, only to find our country full of strangers wearing familiar faces. I fight for my people impoverished to pay the debts of an Empire too weak to rule them, yet brands them criminals for wanting to rule themselves! I fight so that all the fighting I've already done hasn't been for nothing! I fight... because I must.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VIVEC_QUOTE"  Language="en_US">
+			<Text>You want to chide me... why did I murder Nerevar? Why did I break my oath to Azura not to use Kagrenac's tools?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SOTHA_SIL_QUOTE"  Language="en_US">
+			<Text>Sotha Sil, or Seht, is a member of the Dark Elf Tribunal. He reigns over Morrowind as the god of craft and sorcery—the wisest and most reclusive of the Three. - Divayth Fyr</Text>
+		</Row>
+		<!-- CYDORILL >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_CYRODILIC_EMPIRE_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CYRODILIC_EMPIRE_CAPITAL"  Language="en_US">
+			<Text>Imperial City</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CYRODILIC_EMPIRE_POPULATION" Language="en_US">
+			<Text>Approximately 27 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CYRODILIC_EMPIRE_SIZE"  Language="en_US">
+			<Text>Approximately 200,000 square miles (517 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CYRODILIC_EMPIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Alessian Empire of Cyrodiil, sometimes referred to as the first Empire of Cyrodiil, was founded by Saint Alessia in the year 1E 243 after the Alessian Slave Rebellion and the overthrowing of Ayleid rule over the land. It was the first established human Empire within the region of Cyrod, later known as the province of Cyrodiil. The Empire fell after the ten year War of Righteousness, which began in the year 1E 2321, and ended in 1E 2331.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CYRODILIC_EMPIRE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Reman Empire, sometimes referred to as the Cyrodiilic Empire or Empire of Cyrodiil, the Second Empire of Men, was unofficially formed in the year 1E 2703 after Reman Cyrodiil defeated the invading Akaviri horde and incorporated High Rock and Skyrim under the reign of a reunited Cyrodiil. The Empire is often viewed as the heavenly ordained successor to the Alessian Empire, with the Reman Dynasty claiming lineage to Saint Alessia herself. The Empire's true date of establishment is unknown. After the fall of the Reman Dynasty in 1E 2920, the Empire was succeeded provisionally by the delegated Tsaesci Potentate, beginning the period known as the "Akaviri Potentate." The Second Empire would fall in the year 2E 430, after the assassination of Potentate Savirien Chorak, beginning the Interregnum period.[5] During the years following its collapse, several pretender states claimed succession to the Reman Empire, though none would last until the coronation of Tiber Septim as the true heir to the Reman line in 2E 854.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CYRODILIC_EMPIRE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Septim Empire, Third Empire, was founded by Tiber Septim in the Second Era. It was mostly ruled by the Septim Dynasty, its end marking the beginning of the Fourth Era. At its height, the Empire spanned across the entire continent of Tamriel, and administered feudal control through the nine provinces, with an Emperor or Empress acting as supreme ruler. After the Septim Dynasty ended the Empire began to decline in power. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CYRODILIC_EMPIRE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>After Martin Septim's death, the Elder Council struggled to maintain the Empire. The Empire was eventually taken over by a Colovian warlord named Titus Mede I, after he seized the crown and conquered the Imperial City during the Stormcrown Interregnum. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIBER_SEPTIM_TITLE" Language="en_US">
+			<Text>Emperor Tiber Septim</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIBER_SEPTIM_SUBTITLE" Language="en_US">
+			<Text>First Emperor of the Septim Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TIBER_SEPTIM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Emperor Tiber Septim, also called Hjalti Early-Beard, General Talos Stormcrown, the Red King, and Ysmir, was a Dragonborn and the first Emperor of the Septim Empire. He is regarded as one of Tamriel's most famous figures, having been the only one in history to unite the continent. Starting with his service under the Cyrodilic emperor Cuhlecain, Tiber Septim fought under the name "General Talos" to unify Cyrodiil, eventually succeeding or usurping Cuchlecain and becoming emperor. After his unification of Tamriel, an effort that culminated in the birth of the Third Empire, he ended the lengthy Interregnum and began the Third Era. Tiber Septim gave his name to the lineage of Cyrodiil Emperors, the Septims. Upon his death he became the deity Talos and took his place in the pantheon of the Nine Divines.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_URIEL_SEPTIM_VII_TITLE" Language="en_US">
+			<Text>Uriel Septim VII</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_URIEL_SEPTIM_VII_SUBTITLE" Language="en_US">
+			<Text>Emperor of the Septim Empire, Twenty-first ruler of the Empire of Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_URIEL_SEPTIM_VII_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Uriel Septim VII came to power in 3E 368, and reigned for several decades before his eventual death as an aged monarch in 3E 433. Uriel's reign was marked by great change over Tamriel, as the Empire moved further towards becoming a fully unified state spread across the continent. Uriel spent ten years in Oblivion, being sent there in 3E 389, before his eventual rescue in 399. The Emperor emerged from Oblivion as a changed man, while in 3E 389 he was young, full of pride, energy, and ambition. By the time of his restoration, after his rescue and return to the throne, he was aging, grave, patient, and cautious. He also became conservative and pessimistic, and it became clear that the days of his bold policy-making were over. Uriel accounts for this change as a reaction to and revulsion for the early teachings and council of Jagar Tharn. Uriel's exile in Oblivion also drained and wasted him in body and spirit, although his mind retained the shrewd cunning and flexibility of his youth.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TITUS_MEDEII_TITLE" Language="en_US">
+			<Text>Titus Mede II</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TITUS_MEDEII_SUBTITLE" Language="en_US">
+			<Text>Emperor of Tamriel, Mede Dynasty of the Tamrielic Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TITUS_MEDEII_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Titus Mede II is the reigning Emperor of Tamriel in 4E 201. He ascended to the throne in the year 4E 168. In 4E 175 Titus Mede II signed the White-Gold Concordat at the end of the Great War, a treaty between the Empire and the Aldmeri Dominion, that banned Talos worship in the Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_REMAN_CYRODIIL_TITLE" Language="en_US">
+			<Text>Emperor Reman Cyrodiil</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_REMAN_CYRODIIL_SUBTITLE" Language="en_US">
+			<Text>First Emperor of the Reman Empire</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_REMAN_CYRODIIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Emperor Reman Cyrodiil was the legendary founder of the Reman Empire, the second Cyrodilic and one of the biggest Empires to cover Tamriel. His dynasty lasted for two hundred years, and in that span it annexed all the kingdoms of Tamriel, save for Morrowind. He is known to have conquered Valenwood and the Summerset Isles during his lifetime.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALESSIA_TITLE" Language="en_US">
+			<Text>Alessia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALESSIA_SUBTITLE" Language="en_US">
+			<Text>Founded the first Cyrodilic Empire, became the first Empress of Cyrodiil</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALESSIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Alessia also known as the "Slave-Queen" or Al-Esh, and later canonized as "Saint Alessia". Responsible for ending human enslavement by the Ayleids, she founded the first Cyrodilic Empire, became the first Empress of Cyrodiil and initiated worship of the Eight Divines. Upon her death, she became the first human saint. She is associated with the winged bull Morihaus, who is said to be her demigod lover.</Text>
+		</Row>
+		<!-- SKYRIM >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_SKYRIM_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SKYRIM_CAPITAL" Language="en_US">
+			<Text>Windhelm (previously Saarthal)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SKYRIM_POPULATION"  Language="en_US">
+			<Text>Approximately 9.7 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SKYRIM_SIZE"  Language="en_US">
+			<Text>Approximately 121,000 square miles (313 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SKYRIM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Skyrim, also known as the Old Kingdom, Throat of the World, the Fatherland or Keizaal, is a vast region set in the northern part of Tamriel. It is home to the Nords, large and hardy men and women who have a strong resistance to frost, both natural and magical.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JORUNN_TITLE" Language="en_US">
+			<Text>Jorunn Skald-King</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JORUNN_SUBTITLE" Language="en_US">
+			<Text>Nordic High King</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JORUNN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Jorunn Skald-King is the Nordic High King, leading the Ebonheart Pact against the other alliances for control of the Imperial Throne during the Second Era.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YSGRAMOR_TITLE" Language="en_US">
+			<Text>Ysgramor</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YSGRAMOR_SUBTITLE" Language="en_US">
+			<Text>Founder of the Companions, the First Empir and the Ysgramor Dynasty</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_YSGRAMOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ysgramor was an Atmoran warrior and the leader of the Five Hundred Companions. He is one of the most legendary heroes of Men, who played a pivotal role in the ascendency of humans on the continent of Tamriel in the late Merethic Era, during the period known as The Return. Ysgramor is also considered the first human historian, as he developed a runic transcription of Nordic speech based on Elvish principles.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ULFRIC_STORMCLOAK_TITLE" Language="en_US">
+			<Text>Ulfric Stormcloak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ULFRIC_STORMCLOAK_SUBTITLE" Language="en_US">
+			<Text>High King of Skyrim, Bear of Markarth, Jarl of Windhelm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ULFRIC_STORMCLOAK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ulfric Stormcloak supports Skyrim's independence from the Empire, which he believes has been corrupted by the Aldmeri Dominion and too weak to protect its citizens. Some describe Ulfric as a hero, while others label him an opportunist. A veteran of the Great War, Ulfric's holds deep resentment of the White-Gold Concordat between the Empire and Aldmeri Dominion, particularly the ban of Talos worship. During the Markarth Incident, Ulfric marched soldiers into Markarth under the pretext that this action would re-legitimize Talos worship, but was eventually detained.</Text>
+		</Row>
+		<!-- ALTMER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_ALTMER_LOCATION" Language="en_US">
+			<Text>Summerset Isles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTMER_CAPITAL"  Language="en_US">
+			<Text>Alinor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTMER_POPULATION"  Language="en_US">
+			<Text>Approximately 9.6 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ALTMER_SIZE"  Language="en_US">
+			<Text>Approximately 81,000 square miles (209 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ALTMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Altmer, also known as High Elves are a race of elves that inhabit parts of the Summerset Isles. The islands have at times been part of the Tamrielic Empire, but at various times in Tamriel's history they have served as the capital of the Aldmeri Dominion, a confederacy of merish nations led by the Altmer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYRENN_TITLE" Language="en_US">
+			<Text>Ayrenn Arana Aldmeri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYRENN_SUBTITLE" Language="en_US">
+			<Text>High Queen of the Summerset Isles, Monarch of the Throne of Alinor, Eagle Primarch of the Aldmeri Dominion</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYRENN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ayrenn was the founder first iteration of the Aldmeri Dominion, one of the strongest alliances in history. Ayrenn's life has held significance to the higher powers of Summerset, as her birth and times were foretold by the Scrolls of Praxis.</Text>
+		</Row>
+		<!-- ARGONIANS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_ARGONIANS_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGONIANS_CAPITAL"  Language="en_US">
+			<Text>Helstrom</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGONIANS_POPULATION"  Language="en_US">
+			<Text>Approximately 8 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARGONIANS_SIZE"  Language="en_US">
+			<Text>Approximately 118,000 square miles (305 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARGONIANS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Black Marsh, also known as Argonia. It is the home of the Argonians, the reptilian natives of this swampland rainforest. The province is filled with "great inland waterways and impenetrable swamps. The Dunmer of neighboring Morrowind used to enter the region for slaves, particularly House Dres.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIST_SPEAKER_ANXILEEL_TITLE" Language="en_US">
+			<Text>Hist Speaker An-Xileel</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIST_SPEAKER_ANXILEEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Hist are a race of sentient trees that are said to have once been spread over a wide area of Nirn, but are now almost solely confined to Black Marsh. They are associated with the Argonians, who venerate them, but they are not worshipped in the traditional sense of the term. n extreme circumstances, the Hist have communicated with the entire Argonian race, as well as altering large numbers of them when they ingest Hist sap.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RED_BRAMMAN_TITLE" Language="en_US">
+			<Text>Red Bramman</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RED_BRAMMAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Red Bramman was an Argonian pirate who operated in the Imperial province of Black Marsh during the First Era. His raids along the coast of Topal Bay eventually attracted the attention of Empress Hestra, who ordered the Imperial Navy to hunt him down.</Text>
+		</Row>
+		<!-- KHAJIT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_KHAJIT_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHAJIT_CAPITAL"  Language="en_US">
+			<Text>Dune (Kingdom of Anequina), Torval (Kingdom of Pellitine) </Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHAJIT_POPULATION"  Language="en_US">
+			<Text>Approximately 8.5 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHAJIT_SIZE"  Language="en_US">
+			<Text>Approximately 89,000 square miles (230 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHAJIT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elsweyr home to the Khajiit. The province is separated into two nations, both of which are client states of the Aldmeri Dominion. Anequina to the North incorporates a desert like badlands fairly similar to that of Hammerfell, whilst to the South lies Pelletine, its geography consisting of a variety of dense jungles and woodland comparable to that of Valenwood. The province is bordered by Valenwood to the west, Cyrodiil to the north and east and Black Marsh to the east, across the Topal Sea.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KEIRGO_ANAQUINA_TITLE" Language="en_US">
+			<Text>Keirgo of Anaquina</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KEIRGO_ANAQUINA_SUBTITLE" Language="en_US">
+			<Text>King of Anaquina</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KEIRGO_ANAQUINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Keirgo of Anequina, the northern regions of Elsweyr are dominated by badlands and desert, a climate of which has influenced the culture of the Anequina Khajiit massively. The 'kingdom' is little more than a collection of chiefdoms in loose cooperation, but all with a common goal of preserving said culture and protecting their lands.</Text>		
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ESHITA_PELLITINE_TITLE" Language="en_US">
+			<Text>Eshita of Pellitine</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ESHITA_PELLITINE_SUBTITLE" Language="en_US">
+			<Text>Queen of Pellitine</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ESHITA_PELLITINE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Eshita of Pellitine, the southern regions of Elsweyr  dominated by dense jungles and woodland, similar to that of neighbouring Valenwood, the climate of which has influenced the culture of the Pelletine Khajiit as much as that of their counterparts to the North.</Text>
+		</Row>
+		<!-- HAMMERFEL >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_HAMMERFEL_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HAMMERFEL_CAPITAL"  Language="en_US">
+			<Text>Sentinel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HAMMERFEL_POPULATION"  Language="en_US">
+			<Text>Approximately 8.3 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HAMMERFEL_SIZE"  Language="en_US">
+			<Text>Approximately 115,000 square miles (297 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HAMMERFEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Hammerfell is a vast province in the west of Tamriel, bordered by High Rock to the north, Skyrim to the northeast and Cyrodiil to the east and southeast. It is the homeland of the Redguards. Once a province of the Tamrielic Empire until the Great War, Hammerfell became a sovereign nation in 4E 175 after its rejection of the White-Gold Concordat. Hammerfell is a massive region, covered by vast mountain ranges, grasslands, and deserts. The desolate Alik'r Desert is one of Hammerfell's most well-known regions, taking up a large fraction of the province.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FAHARA_JAD_TITLE" Language="en_US">
+			<Text>Fahara'jad</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FAHARA_JAD_SUBTITLE" Language="en_US">
+			<Text>Redguard King of Sentinel</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_FAHARA_JAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Fahara'jad is the Redguard King of Sentinel. He is responsible for the Redguard's joining the Daggerfall Covenant. King Fahara'jad is the father of Queen Maraya, whose marriage to King Emeric brought a trade agreement between Wayrest and Sentinel that was greatly prosperous</Text>
+		</Row>
+		<!-- Morrowind >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_MORROWIND_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORROWIND_CAPITAL"  Language="en_US">
+			<Text>Mournhold later Blacklight</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORROWIND_POPULATION"  Language="en_US">
+			<Text>Approximately 15 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MORROWIND_SIZE"  Language="en_US">
+			<Text>Approximately 158,000 square miles (409 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MORROWIND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Morrowind formerly known as Resdayn and sometimes called Dunmereth or Dwemereth , is a province in the northeastern corner of Tamriel. It is divided into two main parts: the mainland of the same name, and the island of Vvardenfell, which are separated by the Inner Sea. Morrowind was formerly the homeland of the Dwemer and Chimer, and now of the Dunmer, also known as Dark Elves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALMALEXIA_TITLE" Language="en_US">
+			<Text>Sacred Lady Almalexia</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALMALEXIA_SUBTITLE" Language="en_US">
+			<Text>Mother Morrowind, the Lady of Mercy, Healing Mother, Chimer goddess of the Tribunal.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ALMALEXIA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Almalexia is the second most visible of the Tribunal and is regarded as the brave and compassionate queen of the Dunmer people. Boethiah is Almalexia's anticipation. Almalexia is still completely Chimer in appearance. Almalexia resides in the city of Mournhold, in the province of Morrowind.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HLAALU_HELSETH_TITLE" Language="en_US">
+			<Text>Helseth Hlaalu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HLAALU_HELSETH_SUBTITLE" Language="en_US">
+			<Text>Dunmer King of Morrowind</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HLAALU_HELSETH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Helseth Hlaalu was a Dunmer King of Morrowind during the later fourth century of the Third Era, the son of Queen Barenziah and General Symmachus. fter their exile from Wayrest, Barenziah and Helseth fled to Morrowind once again, where they were welcomed by Athyn Llethan, Barenziah's uncle and King at the time. Soon after, King Llethan died, along with his protege Talen Vandas, passing the throne to Helseth. The circumstances surrounding their deaths were considered suspicious, as people that would inconvenience Helseth had been found dead in many occasions throughout the years. However, nothing could point directly to his involvement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VIVEC_TITLE" Language="en_US">
+			<Text>Lord Vivec the Warrior-Poet</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VIVEC_SUBTITLE" Language="en_US">
+			<Text>God-king of Morrowind</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VIVEC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Of the three members of the Tribunal, Vivec is the most visible. He is regarded as a poet, warrior, and benevolent king. Vivec's "Anticipation" is the Daedric Prince Mephala. He also shares some of the darker sides that characterize Mephala, such as secretive murder. Vivec resides at his temple in the self-titled city of Vivec on Vvardenfell island. By 3E 433, Vivec had disappeared during the Oblivion Crisis, and some rumored that he was killed by the Nerevarine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SOTHA_SIL_TITLE" Language="en_US">
+			<Text>Sotha Sil</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SOTHA_SIL_SUBTITLE" Language="en_US">
+			<Text>God-king of Morrowind, Clockwork God, Father of Mysteries, the Inspiration of Craft and Sorcery, the Light of Knowledge</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SOTHA_SIL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sotha Sil is the least visible of the Tribunal to the public. He is regarded as being an extremely powerful and intelligent wizard. Sotha Sil's anticipation is Azura, and he lives in his Clockwork City made up of his own machines. Sotha Sil is killed by Almalexia as part of a plot to destroy the Nerevarine and stop the prophecy associated with the Nerevarine.</Text>
+		</Row>
+		<!-- Valenwood >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_BOSMER_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BOSMER_CAPITAL"  Language="en_US">
+			<Text>Falinesti</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BOSMER_POPULATION"  Language="en_US">
+			<Text>Approximately 9.5 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BOSMER_SIZE"  Language="en_US">
+			<Text>Approximately 58,000 square miles (150 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BOSMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Valenwood is a southwestern province of Tamriel, and home to the Bosmer, or Wood Elves.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERADAN_CAMORAN_TITLE" Language="en_US">
+			<Text>Aeradan Camoran</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERADAN_CAMORAN_SUBTITLE" Language="en_US">
+			<Text>Camoran king of the Wood Elves</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERADAN_CAMORAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>After the recent civil war between the Camoran dynasty, Valenwood was in disarray, and as such was vulnerable. The Cabal who ran the Imperial City took advantage of this by invading northern Valenwood with Colovian troops. Seeking an ally to help repulse the Colovians, King Aeradan turned to Queen Ayrenn and the Aldmeri Dominion for help. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAYMON_CAMORAN_TITLE" Language="en_US">
+			<Text>Haymon Camoran</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAYMON_CAMORAN_SUBTITLE" Language="en_US">
+			<Text>Camoran king of the Wood Elves, The Camoran Usurper, Hart-King, and Camoran Hart-King</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HAYMON_CAMORAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Haymon Camoran, served as Sorcerer and Advisor to Camoran Kaltos, a military leader and tactician of Valenwood. Haymon, in league with Kaltos and Kaltos' Chief Scout, Orben Elmlock, began their usurpation in 3E 249. He quickly and violently freed the Bosmer from the Empire, taking two years to do so, and then proceeded northward.  After the destruction of one of the first conquered cities, Kvatch, Kaltos plead with Haymon to end the madness and return to Valenwood. Haymon turned on Kaltos, forcing Kaltos to flee for his life. Haymon continued his conquest northward, only stopping after being defeated by Baron Othrok of Dwynnen, at the Battle of Firewaves in 3E 267. During this period, the enemies of Daggerfall, Sentinel and Wayrest are believed to have worked together for their own safety. Before his defeat, he managed to conquer all of Valenwood, large sections of Colovian Estates, and significant sections of Hammerfell, and was working his way through High Rock when he was finally defeated.</Text>
+		</Row>
+		<!-- Highrock >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_HIGHROCK_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HIGHROCK_CAPITAL"  Language="en_US">
+			<Text>Wayrest, Stormhaven, Daggerfall</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HIGHROCK_POPULATION" Language="en_US">
+			<Text>Approximately 12 million</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_HIGHROCK_SIZE" Language="en_US">
+			<Text>Approximately 58,000 square miles (150 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HIGHROCK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>High Rock is the northwestern-most region of Tamriel. It borders Hammerfell to the southeast and Skyrim to the east. It is mainly populated by the Bretons and a province of the Tamrielic Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EMERIC_CUMBERLAND_TITLE" Language="en_US">
+			<Text>Emeric of Cumberland</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EMERIC_CUMBERLAND_SUBTITLE" Language="en_US">
+			<Text>Breton High King of High Rock, King of Wayrest</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EMERIC_CUMBERLAND_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Emeric was the founder of the Daggerfall Covenant, one of the strongest alliances in the province of Tamriel. Emeric is a brilliant individual, well-rounded in trading, speechcraft, and the military. He was also the founder of the Cumberland Dynasty. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANSER_TITLE" Language="en_US">
+			<Text>King Ranser Branquette</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANSER_SUBTITLE" Language="en_US">
+			<Text>King of Shornhelm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RANSER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>King Ranser was a ruler of Shornhelm during the 6th century of the Second Era, crowned after the death of his father King Hurlburt of House Branquette in 2E 546. After King Emeric of Wayrest married Maraya instead of his daughter, Rayelle, he started a civil war against High Rock and Hammerfell. He died at Traitor's Tor, where his undead skeleton remains after a curse. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CASIMIR_TITLE" Language="en_US">
+			<Text>King Casimir</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CASIMIR_SUBTITLE" Language="en_US">
+			<Text>King of Daggerfall</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CASIMIR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>King Casimir was the Breton king of the city-state of Daggerfall in Glenumbra during the year 582 of the Second Era. The Bloodthorn Cult plotted to assassinate him, before the Vestige intervened and foiled the assassination attempt in Casimir's own palace. </Text>
+		</Row>
+		<!-- ORSINIUM >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_ORSINIUM_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORSINIUM_CAPITAL"  Language="en_US">
+			<Text>Orsinium</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORSINIUM_POPULATION" Language="en_US">
+			<Text>Approximately 500 thounsands</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ORSINIUM_SIZE" Language="en_US">
+			<Text>Approximately 39,382 square miles (101 square km)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ORSINIUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orsinium while technically being under the sovereignty of the Empire, Orsinium has in the past not been readily accepted by the other provinces of Tamriel. However, in 3E 399, Emperor Uriel Septim VII sought to improve relationships between the Empire and Orsinium through diplomacy, increased trade, and confederacy, prior to its destruction. Orsinium has usually been located inside the province of High Rock, in the western part of Tamriel, and as such Orcs co-inhabit the region alongside Bretons. The current Orsinium lies upon the mountains between Skyrim and Hammerfell.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORTWOG_TITLE" Language="en_US">
+			<Text>Gortwog gro-Nagorm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORTWOG_SUBTITLE" Language="en_US">
+			<Text>King of Orsinium, Leader of the Third Orsinium, Warlord of the Orcs</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GORTWOG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gortwog gro-Nagorm was the Orcish leader of the Third Orsinium during the Warp in the West. Gortwog was the third visionary for Orsinium, establishing the Orcish stronghold after earning it in a duel against Lord Bowyn of Wayrest. </Text>
+		</Row>
+		<!-- OBLIVION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_OBLIVION_LOCATION" Language="en_US">
+			<Text>Planes of Oblivion</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_OBLIVION_CAPITAL"  Language="en_US">
+			<Text>Deadlands, Coldharbour</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OBLIVION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Oblivion , is a collective term used to describe one subset of the planes of existence, inhabited by the Daedra. Daedra  are viewed variously as gods or demons by the inhabitants of Tamriel, although scholarly consensus discourages the use of the latter term. The most powerful of the Daedra are referred to as Daedric Princes or Daedra Lords, and rule over their own planes of Oblivion, which they shaped. Because they have no connection to Nirn, they cannot be permanently killed, only banished.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MEHRUNES_DAGON_TITLE" Language="en_US">
+			<Text>Mehrunes Dagon</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MEHRUNES_DAGON_SUBTITLE" Language="en_US">
+			<Text>Daedric Princes of Destruction, Revolution, Energy, Change and Ambition</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MEHRUNES_DAGON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mehrunes Dagon's spheres are destruction, change, revolution, energy, and ambition. Mehrunes Dagon is the foe of all mortal races, and has attempted to conquer the physical world Nirn many times. The common reasoning behind his many plots is his belief that Tamriel is in fact a plane of Oblivion which is rightly his. He constantly invaded Tamriel relentlessly from the First Era onward.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOLAG_BAL_TITLE" Language="en_US">
+			<Text>Molag Bal</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOLAG_BAL_SUBTITLE" Language="en_US">
+			<Text>Daedric Princes of Schemes, Domination, Vampirism, Corruption, Slavery. King of Rape, King of Strife, Schemer Prince, Harvester of Souls, and Father of Coldharbour.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOLAG_BAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>His main desire is to harvest and consume the souls of mortals and to bring mortals' souls under his sway by spreading seeds of strife and discord in the mortal realms, and has even attempted to merge Nirn with his own freezing realm of Coldharbour. He holds much importance in Morrowind where he is one of the Four Corners of the House of Troubles, seen as the arch-enemy of Boethiah, the Daedric Prince of Plots.</Text>
+		</Row>
+		<!-- AYLEID >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_AYLEID_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AYLEID_CAPITAL"  Language="en_US">
+			<Text>Ceyatatar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AYLEID_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ayleids were one of the descendants of the Aldmer. The Aldmer were an ancient race of Mer who were the descendants of the Ehlnofey. Later, during the middle of the Merethic Era, some Aldmer groups departed from the Summerset Isles and relocated towards Tamriel. The ones who traveled to pre-modern-day Valenwood became the Bosmer; the ones who went to pre-modern-day Morrowind became the Chimer; the ones who stayed in the Summerset Isles eventually became the Altmer; and the ones who traveled towards pre-modern-day Cyrodiil became the Ayleids, where they established the first empire on the continent. During this time, the Ayleid civilization flourished and expanded. In the Heartlands of Cyrodiil, the Ayleids constructed the White-Gold Tower.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AYLEID_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>About a century into the First Era, a slave woman was born to the humans living on Ayleid-controlled Niben. In 1E 242, the revolution began, the rebellion coincided with a period of civil war within the Ayleid empire. Alessia and the Nedes were given some help from the Nords and,due to the Ayleid civil war, help from some of the more radical Ayleid nobles. The revolution eventually came to an end with the Fall of the White-Gold Tower in 1E 243.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HADHUUL_TITLE" Language="en_US">
+			<Text>Hadhuul</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HADHUUL_SUBTITLE" Language="en_US">
+			<Text>Ayleid King of the city of Ceyatatar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HADHUUL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Hadhuul was an Ayleid king during the early First Era. His spearmen were never defeated in their history, until the Battle of Ceyatatar, where they suffered their first defeat at the hands of Pelinal Whitestrake and the Imperial slaves who were rebelling against the rule of the Ayleids. Hadhuul was killed by Whitestrake during the battle in 1E 242.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LALORIARAN_TITLE" Language="en_US">
+			<Text>King Laloriaran Dynar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LALORIARAN_SUBTITLE" Language="en_US">
+			<Text>The Last King of the Ayleids, King of Nenalata</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LALORIARAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>King Laloriaran Dynar was an Ayleid who lived during the First and Second Eras. He ruled over the city of Nenalata when it was a vassal-state of the Alessian Empire, and later went on to found Bisnensel and win the Battle of Glenumbra Moors. He was deposed after a conflict with the Primeval Seekers, a Hermaeus Mora cult. He and his family fled to Balfiera, where he begged refuge of the Direnni. He was captured by Molag Bal shortly after Meridia pushed Delodiil into Coldharbour.</Text>
+		</Row>
+		<!-- DWEMER >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_DWEMER_LOCATION" Language="en_US">
+			<Text>Tamriel</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_DWEMER_CAPITAL"  Language="en_US">
+			<Text>Blackreach</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_DWEMER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Dwemer were an advanced race and civilization, in many respects far ahead of the other races and civilizations of their time. They are well known for their skill and revolutionary developments in technology, engineering, crafting methods, metalwork, stonework, architecture, city-planning, science, mathematics, magic, and the academic arts. The Dwemer are known for being the subjects of one of the greatest mysteries in all of Tamriel. In 1E 700, during the Battle of Red Mountain, for reasons still debated and under circumstances still being studied, the Dwemer seemingly disappeared. It is still being debated who or what caused the Dwemer to disappear, as well as whether they disappeared all at once or over a long period of time.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUMAC_TITLE" Language="en_US">
+			<Text>Dumac Dwarfking</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUMAC_SUBTITLE" Language="en_US">
+			<Text>Dwemer king, head of the clans in Resdayn</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUMAC_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dumac  was a Dwemer king, head of the clans in Resdayn during the First Era, now known as Morrowind. During the Skyrim Conquests in 1E 416, Dumac and Indoril Nerevar formed the First Council, an alliance of Chimer and Dwemer, against the Nordic threat.  Nerevar later went to Vvardenfell one last time to negotiate with the Dwemer, quarreling bitterly with Dumac, who was still oblivious to Kagrenac's plans. The First Council broke down, and the War of the First Council began. During the resulting Battle of Red Mountain, Dumac led the Dwarven forces out of their strongholds, having automatons and atronachs at his command.</Text>
+		</Row>
+		<!-- TSAESCI >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_TSAESCI_LOCATION" Language="en_US">
+			<Text>Akavir</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_TSAESCI_CAPITAL"  Language="en_US">
+			<Text>Tsaesci</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TSAESCI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tsaesci are a race of vampiric serpent folk and/or humans, hailing from the continent of Akavir. They originated from the Wandering Ehlnofey, just as the Atmorans and Yokudans did.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VERSIDUE_SHAIE_TITLE" Language="en_US">
+			<Text>Versidue Shaie</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VERSIDUE_SHAIE_SUBTITLE" Language="en_US">
+			<Text>Potentate Versidue-Shaie</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VERSIDUE_SHAIE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Potentate Versidue-Shaie was a Tsaesci, one of the serpent-men from Akavir, and the closest advisor of Reman Cyrodiil III. A theory in the book 2920, Last Year of the First Era suggests Versidue-Shaie was possibly behind Reman Cyrodiil's death in 1E 2920. Upon the end of the war between Cyrodiil and Akavir, it is believed that he and/or his family went into the service of the Emperors of Cyrodiil. Upon the death of Reman in 1E 2920, he became the de facto leader of Cyrodiil. A few days later, on the day when the year 2921 should have ended the First Era and started the Common Era (or what is sometimes referred to as Second Era in what is now Tamriel), he ruled as Potentate until his assassination at his palace in Elsweyr by the Morag Tong in 2E 324.</Text>
+		</Row>
+		<!-- KA_POTUN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_KA_POTUN_LOCATION" Language="en_US">
+			<Text>Akavir</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KA_POTUN_CAPITAL"  Language="en_US">
+			<Text>Jhaotun</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KA_POTUN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ka Po' Tun, formerly known as the Po' Tun, are a tiger-like "cat-folk" race present on the continent of Akavir. After the Tsaesci consumed all the men on Akavir, they attempted to consume all the dragons. The red dragons were enslaved, but the black dragons fled to the Po'Tun. A great war was raged which left both the Tsaesci and Po' Tun weak, and resulted in all the remaining dragons of Akavir killed. Since then, the tiger people have attempted to transform into dragons themselves. Their leader, Tosh Raka, is the only one known to have successfully done so. Under his rulership, the race renamed themselves from the Po' Tun to the Ka Po' Tun to symbolize their rise above the Tsaesci Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KA_POTUN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>While they have had many feuds, battles, and wars with all the other races in Akavir, the Ka'Po'Tun consider the Tsaesci their greatest enemies. Following Tosh Raka's coronation as the Tiger-Dragon Emperor, the Ka Po' Tun have managed to become the most powerful Empire in Akavir, and have become more powerful than the Tsaesci themselves. In latest reports, it is said that the Ka'Po'Tun have recently allied with the Monkey People of Tang Mo in order to fight the Tsaesci. It is also reported that Tosh Raka desired to invade Tamriel itself after defeating the Tsaesci.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOSH_RAKA_TITLE" Language="en_US">
+			<Text>Tosh Raka</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOSH_RAKA_SUBTITLE" Language="en_US">
+			<Text>King of Tiger Dragons of Ka'Po'Tun</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOSH_RAKA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tosh Raka was the leader of the Tiger Dragons of Ka'Po'Tun. He is thought to be a god by the Ka Po' Tun, the reason being that he is the first and the only known member of his species to morph into a Dragon. Even as a dragon he still had the cat-like features of the Ka'Po'Tun. Under his rulership the Po'Tun changed their species' name to the Ka'Po'Tun. Tosh Raka's primary goal was to destroy all of the Tsaesci and their civilization. After that, it is said, according to Mysterious Akavir, that he wanted to invade Tamriel itself.</Text>
+		</Row>
+		<!-- KAMAL >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_KAMAL_LOCATION" Language="en_US">
+			<Text>Akavir</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KAMAL_CAPITAL"  Language="en_US">
+			<Text>Kamal</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KAMAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kamal is one of the nations of Akavir, inhabited by the equally named Kamal, who are described as, "snow demons." They are known to thaw out once every year and proceed to launch attacks against the other nations of Akavir. However, most of their attacks are directed against the Tang Mo.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KAMAL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In the mid Second Era, the Kamal nearly invaded all of northern Tamriel. Their king led a huge naval assault which landed just by the White River. The city of Windhelm quickly fell to the invaders, but they were fought off as a result of the formation of the Ebonheart Pact.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIRKAMAL_TITLE" Language="en_US">
+			<Text>Ada'Soom Dir-Kamal</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIRKAMAL_SUBTITLE" Language="en_US">
+			<Text>The King Among Demons</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIRKAMAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dir-Kamal was born on the continent of Akavir. At some time prior to 2E 572, Ada'Soom amassed a large army of Kamal warriors and sailed west to the neighboring continent of Tamriel. Nordic interrogations of his captured soldiers yielded little results as barely any of them spoke Tamrielic, though one report revealed that Dir-Kamal was searching for something or someone known as the Ordained Receptacle. Dir-Kamal lead his army through the Sea of Ghosts and passed by the coasts of the House Telvanni peninsula of Morrowind, Vvardenfell, and Solstheim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIRKAMAL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Dir-Kamal's ships landed at the mouth of the White River, north of Windhelm. In 2E 572, Dir-Kamal attacked the northeast coast of Skyrim. Ada'Soom was responsible for the sacking of Windhelm whilst in Skyrim, and only the Palace of the Kings was left undestroyed, although it was heavily damaged. During this battle, the Queen, Mabjaarn Flame-Hair, and her short-lived successor, Princess Nurnhilde, were killed.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DIRKAMAL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Ada'Soom is also known to have fought in Morrowind against the Tribunal. It is said that Almalexia summoned help from the Underking in order to defeat the Akaviri army. It has also been suggested that the Underking was actually Wulfharth, but this fact is disputed. In actuality, Jorunn the Skald-King helped the Tribunal, with his Nordic army, and the help of Wulfharth. Along with Argonian shellbacks, the three races fought off the invasion at Stonefalls and crushed Dir-Kamal's army. This led to the formation of the Ebonheart Pact, which would participate in the Three Banners War ten years later. Dir-Kamal was then killed at Red Mountain by Almalexia and the Underking in 2E 572.</Text>
+		</Row>
+		<!-- PYANDONEA >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> -->
+		<Row Tag="LOC_CIVINFO_PYANDONEA_LOCATION" Language="en_US">
+			<Text>Pyandonea</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PYANDONEA_CAPITAL"  Language="en_US">
+			<Text>Abbarbas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PYANDONEA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>It was once believed that the Maormer of Pyandonea were originally exiled from the Summerset Isle. However, translations of tapestries in the Crystal Tower tell the tale of how the Maormer were likely separated in their original homeland of Aldmeris. According to the legend, Orgnum was a phenomenally wealthy Aldmer nobleman, who used his finances to launch a rebellion against the powers of the land. He and his followers were banished for this to a place separated from Aldmeris by an impenetrable mist, Pyandonea, "The Veil of Mist." This boundary proved so effective that the followers of Orgnum never again disturbed their former countrymen in Aldmeris.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PYANDONEA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Maormer were relentless in their drive to conquer Summerset, and there is scarcely a year throughout the First or Second Eras when they did not ravage the coastlines of the Altmer. Every attack launched by the Maormer against Summerset has been led by Orgnum himself, and despite the number of wars and strategies employed by the Maormer, each of these attacks has proved to be an ultimate failure.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORGANUM_TITLE" Language="en_US">
+			<Text>Orgnum</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORGANUM_SUBTITLE" Language="en_US">
+			<Text>King of Pyandonea</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ORGANUM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orgnum is a deathless wizard who is said to be the Serpent God of the Satakal. Every attack launched by the Maormer against Summerset has been led by Orgnum himself, who it seems is not only immortal but grows more youthful by the century. Sea Serpents serve as Orgnum's guards and occasional mounts.</Text>
+		</Row>
+		<!-- BUILDINGS-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HALL_OFTHE_DEAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Hall of the Dead is a funerary structure that contains the bodies of the deceased. There is one in every major city in Skyrim, with the exceptions of Morthal, Dawnstar, and Winterhold. Found in the major cities of each Hold, deceased citizens are embalmed and buried within these halls. A shrine dedicated to Arkay—the god of burials and funeral rites—can be found in each.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SKOOMA_FACTORY_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Skooma is an illegal narcotic that is used throughout Tamriel. Skooma was made and perfected by the Dunmer, by way of mixing of moon sugar and Nightshade. Since then, the drug has been used across the continent. The primary source of income in Elsweyr is the exportation of moon sugar, which is used to make Skooma.  In fact, half of the southern population of Elsweyr are known as "sugar tooths," a slang word for a skooma addict. Some criminals have formed large operations out of making and selling skooma, as some criminals sell them in large cities such as Riften and other places.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MAGES_GUILDHALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Mages Guild is a guild dedicated to the collection, preservation, and distribution of magical knowledge with an emphasis on ensuring that all citizens of Tamriel benefit from this knowledge. Members of the Guild receive many benefits, including training, services, and education in the established laws regarding the proper use of magic.</Text>
+		</Row>
+		<!-- DISTRICTS-->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIST_GROVE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Hist are a race of sentient trees that are said to have once been spread over a wide area of Nirn, but are now almost solely confined to Black Marsh. Some claim that they are the most ancient race on Nirn. They are associated with the Argonians, who venerate them, but they are not worshipped in the traditional sense of the term. Information on the Hist is scarce, as the Argonians do not readily share such information with others, and may even view such sharing as a betrayal of their race.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIST_GROVE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Argonians consider the Hist to be the source of all life.  According to the Anuad, they are mentioned as being one of the two forms of life to emerge from the ruin of the Twelve Worlds, the other being the Ehlnofey. It is also claimed that the Hist originated from Oblivion, although it is possible that they merely fled there to escape the decimation of their realm on Nirn. The Hist brought Argonians back to Black Marsh to defend against the Oblivion Crisis at the end of the Third Era, directing them in attacks that defeated Mehrunes Dagon's forces, and then on to the subsequent invasion of Morrowind following the Red Year.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIST_GROVE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Hist do not have a distinct culture of their own that has been disclosed in any great depth. In theory the link they share allows them to operate in unison, suggesting a monolithic mindset. On occasions divergent opinions emerge among the Hist. This results in them being "purged" from the other Hist, as was done by the Hist of Lilmoth in the Third Era.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_HIST_GROVE_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The Argonians revere the Hist, considering them to be both their prior existence and their afterlife. The Hist form part of many Argonian cultural rituals, as well as forming a central part of Argonian tribal village life. It is possible that the Hist form the root of their social structure, with each village forming around a single Hist tree. Argonians claim the ability to communicate with the Hist, although precise practices for doing so vary from tribe to tribe of Argonians. This communication takes on the significance of religious guidance for Argonians.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GRAHT_OAK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Graht-oaks are giant migratory trees that house Bosmeri cities in the province of Valenwood. The graht-oaks were allowed to move by magic that was invoked at the founding of the Camoran Dynasty by King Eplear.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GRAHT_OAK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The walking tree city of Falinesti is the largest of Valenwood's graht-oaks, standing at a mile tall and half a mile wide. The tree that forms the city is gnarled and twisted with a gorgeous crown of gold and green, dripping with vines and shining with sap.  Bosmer live in numerous natural dwellings within the mighty branches of the city, along with Orcs, Imga, and Centaurs. At the end of the Third Era, the graht-oak city of Falinesti stopped walking and rooted itself for the first time in recorded history.</Text>
+		</Row>
+		<!-- IMPROVEMENTS-->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_WORD_WALL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>There is considerable mystery surrounding the ominous Word Walls dotted all across Skyrim. The ancient carvings etched into the stone are believed to be words in the Dragon Language, for the characters of that language very much resemble claw marks or scratches. It is believed that these walls were constructed by the ancient Nords who lived in the time of the Dragons. Either out of fear or respect, they somehow learned the language of the ancient beasts so they could use it for their own ends.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_XANMEER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Xanmeer were massive, ziggurat-like pyramids constructed by an ancient civilization of Argonians  that inhabited Black Marsh thousands of years ago. Xanmeers are almost always seen in perfectly symmetrical complexes, sometimes with more than one pyramid connected together by elevated stone walkways. The stone throughout is intricately carved with geometrical patterns, as well as likenesses of the ancient Argonians themselves. From the scale, intricacy, and distribution of these Xanmeers, it is clear that the ancient Argonians were a highly advanced race with a prosperous civilization. Sometime near the First Era the society became extinct, leaving behind these Xanmeers as the ruins of their once great civilization.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ASHLANDER_CAMP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ashlanders, or Velothi, are mostly nomadic tribes of Dunmer, found in the most inhospitable lands in Morrowind, generally the wastes of Vvardenfell. Their way of life is very different from that of the House Dunmer, having changed little from the time of the prophet Veloth in the Merethic Era. Ashlanders are arranged into tribes, which are primarily nomadic but some of which have semi-permanent settlements in the regions across Vvardenfell, in addition to some possibly permanent settlements on mainland Morrowind. Ashlanders primarily graze herds of livestock, as well as hunting, fishing and foraging where they can.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ORC_STRONGHOLD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Orc Strongholds are scattered throughout Tamriel but most of them are located in Skyrim, High Rock, and Hammerfell. The Orcs have lived in Skyrim for centuries in tribal communities based around Strongholds. Orcs here live according to the rule of Malacath. Malacath, as Daedric Prince of the Orcs, is worshipped in these places.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ORC_STRONGHOLD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Strongholds are governed by a rigid class system. Every Orc has a specific job and is obligated to perform it. Every man, woman, and child in the fort is also trained from birth to defend it. The strongholds are led by a chief, who killed the previous chief to prove his strength. Only the chiefs are allowed to have wives, and due to this, they often have several. This method is to ensure that the strongest Orc becomes chief, contributing his genes to the next generation of Orcs who, in theory, should be stronger than the last. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ORC_STRONGHOLD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Orcs in strongholds follow their own law called "The Code of Malacath." The will of Malacath is clarified by the stronghold's resident wise woman. The rules of the Code are simple: don't kill, don't steal and don't attack people without reason. They do not have jails; instead, offenders are forced to pay a "blood price," in which the criminal bleeds until the victim is satisfied. In cases where the victim was murdered, the chief is consulted to impose an appropriate penalty. All Orcs in the strongholds belong to a faction called Tribal Orcs. Committing a crime against any of the Orcs in any of the strongholds results in a bounty in all the strongholds. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_DARK_ANCHORS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dark Anchors are enormous interplanar machines that Molag Bal has created to merge Tamriel with his own Daedric Plane of Coldharbour. The purpose of the Anchors are to pull Tamriel into Coldharbour, thus merging the two realms together into a single, nightmarish hellscape. They will spawn periodically across Tamriel in set locations called Dolmens, which are in each subregion of Cyrodiil and every Alliance zone.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_OBLIVION_GATE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Oblivion Gates are the gateways created between Mundus and the Oblivion planes. They are fiery, magical portals that facilitate travel between the two planes. The strange humming, whining noise they emit can be heard before the gate is even found. The Oblivion Gates have been created by the Daedric Prince Mehrunes Dagon. He created these allowing the Daedra to roam and conquer Tamriel while causing widespread destruction and chaos. They were used during Molag Bal's attempted conquest of Nirn, the Planemeld, and Mehrunes Dagon's attack during the Oblivion Crisis.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_AYLEID_WELL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ayleid Wells are structures built by the Ayleids before the end of the First Era. They are made out of meteoric iron, and give the person who draws from them magical power. They are usually located near or within Ayleid ruins, however, their original purpose is unknown. </Text>
+		</Row>
+		<!-- UNITS-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_IMPERIAL_LEGIONNAIRE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Imperial Legion, Imperial Army, or Ruby Ranks is the main armed force of the Second Empire and the Third Empire of Cyrodiil, and is a large military organization. The patron deity of the Imperial Legion is Stendarr, god of Justice and Mercy.  The Legions meet annually in the Legionary's Council, in which decisions made by the Elder Council are discussed among the Legions. The Imperial Legion proclaims itself to be the most disciplined and effective military and police force in history, and that it preserves the peace and rule of law in the Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_IMPERIAL_LEGIONNAIRE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The predecessor to the Imperial Legions were the Alessian Legions. hese Legions were led by Morihaus during their siege of the White-Gold Tower against the Ayleids.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_STORMCLOAK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Stormcloaks believe Skyrim should secede from what they feel is a corrupt crumbling Empire. This stance came about due to the aftermath of the Great War and the imposition of the White-Gold Concordat by the Aldmeri Dominion. The Stormcloaks consider the Empire as just a puppet of the Thalmor because the Empire surrendered during the Great War and accepted the Dominion's terms of surrender. These terms ban the worship of Talos, which most Nords do not support. Many are outraged at this Talos ban and point out the Markarth Incident, as an example of the Empire publicly supporting the Dominion's oppressive influence over Skyrim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_THALMOR_MAGE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Agents of the high elven Aldmeri Dominion are known as Thalmor. After the signing of the White-Gold Concordat, they've been authorized by the Empire to maintain an embassy in Skyrim, and have been known to secretly capture and imprison any Nords who question their doctrines or beliefs.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ARCHEIN_VENOMTONGUE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Archein was a position created by the Septim Empire in the Imperial province of Black Marsh. The Archeins were native Argonians who served as advisors to the Imperial governors of the cities of Black Marsh and who acted as governors in the rural areas.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SHELLBACKS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Shellbacks were a group of Argonian warriors that helped stop the second Akaviri invasion during the Second Era. A phalanx of Shellbacks appeared along with two legions of Argonian warriors in the ongoing battle near Ebonheart in 2E 572 between the Akaviri and the Nord and Dunmer forces. They were led by a trio of Argonian battlemages, two of which being Vicecanon Heita-Meen and Keshu the Black Fin. Ultimately, because of their help, the expulsion of the Akaviri was successful.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_RA_GADA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ra Gada were a warrior fleet of Yokudans from the continent of Yokuda prior to its destruction. They were known to have had a war with the Lefthanded Elves, in which they were the victors. In 1E 808, they arrived in the western region of Tamriel known as Volenfell, and soon conquered the land from the Orsimer and renamed it to Hammerfell. They also defeated the Nedes when their ships first crashed in Tamriel and battled Giant Goblins for territory. They later became known as the Redguards.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORDINATOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Ordinators are a highly trained group of soldier guardsmen who work throughout the province of Morrowind. It is known that at one point, the head of the Ordinators was Rangidil Ketil. Rangidil was born in 2E 803, and died in 3E 195, during the Siege of Abernanit. There are four orders of Ordinators. These are the Order of the Watch, the Order of War, the Order of the Inquisition, and the Order of Doctrine and Ordination.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ORDINATOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Order of the Watch provides guard for temples and shrines. The Order of War fights the enemies of the Temple; most War Ordinators are stationed near Red Mountain. The Order of Doctrine and Ordination are militant scholars. The Order of the Inquisition identifies and suppresses heresy among priests and laymen. The four orders report to the Alma Rula in Almalexia.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LION_GUARD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Lion Guard are an elite knightly order of Bretons who serve High King Emeric. They are responsible for Emeric adopting the lion as his personal crest, and thus the martial symbol of the Daggerfall Covenant. The Lion Guard have been deployed across High Rock by orders of the High King to protect the land, and battle against any and all that challenge the Covenant or threaten its citizens.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DREMORA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dremora, or, to themselves, the Kyn, are a form of humanoid Daedra. They serve Mehrunes Dagon, although they have been known to serve other Daedric Princes, such as Molag Bal, Boethiah and many others. they are the most honorable of Mehrunes Dagon's servants. They have a very militaristic culture, with many ranks and subdivisions within the culture of each clan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FLAME_ATRONACH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Flame Atronachs are a species of Daedra that prefer ranged magic to physical combat. Flame Atronach resembles a faceless humanoid female in body structure, though covered in flame. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SCAMP_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Scamps are small Daedra, and they aren't particularly intelligent, but they're agile combatants who delight in cruelty just as much as any of the larger and more powerful Daedra. They're often summoned to perform simple tasks, and make good (if sometimes unruly) messengers and servants. Scamps are able to launch fireballs from their hands and rain fire from the sky. Every now and then, the scamp can be heard gibbering away crazily in their own incomprehensible language.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DAEDROTH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The Daedroth are reptilian Daedra, that have mighty jaws and sharp teeth, and have deadly claws that they use to kill their enemies.  Daedroth are capable of breathing fire at their opponents, and are known to exist in Molag Bal's Oblivion plane of Coldharbour, although they can also be found throughout Tamriel, such as in the southern jungles of Valenwood. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARVEN_SPIDER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven Spiders are dwarven automatons found in Dwemer Ruins. Created by the Dwemer long ago, the Dwarven spiders served as repair drones, keeping the massive machines in working condition, even long after their Dwemer masters had vanished (which might explain why the machinery in Dwemer ruins still remains functional). </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARVEN_SPHERE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven Spheres are partially-humanoid machines that serve as sentries or guards in Dwemer Ruins and other select areas. Dwarven spheres can be found in all Dwemer ruins. When not engaged in combat, they are found folded up into a large metal ball shape roughly a meter in diameter, rolling around via a pair of diagonal wheels on either side. When they sense an intruder nearby, Dwarven Spheres will open up and unfold their body to full height, attacking with whatever weapons are mounted on their forearms. They can also appear out of massive pipes in the walls, popping out when a nearby trap is triggered, or simply if an intruder gets too close. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DWARVEN_CENTURION_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dwarven Centurions are very large mechanical guardians in Dwemer ruins. Their giant bodies, undoubtedly designed for combat, are constructed of solid Dwemer blocks and armored with thick dwarven plates. Their enormous body makes them move slowly, but this is balanced by the ability to take lots of damage and use very powerful attacks, making them extremely dangerous to low-level opponents. Of all the Animunculi left behind by the ancient Dwemer, the Dwarven Centurions are the most elaborately constructed, well-armed, defensive, and arguably the most dangerous.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GOBLIN_SLAVE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Goblins are small, humanoid creatures that live across Tamriel. They are often found living in clans, and appear to be somewhat related to mer. Various cultures in Tamriel have enslaved Goblins from time to time throughout history. The Tsaesci of Akavir reportedly brought goblins along during their invasion of Tamriel as servants and Cannon Fodder. The Altmer have similarly employed Goblins in this fashion at different points in history. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SEA_SERPENTS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sea Serpents are said to have formed from the blood of a magnificent scaly fish that pleaded for its life from one of the Aldmer, but was not spared. The Sea Serpents of Pyandonea have been tamed by the Maormer for use as steeds and warbeasts. These Sea Serpents serve as King Orgnum's guards and occasional mounts.</Text>
+		</Row>
+		<!-- RELGIONS-->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_EIGHT_DIVINES_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Eight Divines as an official religion was instituted by Alessia upon her slave revolt against the Ayleids. She is said to have consciously made a synthesis of Ayleid and Nordic gods, in order to appease both her Nord allies and the Cyrods and Ayleids she now ruled.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_EIGHT_DIVINES_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>Akatosh – The Dragon God of Time and chief god of the pantheon [NEWLINE] Arkay – God of the Cycle of Life, Death, and Mortals burials and funeral rites [NEWLINE] Dibella – Goddess of Beauty [NEWLINE] Julianos – God of Wisdom and Logic [NEWLINE] Kynareth – Goddess of Air, wind, sky and the Elements [NEWLINE] Mara – Goddess of Love and compassion, the Mother Goddess [NEWLINE] Stendarr – God of Mercy, Justice, charity, luck, and righteous rule by might and merciful forbearance [NEWLINE] Zenithar – God of Work and Commerce, Trader God</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_NINE_DIVINES_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Imperial Pantheon of the Nine Divines, also the Eight and One, consists of the most important religious order in Tamriel. The religion combines the Eight Divines pantheon created by Alessia with the apotheosized form of the founder of the Third Empire, Tiber Septim (Talos), the ninth Divine. There are six gods and three goddesses. In Cyrodiil, there is a chapel in each major city venerating the divines. There are also wayshrines along the roads that are devoted to the Nine Divines. Many of these gods also appear in various combinations in the pantheons of other cultures.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_NINE_DIVINES_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>Akatosh – The Dragon God of Time and chief god of the pantheon [NEWLINE] Arkay – God of the Cycle of Life, Death, and Mortals burials and funeral rites [NEWLINE] Dibella – Goddess of Beauty [NEWLINE] Julianos – God of Wisdom and Logic [NEWLINE] Kynareth – Goddess of Air, wind, sky and the Elements [NEWLINE] Mara – Goddess of Love and compassion, the Mother Goddess [NEWLINE] Stendarr – God of Mercy, Justice, charity, luck, and righteous rule by might and merciful forbearance [NEWLINE] Zenithar – God of Work and Commerce, Trader God [NEWLINE] Talos – Hero-god of Mankind, conqueror God, God of Might, Honor, State, Law, Man, War and Governance</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_AURI_EL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Auri-El or Auriel is the Elven variant of Akatosh, the chief god of the Nine Divines. Auri-El is the soul of Anui-El, who in turn is the soul of Anu, the Everything. He is often seen as chief of the Aldmeri Pantheon by his followers.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_YFFRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Y'ffre is the most important god of the Bosmeri pantheon. While Auri-El, the Time Dragon, might be the king of the gods, the Bosmer worship Y'ffre as the spirit of "the now." The Bosmer think that after the creation of the mortal plane everything was in chaos. The first mortals turned into plants and animals and back again. Then Y'ffre turned himself into the first of the Ehlnofey, the Earth Bones. After the laws of nature were established, mortals had some safety in the world because they could understand it. Y'ffre is called the Storyteller because of the lessons he taught the Bosmer. Some Bosmer still have the knowledge of the chaos times, which they can use to great effect, such as the Wild Hunt. In the Aldmeri Pantheon he is the God of the Forest.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MAGNUS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Magnus, also known as the god of magic, is an et'Ada, one of the Original Spirits. In the eras that followed, many Altmer and Bretons worshipped him as a god, and he became a part of their respective pantheons.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ALKOSH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Alkosh, colloquially known as the Dragon King of Cats,  is the chief deity of the Anaquinine Khajiit religion, which was loosely based on the Nine Divines and Altmer religions, and was a variation of the Aldmeri god Auri-El and the Imperial god Akatosh. He is depicted in ancient Khajiit legends as a fearsome dragon, but in the Third and Fourth Eras the Khajiit adapted the legends into claiming that he was actually just a big cat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_RIDDLE_THAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Riddle'Thar is the cosmic order deity of the Khajiiti. He is also known as the sugar god.The Riddle'Thar was revealed to Elsweyr by the prophet Rid-Thar-ri'Datta, the Mane. The Riddle'Thar is more a set of guidelines by which to live rather than a single entity, but some of his avatars like to appear as humble messengers of the gods.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_TALOS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Talos, also known as Tiber Septim, Ysmir, Dragonborn, and the heir to the Seat of Sundered Kings. Talos is worshipped as the protector and patron of just rulership and civil society, and his Nordic aspect of Ysmir is also seen as the patron of questing heroes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SHOR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Shor is the Nordic representation of the god Lorkhan, who after his creation of the mortal realm of Nirn took sides with the forefathers of Men in the Ehlnofey Wars of the Dawn Era. Ancient Atmoran tradition depicts Shor as a bloodthirsty warrior-god, who led the descendants of the Wandering Ehlnofey (the Men) to victory over their Old Ehlnofey (the Mer) oppressors time and again. efore his doom, Shor was called the King of the Gods, a title which has only been attributed to one other divinity; Akatosh. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ALDUIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Alduin, the World Eater is a mighty dragon who ruled over Skyrim during the Merethic Era. Worshipped as a god-king by the ancient Nords through the Dragon Cult, Alduin is sometimes considered the "wellspring" of the Nordic pantheon, as well as the harbinger of the apocalypse, and is believed to have a pivotal role in the reshaping of the world.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_SATAKAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Satakal is the Yokudan god of everything. He is a fusion of the concepts of Anu and Padomay. In essence, Satakal is much like the Nordic god Alduin, who destroys one world to begin the next.  In Yokudan mythology, Satakal had done this many times over, a cycle which prompted the birth of spirits that could survive the transition. These spirits ultimately became the Yokudan pantheon. Satakal is a popular god of the Alik'r nomads. The Maormer king Orgnum, is a deathless wizard who is also said to be the Serpent God of the Satakal.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ALMSIVI_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Tribunal, also known as the ALMSIVI or The Three, were the ruling gods of Morrowind and the Dunmer people from 1E 700 to 3E 427. The members of the Tribunal were Vivec, Almalexia, and Sotha Sil, and were worshiped by the Tribunal Temple.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_HIST_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Hist are a race of sentient trees that are said to have once been spread over a wide area of Nirn, but are now almost solely confined to Black Marsh. They are associated with the Argonians, who venerate them, but they are not worshipped in the traditional sense of the term. Argonians claim the ability to communicate with the Hist, although precise practices for doing so vary from tribe to tribe of Argonians. This communication takes on the significance of religious guidance for Argonians.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MERIDIA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Daedric Prince of Life and Lady of Infinite Energies, Meridia. Is one of the Princes whose obscurity renders her incomprehensible to most mortals, but is associated with the energy of living things. Meridia's holdings in Oblivion are collectively known as the "Colored Rooms." In the First Era, during Alessia's rebellion, the Ayleids made a pact with Meridia and her minions the Aurorans, to help the Ayleids against the human rebellion</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MALACATH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Malacath is the Daedric Prince of the spurned and the ostracized, the keeper of the Sworn Oath, and the Bloody Curse.  He is the patron Daedroth of the Orsimer. Gortwog gro-Nagorm created controversy among orcs because he accused Malacath of being a false god and created a priesthood dedicated to Trinimac the ancient champion of the Aedra. This view contradicted the common belief that Malacath was Trinimac after he was devoured by Boethiah. Gortwog believed that Trinimac was still alive and that Malacath was a demon. His views were regarded as heresy by most orcs. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MEHRUNES_DAGON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Mehrunes Dagon  spheres are destruction, change, revolution, energy, and ambition. Mehrunes Dagon is the foe of all mortal races, and has attempted to conquer the physical world Nirn many times. The common reasoning behind his many plots is his belief that Tamriel is in fact a plane of Oblivion which is rightly his. He constantly invaded Tamriel relentlessly from the First Era onward. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_MOLAG_BAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Molag Bal is the God of Schemes and the Daedric Prince of domination and enslavement of mortals. He is the creator of Vampires and Xivkyn as well.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_BLACK_DRAGON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Tosh Raka was the leader of the Tiger Dragons of Ka'Po'Tun. He is thought to be a god by the Ka Po' Tun, the reason being that he is the first and the only known member of his species to morph into a Dragon. Even as a dragon he still had the cat-like features of the Ka'Po'Tun. Under his rulership the Po'Tun changed their species' name to the Ka'Po'Tun.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_NUMIDIUM_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Numidium, also known as the Brass God or Brass Tower, is a colossal humanoid golem created by the Dwemer, said to have been a thousand feet tall.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_ZEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Z'en is the Kothri, Bosmeri, and Breton god of toil and "payment in kind". The Imperial god Zenithar is associated with Z'en, despite the former being a god of merchants and middle nobility. The worship of Z'en seems to have originated in both Argonian and Akaviri mythologies, and was "perhaps introduced into Valenwood by Kothringi sailors". Ostensibly an agriculture deity, Z'en "sometimes proves to be an entity of a much higher cosmic order".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_NEW_TEMPLE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Formed after the fall of the Tribunal and the second eruption of Red Mountain, better known as the Red Year. The temple reinstated the worship of the old Dunmeri Pantheon which included the Daedric Princes, Boethiah, Azura and Mephala. These three deities were known to the temple as the "Reclamations," as if reclaiming their status or the "True-Tribunal."  These Daedric Princes are considered to be the "Good Daedra," as opposed to the "Bad Daedra."</Text>
+		</Row>
+		<!-- CITY STATE-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EVERMORE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Evermore is one of the nine-major kingdoms in the province of High Rock, being the capital of both the regions of Bangkorai and Mournoth. Evermore is the center of trade of Bangkorai, where the Bjoulsae River meets the Iliac Bay. It was created by the river traders living in the Western Reach. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NORTHPOINT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Northpoint or North Point is one of the eight major kingdoms in the province of High Rock, being situated on the northern coast of the region of Rivenspire. Northpoint is the ancestral home of House Dorell, one of the three major houses of Rivenspire. The Dorell are experts in trading and maritime endeavors. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CAMLORN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Camlorn or Camlarn is one of the nine major kingdoms in the province of High Rock, situated in the central hills of Glenumbra. Camlorn is the cultural center of Glenumbra, as many artisans and scholars live within the walls of the city, and the greater area of the Cambray Hills. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JEHANNA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Jehanna or Jehenna is one of the eight major kingdoms in the province of High Rock and is located on the northeastern point of both the province and the region of Wrothgar. Jehanna is perhaps the youngest kingdom in High Rock, being established sometime after the creation of the Second iteration of Orsinium. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FHARUN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Fharun, Farrun, or Fharun Stronghold is one of the eight major kingdoms in High Rock and is the current capital of the Wrothgar region in the Western Reach. Fharun is also the home of one of the five major Orcish clans, the Fharun Clan. Members of the Fharun Clan were once leaders of the Kingdom of the Second Orsinium. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RIHAD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Rihad is a port city at the southern edge of Hammerfell, just north of its border with Cyrodiil. It is located on the coast of the Abecean Sea, on the main road between Anvil and Taneth. The city's population is an eclectic mix of Redguard Forebears, survivors of the Yokuda Ra Gada, followers of Satakal, a few Bretons, and warriors-in-training from all over the empire. Buildings in the city with its high domes, the flying dew sails, and the mosaic colophons were constructed over the old and new ruins of past civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TANETH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Taneth is one of the nine kingdoms in the province of Hammerfell, situated in the south-central coast around Hubalajad's Bay. Taneth is a prominent city of the Forebears, with it being one of their more influential cities, as it appears throughout history. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ELINHIR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Elinhir is one of the nine major kingdoms located in Hammerfell and is the capital of both the Craglorn region and the Proving Grounds region of Craglorn. Elinhir is the City of Mages that is the home of the Blackcaster Mages Guild, one of the most powerful magic covens located in Tamriel, rivaling the likes of the Synod and the College of Winterhold. Elinhir is noted as being of Hammerfell's Crown faction.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DRAGONSTAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dragonstar is one of the nine major kingdoms located in the province of Hammerfell, being a major city-state in the region of Craglorn. Dragonstar is a mining town, being the home of the Dragonstar Caravan Company. It has been disputed territory between Skyrim and Hammerfell ever since the War of Bend'r-Mahk. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SKAVYN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Ska'vyn or Skaven is one of the nine major kingdoms in the province of Hammerfell, being situated in the lands south of the Dragontail Mountains. Ska'vyn is located in the deep desert of Hammerfell, as the Dwarven spire of Fang Lair looms over the countryside. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_STROSMKAI_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Stros M'Kai is an island territory located on the eastern Abecean Sea near the mainland regions of Khefrem and Hew's Bane. The island has been important to the Kingdoms of Hammerfell as well as the Empires of Cyrodiil. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SKINGRAD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Skingrad, otherwise known as the Gem of Old Colovia, is one of the nine major cities located in the Imperial Province of Cyrodiil. Unlike Bravil, it is considered to be one of the cleanest, safest, and most prosperous cities in all of Cyrodiil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANVIL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Anvil or West Anvil is one of the nine major cities located in the Imperial Province of Cyrodiil. Anvil's ports are teeming with goods and trades from the Summerset Isles to Hammerfell. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BRAVIL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Bravil otherwise known as the Daughter of the Niben is one of the nine major cities located in the Imperial Province of Cyrodiil. Unlike Skingrad, Bravil is considered one of the dirtiest and the shadiest places in Cyrodiil. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KVATCH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Kvatch is one of the nine major counties in the province of Cyrodiil and is situated in the eastern hills of the Gold Coast. Kvatch was the holy city of Akatosh. Worship of Akatosh was prevalent in Kvatch and it was the location of a chapter of the Order of the Hour. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LEYAWIIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Leyawiin is one of the nine major cities located in the Imperial Province of Cyrodiil. Leyawiin has a large population of Argonians and Khajiits because of its close proximity to Alabaster in Pelletine and Gideon in Murkmire. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHORROL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Chorrol is one of the nine major cities located in the Imperial Province of Cyrodiil. Chorrol produces the hardest-workers seen on this side of Colovia and take advantage of the Great Forest and its flora. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CHEYDINHAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Cheydinhal is one of the nine major counties in the province of Cyrodiil, being the capital of both the Nibenay Basin and the County Cheydinhal. Cheydinhal is the cultural center of the Dark Elves in the Imperial Province, with architecture influenced by Morrowind. Many Dunmer live in Cheydinhal because of the city's proximity to their homeland. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BRUMA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Bruma is one of the nine major counties in the province of Cyrodiil, being the capital of the Jerall Mountains, within the Imperial Province. Bruma is known for the predominantly Cyro-Nordic population, which the county seat has embraced wholeheartedly. The architecture emphasizes the northern culture. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RIMMEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Rimmen is a city in Elsweyr. When humans were still in a primitive state, Khajiit caravans already reached as far as what is Rimmen today. In the early Fourth Era, following the Oblivion Crisis of 3E 433, Rimmen declared its independence from the Elsweyr confederacy.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BAANDARI_CLAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Baandari are a clan of Khajiit merchants and peddlers found in various locations across Tamriel. They lost their homeland many generations ago and now they travel all over Tamriel. The Baandari have a base of operations at the Baandari Trading Post located in Malabal Tor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SKAAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Skaal are a monotheistic society of Nords who inhabit the Skaal Village on Solstheim. They are culturally and religiously different to their counterparts in Skyrim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THE_REACH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Reach is one of the nine Holds of Skyrim. Its capital is the ancient Dwemer city of Markarth, where the Empire-aligned Jarl Igmund resides and holds court in Understone Keep. The symbol of the Reach is a ram's head. The Reach is infamous for harboring the Forsworn, a clan of Reachmen who are fighting a long war of independence and seek to retake Markarth from the Nords and free the Hold from Imperial authority.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SOLITUDE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Solitude or Haafingar is one of the nine major cities in the province of Skyrim and is the capital of both the Haafingar region and the entirety of West Skyrim. Solitude has been known as a flourishing metropolis within the blessed arms of the Empires of Cyrodiil, having ties with the Septim Empire especially. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DAWNSTAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Dawnstar or Danstrar is one of the nine-major cities in the province of Skyrim, being the capital of the region of the Pale. Dawnstar is a bustling trading town that produces all sorts of produce, ranging from fish to smithing materials. It is where the sun greets you as it begins its journey, hence the name. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FALKREATH_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Falkreath, Falcrenth, or Falcreath is one of the nine major cities in Skyrim and the capital of Falkreath Hold. Falkreath is known for its death and melancholy themes, It is also the home of Skyrim's vast graveyards, holding the remains of many fallen warriors from as far as the Merethic Era to the Fourth Era. Falkreath is considered a part of the Colovian Estates. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RIFTEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Riften or Rifton is one of the nine major cities in the province of Skyrim, being the capital of the Rift. Riften is a built along the shores of Lake Honrich, made from wooden platforms and serving as a main hub of trading throughout the Rift and the Southern Velothi Mountains. The lower canals are used as ports for skiffs moving throughout the lake. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WHITERUN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Whiterun is one of the nine major cities in the province of Skyrim; it is the capital of the Whiterun Hold region of Skyrim. Whiterun is well-known throughout the Empire for being the trading capital of Skyrim, due to its convenient location, surrounding the Hold capitals of Skyrim. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MORTHAL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Morthal is a small city in Skyrim located in the dense marshes of Hjaalmarch. Its ruling Jarl is Idgrod Ravencrone. It lies deep in the marsh, a foreboding area of Hjaalmarch isolated from other villages and shrouded by a constant and ominous fog.  </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_FIRSTHOLD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Firsthold is one of the eight major cities located in the province of the Summerset Isles, being the capital of the region of Auridon. As its name describes, Firsthold is the first settlement on the Summerset Isles and is perhaps the very first modern settlement on Tamriel, predating the cities of the human races and the beast races. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SADRITH_MORA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Sadrith Mora or Mushroom Forest is one of the four major cities located in the Vvardenfell District of Morrowind and is the capital of both Azura's Coast and the Telvanni District of Vvardenfell. Sadrith Mora is a city of absolute wonder as the spiraling mushroom towers kiss the skies above. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BLACKLIGHT_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Blacklight is one of the eight major cities in the province of Morrowind and is the capital of the northwestern region of the province. Blacklight is also the capital of the Great House Redoran, a political house known for their war-like ideals and their focus on strength and endurance. After Mournhold was sacked by the An-Xileel in 4E 6, Blacklight became the new capital of the province of Morrowind. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TEAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Tear or Dres is one of the eight major cities in the province of Morrowind, situated on the southeasternmost point of the province, near the border to Black Marsh. Tear is the ancestral capital of the Great House Dres, whose sphere of influence has involved agriculture and the hard-working spirit of the Dark Elves. They are known for practicing Slavery. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KOGORUHN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Kogoruhn  is one of several Dunmer Strongholds located in Vvardenfell, and the base of the Sixth House. It is made of four main buildings, and many sublocations, which lead through underground tunnels to and from the Red Mountain Region. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KOTHRINGI_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Kothringi were a race of tribal men that once inhabited Black Marsh. Before the Cyrodilic human slave uprising against the Ayleids in 1E 242, the Kothringi were among the many tribes of men that the Ayleids used as slaves. The Kothringi were eventually wiped out by the Knahaten Flu that started in 2E 560.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THRAS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Thras, also known as the Coral Kingdom, or the Coral Kingdom of Thras, is a partially-submerged archipelago in the Sea of Pearls that has been a powerful, antagonizing power against the Summerset Isles since before recorded time. The Sload may at one time have even called Summerset part of Thras. For millennia, the hulking, slug like creatures, notorious for their necromantic mastery, terrorized the Altmer, conjuring sea monsters along the coast and laying siege to Skywatch. But for all of the attacks, horror, and devastation coming from Thras, very little is known about the land itself.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SNOW_ELVES_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Snow Elves occasionally referred to as Ice Elves or Ancient Falmer, are a race of Mer that has nearly completely disappeared. During the Merethic Era, they were the main inhabitants of Skyrim, and had a very advanced society. It is commonly believed that centuries of underground living and Dwemer slavery twisted the race into becoming the blind, merciless and savage Falmer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ESRONIET_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Esroniet is an island-nation located in between the continents of Tamriel and Akavir. The major settlement in the land is Black Harbor, a port city under the reign of Prince Bashomon. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_YNESLEA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Yneslea was an island in an archipelago that was conquered by Uriel Septim V, and is located in between Tamriel and Akavir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CATHNOQUEY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Cathnoquey is an island in an archipelago that was conquered by Uriel Septim V, and is located in between Tamriel and Akavir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TANG_MO_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Tang Mo, also known as the "monkey people," are the inhabitants of The Thousand Monkey Isles. Little is known of them, except that the term "Tang Mo" translates as "Thousand Monkey Isles" in Akaviri, referring to the area that they live in, and the name they use to refer to themselves. There are various breeds of Tang Mo, all of which known to be very brave, simple, and believed to be insane. Over the eras, the Tang Mo have had to defend their nation from slavery attempts from all of the other nations of Akavir, especially from the Kamal. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ROSCREA_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Roscrea is an island that was conquered by Uriel Septim V in the year 3E 271, three years after his ascension to Emperor in 3E 268. According to records, it took his armies roughly three years to conquer the island.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

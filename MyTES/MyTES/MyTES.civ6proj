@@ -12,12 +12,15 @@
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><File>MyTES_Civs.xml</File><File>MyTES_Leaders.xml</File><File>MyTES_Buildings.xml</File><File>MyTES_Units.xml</File><File>MyTES_UnitAbilities.xml</File><File>MyTES_Colors.xml</File><File>MyTES_Improvements.xml</File><File>MyTES_CityStates.xml</File><File>MyTES_Religions.xml</File><File>MyTES_Wonders.xml</File></UpdateDatabase><UpdateDatabase id="UsingExpansion2"><Criteria>Expansion2</Criteria><File>MyTEST_Expansion2.xml</File></UpdateDatabase><UpdateText id="Text"><File>MyTES_ConfigText.xml</File><File>MyTES_Text.xml</File><File>Translations/MyTES_ConfigES.xml</File></UpdateText><UpdateIcons id="Icons"><File>MyTES_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><File>MyTES_Civs.xml</File><File>MyTES_Leaders.xml</File><File>MyTES_Buildings.xml</File><File>MyTES_Units.xml</File><File>MyTES_UnitAbilities.xml</File><File>MyTES_Colors.xml</File><File>MyTES_Improvements.xml</File><File>MyTES_CityStates.xml</File><File>MyTES_Religions.xml</File><File>MyTES_Wonders.xml</File></UpdateDatabase><UpdateDatabase id="UsingExpansion2"><Criteria>Expansion2</Criteria><File>MyTEST_Expansion2.xml</File></UpdateDatabase><UpdateText id="Text"><File>MyTES_ConfigText.xml</File><File>MyTES_Text.xml</File><File>Translations/MyTES_ConfigES.xml</File><File>MyTES_Civilopedia.xml</File></UpdateText><UpdateIcons id="Icons"><File>MyTES_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>MyTES_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>MyTES_ConfigText.xml</File><File>Translations/MyTES_ConfigES.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>MyTES_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt>
+    
     <AddMap id="AddMapTES"><Properties><Group>StandardMaps</Group><Name>The Elder Scrolls Map Vanilla</Name><Description>The Elder Scrolls Map</Description></Properties><File>Maps/TES_World.Civ6Map</File></AddMap>
     <AddMap id="AddMapTESRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>The Elder Scrolls Map RF</Name><Description>The Elder Scrolls Map RF</Description></Properties><File>Maps/TES_World.Civ6Map</File></AddMap>
     <AddMap id="AddMapTESGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>The Elder Scrolls Map Gathering</Name><Description>The Elder Scrolls Map Gathering</Description></Properties><File>Maps/TES_World.Civ6Map</File></AddMap>
-
+    <AddMap id="AddMapTAMRIEL"><Properties><Group>StandardMaps</Group><Name>Big Tamriel Map Vanilla</Name><Description>The Elder Scrolls Tamriel Map</Description></Properties><File>Maps/TAMRIEL_MAP.Civ6Map</File></AddMap>
+    <AddMap id="AddMapTAMRIELRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>Big Tamriel Map RF</Name><Description>The Elder Scrolls Tamriel Map RF</Description></Properties><File>Maps/TAMRIEL_MAP.Civ6Map</File></AddMap>
+    <AddMap id="AddMapTAMRIELGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>Big Tamriel Map Gathering</Name><Description>Tamriel Map Gathering</Description></Properties><File>Maps/TAMRIEL_MAP.Civ6Map</File></AddMap>
     </FrontEndActions>]]></FrontEndActionData>
     <AssemblyName>MyTES</AssemblyName>
     <RootNamespace>MyTES</RootNamespace>
@@ -39,7 +42,13 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Maps\TAMRIEL_MAP.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Maps\TES_World.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTES_Civilopedia.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyTES_UnitAbilities.xml">

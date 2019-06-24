@@ -27,6 +27,7 @@
 		<Row Type="ABILITY_GOBLIN_SLAVE" Kind="KIND_ABILITY"/>
 		<Row Type="ABILITY_DAIKATANA_SOLDIER" Kind="KIND_ABILITY"/>
 		<Row Type="ABILITY_SNOW_DEMON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MYTES_MELEE_HILLS_BONUS" Kind="KIND_ABILITY"/>
 
 	</Types>
 
@@ -57,7 +58,9 @@
 		<Row Type="ABILITY_GOBLIN_SLAVE" Tag="CLASS_GOBLIN_SLAVE"/>
 		<Row Type="ABILITY_DAIKATANA_SOLDIER" Tag="CLASS_DAIKATANA_SOLDIER"/>
 		<Row Type="ABILITY_SNOW_DEMON" Tag="CLASS_SNOW_DEMON"/>
-
+		<!--City States -->
+		<Row Type="ABILITY_MYTES_MELEE_HILLS_BONUS" Tag="CLASS_MELEE"/>
+		<!-- End City States-->
 	</TypeTags>
 
 	<UnitAbilities>
@@ -87,7 +90,9 @@
 		<Row UnitAbilityType="ABILITY_GOBLIN_SLAVE" Name="LOC_ABILITY_GOBLIN_SLAVE_NAME" Description="LOC_ABILITY_GOBLIN_SLAVE_DESCRIPTION"/>
 		<Row UnitAbilityType="ABILITY_DAIKATANA_SOLDIER" Name="LOC_ABILITY_DAIKATANA_SOLDIER_NAME" Description="LOC_ABILITY_DAIKATANA_SOLDIER_DESCRIPTION"/>
 		<Row UnitAbilityType="ABILITY_SNOW_DEMON" Name="LOC_ABILITY_SNOW_DEMON_NAME" Description="LOC_ABILITY_SNOW_DEMON_DESCRIPTION"/>
-
+		<!--City States -->
+		<Row UnitAbilityType="ABILITY_MYTES_MELEE_HILLS_BONUS" Name="LOC_ABILITY_MYTES_MELEE_HILLS_BONUS_NAME" Description="LOC_ABILITY_MYTES_MELEE_HILLS_BONUS_DESCRIPTION" Inactive="true"/>
+		<!-- End City States-->
 	</UnitAbilities>
 
 	<UnitAbilityModifiers>
@@ -219,6 +224,12 @@
 			<UnitAbilityType>ABILITY_SNOW_DEMON</UnitAbilityType>
 			<ModifierId>VARU_NEGATIVE_COMBAT</ModifierId>
 		</Row>
+		<!--City States -->
+		<Row>
+			<UnitAbilityType>ABILITY_MYTES_MELEE_HILLS_BONUS</UnitAbilityType>
+			<ModifierId>MYTES_MELEE_HILLS_BONUS</ModifierId>
+		</Row>
+		<!-- End City States-->
 	</UnitAbilityModifiers>
 
 	<Modifiers>
@@ -290,6 +301,13 @@
 			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
 			<SubjectRequirementSetId>ROUGH_RIDER_HILL_TERRAIN_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYTES_MELEE_HILLS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BALKAN_CAVALRY_PLOT_IS_HILS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<!-- End City States-->
 	</Modifiers>
 	<ModifierArguments>
 		<Row>
@@ -362,6 +380,13 @@
 			<Name>Amount</Name>
 			<Value>5</Value>
 		</Row>
+		<!--City States -->
+		<Row>
+			<ModifierId>MYTES_MELEE_HILLS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<!-- End City States-->
 	</ModifierArguments>
 	<ModifierStrings>
 		<Row ModifierId="MYTES_ANTICAV_UNITS_BONUS" Context="Preview" Text="LOC_ABILITY_MYTES_ANTICAV_UNITS_BONUS_DESCRIPTION"/>
@@ -378,7 +403,9 @@
 		<Row ModifierId="TES_MARSH_DAEDROTH_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_DAEDROTH_DESCRIPTION"/>
 		<Row ModifierId="TES_AURORAN_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_AURORAN_DESCRIPTION"/>
 		<Row ModifierId="TES_GOBLIN_SLAVE_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_GOBLIN_SLAVE_DESCRIPTION"/>
-
+		<!--City States -->
+		<Row ModifierId="MYTES_MELEE_HILLS_BONUS" Context="Preview" Text="LOC_ABILITY_MYTES_MELEE_HILLS_BONUS_DESCRIPTION"/>
+		<!-- End City States-->
 	</ModifierStrings>
 	
 	<RequirementSets>

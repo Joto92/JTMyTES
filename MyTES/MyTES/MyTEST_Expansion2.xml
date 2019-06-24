@@ -165,21 +165,233 @@
 			<Value>true</Value>
 		</Row>
 	</ModifierArguments>
-	
-	<!-- 
-	Rivers:###########################
-	Skyrim: The White River, Yorgrim River, Darkwater River, Treva River, Karth River, Hjaal River
-		Iggnir River, Harstrad River, Isild River, Chase River
-	Morrowind: Thir River, Nabia River, Odai River, River Samsi, Pryai River
-	Highrock: Bjoulsae River
-	Hammerfell: Bjoulsae River, Irk River, Tark River
-	Cydoriil: Niben River, White Rose River, Reed River, Corbolo River, Silverfish River, Larsius River, Brena River, Panther River, Strid River
-	Elsweyr: Larsius River, Crescent River
-	Valenwood: Xylo River, Crescent River,  Strid River
-	Summerset: Diceto River, Cloer River
-	Black Marsh: Keel-Sakka River, Onkobra River
-	Taesci: Meratsies River, Topara River
-	Kamal: Golishar River
-	Kapotun: Kan So River
-	-->
+
+	<Types>
+		<Row Type="NAMED_RIVER_THE_WHITE_RIVER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_YORGRIM" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DARKWATER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TREVA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_KARTH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_HJAAL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_IGGNIR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_HARSTRAD" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ISILD" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CHASE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_THIR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NABIA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ODAI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SAMSI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_PRYAI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BJOULSAE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_IRK" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TARK" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NIBEN" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WHITE_ROSE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_REED" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CORBOLO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SILVERFISH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LARSIUS" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BRENA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_PANTHER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_STRID" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CRESCENT" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_XYLO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DICETO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CLOER" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_KEEL_SAKKA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ONKOBRA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MERATSIES" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TOPARA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GOLISHAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_KAN_SO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_VOLCANO_ASH_MOUNTAIN" Kind="KIND_NAMED_VOLCANO"/>
+		<Row Type="NAMED_DESERT_ALIKR" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_MOUNTAIN_JERALL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_VALUS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_WROTHGARIAN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGONS_TEETH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGONTAIL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_OGRES_TOOTH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_VELOTHI" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRUADACH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MOESRING" Kind="KIND_NAMED_MOUNTAIN"/>
+	</Types>
+	<NamedRivers>
+		<Row NamedRiverType="NAMED_RIVER_THE_WHITE_RIVER" Name="LOC_NAMED_RIVER_THE_WHITE_RIVER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_YORGRIM" Name="LOC_NAMED_RIVER_YORGRIM_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DARKWATER" Name="LOC_NAMED_RIVER_DARKWATER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TREVA" Name="LOC_NAMED_RIVER_TREVA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_KARTH" Name="LOC_NAMED_RIVER_KARTH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_HJAAL" Name="LOC_NAMED_RIVER_HJAAL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_IGGNIR" Name="LOC_NAMED_RIVER_IGGNIR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_HARSTRAD" Name="LOC_NAMED_RIVER_HARSTRAD_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ISILD" Name="LOC_NAMED_RIVER_ISILD_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CHASE" Name="LOC_NAMED_RIVER_CHASE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_THIR" Name="LOC_NAMED_RIVER_THIR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NABIA" Name="LOC_NAMED_RIVER_NABIA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ODAI" Name="LOC_NAMED_RIVER_ODAI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SAMSI" Name="LOC_NAMED_RIVER_SAMSI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_PRYAI" Name="LOC_NAMED_RIVER_PRYAI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BJOULSAE" Name="LOC_NAMED_RIVER_BJOULSAE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_IRK" Name="LOC_NAMED_RIVER_IRK_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TARK" Name="LOC_NAMED_RIVER_TARK_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NIBEN" Name="LOC_NAMED_RIVER_NIBEN_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WHITE_ROSE" Name="LOC_NAMED_RIVER_WHITE_ROSE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_REED" Name="LOC_NAMED_RIVER_REED_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CORBOLO" Name="LOC_NAMED_RIVER_CORBOLO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SILVERFISH" Name="LOC_NAMED_RIVER_SILVERFISH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LARSIUS" Name="LOC_NAMED_RIVER_LARSIUS_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BRENA" Name="LOC_NAMED_RIVER_BRENA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_PANTHER" Name="LOC_NAMED_RIVER_PANTHER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_STRID" Name="LOC_NAMED_RIVER_STRID_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CRESCENT" Name="LOC_NAMED_RIVER_CRESCENT_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_XYLO" Name="LOC_NAMED_RIVER_XYLO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DICETO" Name="LOC_NAMED_RIVER_DICETO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CLOER" Name="LOC_NAMED_RIVER_CLOER_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_KEEL_SAKKA" Name="LOC_NAMED_RIVER_KEEL_SAKKA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ONKOBRA" Name="LOC_NAMED_RIVER_ONKOBRA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MERATSIES" Name="LOC_NAMED_RIVER_MERATSIES_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TOPARA" Name="LOC_NAMED_RIVER_TOPARA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GOLISHAR" Name="LOC_NAMED_RIVER_GOLISHAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_KAN_SO" Name="LOC_NAMED_RIVER_KAN_SO_NAME"/>
+	</NamedRivers>
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_THE_WHITE_RIVER" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_YORGRIM" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_DARKWATER" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_TREVA" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_KARTH" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_HJAAL" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_IGGNIR" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_HARSTRAD" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_ISILD" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_CHASE" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedRiverType="NAMED_RIVER_THIR" CivilizationType="CIVILIZATION_MORROWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_NABIA" CivilizationType="CIVILIZATION_MORROWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_ODAI" CivilizationType="CIVILIZATION_MORROWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_SAMSI" CivilizationType="CIVILIZATION_MORROWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_PRYAI" CivilizationType="CIVILIZATION_MORROWIND"/>
+		<Row NamedRiverType="NAMED_RIVER_BJOULSAE" CivilizationType="CIVILIZATION_HIGHROCK"/>
+		<Row NamedRiverType="NAMED_RIVER_BJOULSAE" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+		<Row NamedRiverType="NAMED_RIVER_IRK" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+		<Row NamedRiverType="NAMED_RIVER_TARK" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+		<Row NamedRiverType="NAMED_RIVER_NIBEN" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_WHITE_ROSE" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_REED" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_CORBOLO" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_SILVERFISH" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_LARSIUS" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_BRENA" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_PANTHER" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_STRID" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedRiverType="NAMED_RIVER_LARSIUS" CivilizationType="CIVILIZATION_KHAJIT"/>
+		<Row NamedRiverType="NAMED_RIVER_CRESCENT" CivilizationType="CIVILIZATION_KHAJIT"/>
+		<Row NamedRiverType="NAMED_RIVER_XYLO" CivilizationType="CIVILIZATION_BOSMER"/>
+		<Row NamedRiverType="NAMED_RIVER_CRESCENT" CivilizationType="CIVILIZATION_BOSMER"/>
+		<Row NamedRiverType="NAMED_RIVER_STRID" CivilizationType="CIVILIZATION_BOSMER"/>
+		<Row NamedRiverType="NAMED_RIVER_DICETO" CivilizationType="CIVILIZATION_ALTMER"/>
+		<Row NamedRiverType="NAMED_RIVER_CLOER" CivilizationType="CIVILIZATION_ALTMER"/>
+		<Row NamedRiverType="NAMED_RIVER_KEEL_SAKKA" CivilizationType="CIVILIZATION_ARGONIANS"/>
+		<Row NamedRiverType="NAMED_RIVER_ONKOBRA" CivilizationType="CIVILIZATION_ARGONIANS"/>
+		<Row NamedRiverType="NAMED_RIVER_MERATSIES" CivilizationType="CIVILIZATION_TSAESCI"/>
+		<Row NamedRiverType="NAMED_RIVER_TOPARA" CivilizationType="CIVILIZATION_TSAESCI"/>
+		<Row NamedRiverType="NAMED_RIVER_GOLISHAR" CivilizationType="CIVILIZATION_KAMAL"/>
+		<Row NamedRiverType="NAMED_RIVER_KAN_SO" CivilizationType="CIVILIZATION_KA_POTUN"/>
+	</NamedRiverCivilizations>
+
+	<NamedVolcanoes>
+		<Row NamedVolcanoType="NAMED_VOLCANO_ASH_MOUNTAIN" Name="LOC_NAMED_VOLCANO_ASH_MOUNTAIN_NAME"/>
+	</NamedVolcanoes>
+	<NamedVolcanoCivilizations>
+		<Row NamedVolcanoType="NAMED_VOLCANO_ASH_MOUNTAIN" CivilizationType="CIVILIZATION_MORROWIND"/>
+	</NamedVolcanoCivilizations>
+	<NamedDeserts>
+		<Row NamedDesertType="NAMED_DESERT_ALIKR" Name="LOC_NAMED_DESERT_ALIKR_NAME"/>
+	</NamedDeserts>
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_ALIKR" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+	</NamedDesertCivilizations>
+
+	<NamedMountains>
+		<Row NamedMountainType="NAMED_MOUNTAIN_JERALL" Name="LOC_NAMED_MOUNTAIN_JERALL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VALUS" Name="LOC_NAMED_MOUNTAIN_VALUS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WROTHGARIAN" Name="LOC_NAMED_MOUNTAIN_WROTHGARIAN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONS_TEETH" Name="LOC_NAMED_MOUNTAIN_DRAGONS_TEETH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONTAIL" Name="LOC_NAMED_MOUNTAIN_DRAGONTAIL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OGRES_TOOTH" Name="LOC_NAMED_MOUNTAIN_OGRES_TOOTH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VELOTHI" Name="LOC_NAMED_MOUNTAIN_VELOTHI_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRUADACH" Name="LOC_NAMED_MOUNTAIN_DRUADACH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOESRING" Name="LOC_NAMED_MOUNTAIN_MOESRING_NAME"/>
+	</NamedMountains>
+
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_JERALL" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VALUS" CivilizationType="CIVILIZATION_CYRODILIC_EMPIRE"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_WROTHGARIAN" CivilizationType="CIVILIZATION_HIGHROCK"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONS_TEETH" CivilizationType="CIVILIZATION_HIGHROCK"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGONTAIL" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_OGRES_TOOTH" CivilizationType="CIVILIZATION_HAMMERFEL"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_JERALL" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VELOTHI" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRUADACH" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MOESRING" CivilizationType="CIVILIZATION_SKYRIM"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_VELOTHI" CivilizationType="CIVILIZATION_MORROWIND"/>
+	</NamedMountainCivilizations>
+
+	<Features_XP2>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" Volcano="true"/>
+	</Features_XP2>
+
+	<Types>
+		<Row Type="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" Kind="KIND_RANDOM_EVENT"/>
+		<Row Type="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" Kind="KIND_RANDOM_EVENT"/>
+	</Types>
+
+	<RandomEvents>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" Name="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="0" NaturalWonder="FEATURE_RED_MOUNTAIN" IconLarge="ClimateEvent_VolcanoInactive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" Name="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="1" NaturalWonder="FEATURE_RED_MOUNTAIN" IconLarge="ClimateEvent_VolcanoActive" IconSmall="ClimateEventStat_Volcanoes"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" Name="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_NAME" Description="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_DESCRIPTION" EffectString="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY" EffectOperatorType="FEATURE" Severity="2" NaturalWonder="FEATURE_RED_MOUNTAIN" IconLarge="ClimateEvent_VolcanoErupting" IconSmall="ClimateEventStat_Volcanoes"/>
+	</RandomEvents>
+
+	<RandomEvent_Frequencies>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_MINIMAL" OccurrencesPerGame="0.5"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_LIGHT" OccurrencesPerGame="1"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="5"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="2.5"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_MODERATE" OccurrencesPerGame="1.5"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="6"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_HEAVY" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="2"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="4"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" RealismSettingType="REALISM_SETTING_HYPERREAL" OccurrencesPerGame="6"/>
+	</RandomEvent_Frequencies>
+
+	<RandomEvent_Damages>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" DamageType="IMPROVEMENT_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_GENTLE" DamageType="BUILDING_PILLAGED" Percentage="100"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="POPULATION_LOSS" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="UNIT_KILLED_CIVILIAN" Percentage="20" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="CITY_GARRISON" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_CATASTROPHIC" DamageType="CITY_WALLS" Percentage="100" MinHP="40" MaxHP="60" ExtraRangePercentage="50"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="IMPROVEMENT_DESTROYED" Percentage="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="IMPROVEMENT_PILLAGED" Percentage="100" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="DISTRICT_PILLAGED" Percentage="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="BUILDING_PILLAGED" Percentage="100" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="POPULATION_LOSS" Percentage="35" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="UNIT_KILLED_CIVILIAN" Percentage="35" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="UNIT_DAMAGE_LAND" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="CITY_GARRISON" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+		<Row RandomEventType="RANDOM_EVENT_RED_MOUNTAIN_MEGACOLOSSAL" DamageType="CITY_WALLS" Percentage="100" MinHP="60" MaxHP="80" ExtraRangePercentage="30"/>
+	</RandomEvent_Damages>
 </GameData>

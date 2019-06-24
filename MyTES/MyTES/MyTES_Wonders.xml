@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 <!--
-NW: Red Mountain, Throat of the World
 Building Wonders: Blue Palace, Jorrvaskr, Ysgramor's Tomb, Crystal Tower, White-Gold Tower
 -->
+	<Types>
+		<Row Type="FEATURE_RED_MOUNTAIN" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_THROAT_OFTHE_WORLD" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_ETON_NIR" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_ELDEN_GROVE" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MURKWOOD" Kind="KIND_FEATURE" />
+
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" Name="LOC_FEATURE_RED_MOUNTAIN_NAME" Description="LOC_FEATURE_RED_MOUNTAIN_DESCRIPTION" Quote="LOC_FEATURE_RED_MOUNTAIN_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" Name="LOC_FEATURE_THROAT_OFTHE_WORLD_NAME" Description="LOC_FEATURE_THROAT_OFTHE_WORLD_DESCRIPTION" Quote="LOC_FEATURE_THROAT_OFTHE_WORLD_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_ETON_NIR" Name="LOC_FEATURE_ETON_NIR_NAME" Description="LOC_FEATURE_ETON_NIR_DESCRIPTION" Quote="LOC_FEATURE_ETON_NIR_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" Name="LOC_FEATURE_ELDEN_GROVE_NAME" Description="LOC_FEATURE_ELDEN_GROVE_DESCRIPTION" Quote="LOC_FEATURE_ELDEN_GROVE_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MURKWOOD" Name="LOC_FEATURE_MURKWOOD_NAME" Description="LOC_FEATURE_MURKWOOD_DESCRIPTION" Quote="LOC_FEATURE_MURKWOOD_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="4" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" DefenseModifier="-2" MovementChange="1" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MURKWOOD" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MURKWOOD" TerrainType="TERRAIN_PLAINS"/>
+	</Feature_ValidTerrains>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_MURKWOOD" TerrainType="TERRAIN_SNOW"/>
+	</Feature_NotAdjacentTerrains>
+	
+	<Feature_AdjacentTerrains>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_ETON_NIR" TerrainType="TERRAIN_PLAINS_HILLS"/>
+	</Feature_AdjacentTerrains>
+	
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row FeatureType="FEATURE_RED_MOUNTAIN" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_THROAT_OFTHE_WORLD" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row FeatureType="FEATURE_ETON_NIR" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+	</Feature_AdjacentYields>
+
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" YieldType="YIELD_SCIENCE" YieldChange="3"/>
+		<Row FeatureType="FEATURE_ELDEN_GROVE" YieldType="YIELD_FAITH" YieldChange="3"/>
+		<Row FeatureType="FEATURE_MURKWOOD" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MURKWOOD" YieldType="YIELD_FAITH" YieldChange="1"/>
+	</Feature_YieldChanges>
 </GameData>

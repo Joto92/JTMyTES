@@ -227,11 +227,11 @@
 		<Row Tag="LOC_CITY_NAME_RIVERWOOD" Language="en_US">
 			<Text>Riverwood</Text>
 		</Row>
-		<Row Tag="LOC_CITY_NAME_FALKRETH" Language="en_US">
-			<Text>Falkreth</Text>
+		<Row Tag="LOC_CITY_NAME_FALKREATH" Language="en_US">
+			<Text>Falkreath</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_MARKATH" Language="en_US">
-			<Text>Markath</Text>
+			<Text>Markarth</Text>
 		</Row>
 		<Row Tag="LOC_CITY_NAME_HELGEN" Language="en_US">
 			<Text>Helgen</Text>
@@ -2081,6 +2081,996 @@
 		</Row>
 		<Row Tag="LOC_CONTINENT_TANGMO_NAME" Language="en_US">
 			<Text>Tang Mo</Text>
+		</Row>
+		<!-- Evermore-->
+		<Row Tag="LOC_MINOR_CIV_EVERMORE_TRAIT_NAME" Language="en_US">
+			<Text>Evermore</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EVERMORE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a River. </Text>
+		</Row>
+		<Row Tag="LOC_EVERMORE_NAME" Language="en_US">
+			<Text>Evermore</Text>
+		</Row>
+		<Row Tag="LOC_EVERMORE_DESCRIPTION" Language="en_US">
+			<Text>City State of Evermore</Text>
+		</Row>
+		<Row Tag="LOC_EVERMORE_ADJECTIVE" Language="en_US">
+			<Text>Evermore</Text>
+		</Row>
+		<!-- Northpoint-->
+		<Row Tag="LOC_MINOR_CIV_NORTHPOINT_TRAIT_NAME" Language="en_US">
+			<Text>Northpoint</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NORTHPOINT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_NORTHPOINT_NAME" Language="en_US">
+			<Text>Northpoint</Text>
+		</Row>
+		<Row Tag="LOC_NORTHPOINT_DESCRIPTION" Language="en_US">
+			<Text>City State of Northpoint</Text>
+		</Row>
+		<Row Tag="LOC_NORTHPOINT_ADJECTIVE" Language="en_US">
+			<Text>Northpoint</Text>
+		</Row>
+		<!-- Camlorn-->
+		<Row Tag="LOC_MINOR_CIV_CAMLORN_TRAIT_NAME" Language="en_US">
+			<Text>Camlorn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CAMLORN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Campus and Theater districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_CAMLORN_NAME" Language="en_US">
+			<Text>Camlorn</Text>
+		</Row>
+		<Row Tag="LOC_CAMLORN_DESCRIPTION" Language="en_US">
+			<Text>City State of Camlorn</Text>
+		</Row>
+		<Row Tag="LOC_CAMLORN_ADJECTIVE" Language="en_US">
+			<Text>Camlorn</Text>
+		</Row>
+		<!-- Jehanna-->
+		<Row Tag="LOC_MINOR_CIV_JEHANNA_TRAIT_NAME" Language="en_US">
+			<Text>Jehanna</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_JEHANNA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Theater District gains +1 [ICON_Culture] Culture for adjacency to Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_JEHANNA_NAME" Language="en_US">
+			<Text>Jehanna</Text>
+		</Row>
+		<Row Tag="LOC_JEHANNA_DESCRIPTION" Language="en_US">
+			<Text>City State of Jehanna</Text>
+		</Row>
+		<Row Tag="LOC_JEHANNA_ADJECTIVE" Language="en_US">
+			<Text>Jehanna</Text>
+		</Row>
+		<Row Tag="LOC_TES_DISTRICT_TUNDRA_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for adjacency to Tundra.</Text>
+		</Row>
+		<!-- Fharun-->
+		<Row Tag="LOC_MINOR_CIV_FHARUN_TRAIT_NAME" Language="en_US">
+			<Text>Fharun</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FHARUN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your units receive double experience from battles they initiate.</Text>
+		</Row>
+		<Row Tag="LOC_FHARUN_NAME" Language="en_US">
+			<Text>Fharun</Text>
+		</Row>
+		<Row Tag="LOC_FHARUN_DESCRIPTION" Language="en_US">
+			<Text>City State of Fharun</Text>
+		</Row>
+		<Row Tag="LOC_FHARUN_ADJECTIVE" Language="en_US">
+			<Text>Fharun</Text>
+		</Row>
+		<!-- Rihad-->
+		<Row Tag="LOC_MINOR_CIV_RIHAD_TRAIT_NAME" Language="en_US">
+			<Text>Rihad</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RIHAD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>City Center buildings and Encampment district buildings can be bought with [ICON_Faith] Faith. Cost of purchasing Ancient, Medieval, and Renaissance Walls is reduced, but they can only be bought with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_RIHAD_NAME" Language="en_US">
+			<Text>Rihad</Text>
+		</Row>
+		<Row Tag="LOC_RIHAD_DESCRIPTION" Language="en_US">
+			<Text>City State of Rihad</Text>
+		</Row>
+		<Row Tag="LOC_RIHAD_ADJECTIVE" Language="en_US">
+			<Text>Rihad</Text>
+		</Row>
+		<!-- Taneth-->
+		<Row Tag="LOC_MINOR_CIV_TANETH_TRAIT_NAME" Language="en_US">
+			<Text>Taneth</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TANETH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Sites gains 1 [ICON_Faith] Faith if they are next to a Desert.</Text>
+		</Row>
+		<Row Tag="LOC_TANETH_NAME" Language="en_US">
+			<Text>Taneth</Text>
+		</Row>
+		<Row Tag="LOC_TANETH_DESCRIPTION" Language="en_US">
+			<Text>City State of Taneth</Text>
+		</Row>
+		<Row Tag="LOC_TANETH_ADJECTIVE" Language="en_US">
+			<Text>Taneth</Text>
+		</Row>
+		<Row Tag="LOC_TES_DISTRICT_DESERT_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Desert</Text>
+		</Row>
+		<!-- Elinhir-->
+		<Row Tag="LOC_MINOR_CIV_ELINHIR_TRAIT_NAME" Language="en_US">
+			<Text>Elinhir</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ELINHIR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>When you enter a new era, earn 1 random [ICON_TechBoosted] Eureka from that era.</Text>
+		</Row>
+		<Row Tag="LOC_ELINHIR_NAME" Language="en_US">
+			<Text>Elinhir</Text>
+		</Row>
+		<Row Tag="LOC_ELINHIR_DESCRIPTION" Language="en_US">
+			<Text>City State of Elinhir</Text>
+		</Row>
+		<Row Tag="LOC_ELINHIR_ADJECTIVE" Language="en_US">
+			<Text>Elinhir</Text>
+		</Row>
+		<!-- Dragonstar-->
+		<Row Tag="LOC_MINOR_CIV_DRAGONSTAR_TRAIT_NAME" Language="en_US">
+			<Text>Dragonstar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DRAGONSTAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONSTAR_NAME" Language="en_US">
+			<Text>Dragonstar</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONSTAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Dragonstar</Text>
+		</Row>
+		<Row Tag="LOC_DRAGONSTAR_ADJECTIVE" Language="en_US">
+			<Text>Dragonstar</Text>
+		</Row>
+		<!-- Ska'vyn-->
+		<Row Tag="LOC_MINOR_CIV_SKAVYN_TRAIT_NAME" Language="en_US">
+			<Text>Ska'vyn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SKAVYN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zones gains 1 [ICON_Production] Production if they are next to a Desert.</Text>
+		</Row>
+		<Row Tag="LOC_SKAVYN_NAME" Language="en_US">
+			<Text>Ska'vyn</Text>
+		</Row>
+		<Row Tag="LOC_SKAVYN_DESCRIPTION" Language="en_US">
+			<Text>City State of Ska'vyn</Text>
+		</Row>
+		<Row Tag="LOC_SKAVYN_ADJECTIVE" Language="en_US">
+			<Text>Ska'vyn</Text>
+		</Row>
+		<!-- Stros M'Kai-->
+		<Row Tag="LOC_MINOR_CIV_STROSMKAI_TRAIT_NAME" Language="en_US">
+			<Text>Stros M'Kai</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_STROSMKAI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Trader units are immune to being plundered on water tiles.</Text>
+		</Row>
+		<Row Tag="LOC_STROSMKAI_NAME" Language="en_US">
+			<Text>Stros M'Kai</Text>
+		</Row>
+		<Row Tag="LOC_STROSMKAI_DESCRIPTION" Language="en_US">
+			<Text>City State of Stros M'Kai</Text>
+		</Row>
+		<Row Tag="LOC_STROSMKAI_ADJECTIVE" Language="en_US">
+			<Text>Stros M'Kai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STROSMKAI" Language="en_US">
+			<Text>Stros M'Kai</Text>
+		</Row>
+		<!-- Skingrad-->
+		<Row Tag="LOC_MINOR_CIV_SKINGRAD_TRAIT_NAME" Language="en_US">
+			<Text>Skingrad</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SKINGRAD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_SKINGRAD_NAME" Language="en_US">
+			<Text>Skingrad</Text>
+		</Row>
+		<Row Tag="LOC_SKINGRAD_DESCRIPTION" Language="en_US">
+			<Text>City State of Skingrad</Text>
+		</Row>
+		<Row Tag="LOC_SKINGRAD_ADJECTIVE" Language="en_US">
+			<Text>Skingrad</Text>
+		</Row>
+		<!-- Anvil-->
+		<Row Tag="LOC_MINOR_CIV_ANVIL_TRAIT_NAME" Language="en_US">
+			<Text>Anvil</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ANVIL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_Gold] Gold for each Luxury resource at the destination.</Text>
+		</Row>
+		<Row Tag="LOC_ANVIL_NAME" Language="en_US">
+			<Text>Anvil</Text>
+		</Row>
+		<Row Tag="LOC_ANVIL_DESCRIPTION" Language="en_US">
+			<Text>City State of Anvil</Text>
+		</Row>
+		<Row Tag="LOC_ANVIL_ADJECTIVE" Language="en_US">
+			<Text>Anvil</Text>
+		</Row>
+		<!-- Bravil-->
+		<Row Tag="LOC_MINOR_CIV_BRAVIL_TRAIT_NAME" Language="en_US">
+			<Text>Bravil</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BRAVIL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Production [ICON_Production].</Text>
+		</Row>
+		<Row Tag="LOC_BRAVIL_NAME" Language="en_US">
+			<Text>Bravil</Text>
+		</Row>
+		<Row Tag="LOC_BRAVIL_DESCRIPTION" Language="en_US">
+			<Text>City State of Bravil</Text>
+		</Row>
+		<Row Tag="LOC_BRAVIL_ADJECTIVE" Language="en_US">
+			<Text>Bravil</Text>
+		</Row>
+		<!-- Kvatch-->
+		<Row Tag="LOC_MINOR_CIV_KVATCH_TRAIT_NAME" Language="en_US">
+			<Text>Kvatch</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_KVATCH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +2 [ICON_Faith] Faith for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_KVATCH_NAME" Language="en_US">
+			<Text>Kvatch</Text>
+		</Row>
+		<Row Tag="LOC_KVATCH_DESCRIPTION" Language="en_US">
+			<Text>City State of Kvatch</Text>
+		</Row>
+		<Row Tag="LOC_KVATCH_ADJECTIVE" Language="en_US">
+			<Text>Kvatch</Text>
+		</Row>
+		<!-- Leyawiin-->
+		<Row Tag="LOC_MINOR_CIV_LEYAWIIN_TRAIT_NAME" Language="en_US">
+			<Text>Leyawiin</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LEYAWIIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All melee unit gain +5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<Row Tag="LOC_LEYAWIIN_NAME" Language="en_US">
+			<Text>Leyawiin</Text>
+		</Row>
+		<Row Tag="LOC_LEYAWIIN_DESCRIPTION" Language="en_US">
+			<Text>City State of Leyawiin</Text>
+		</Row>
+		<Row Tag="LOC_LEYAWIIN_ADJECTIVE" Language="en_US">
+			<Text>Leyawiin</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYTES_MELEE_HILLS_BONUS_NAME" Language="en_US">
+			<Text>Leyawiin</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MYTES_MELEE_HILLS_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<!-- Chorrol-->
+		<Row Tag="LOC_MINOR_CIV_CHORROL_TRAIT_NAME" Language="en_US">
+			<Text>Chorrol</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CHORROL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Lumbermills gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_CHORROL_NAME" Language="en_US">
+			<Text>Chorrol</Text>
+		</Row>
+		<Row Tag="LOC_CHORROL_DESCRIPTION" Language="en_US">
+			<Text>City State of Chorrol</Text>
+		</Row>
+		<Row Tag="LOC_CHORROL_ADJECTIVE" Language="en_US">
+			<Text>Chorrol</Text>
+		</Row>
+		<!-- Cheydinhal-->
+		<Row Tag="LOC_MINOR_CIV_CHEYDINHAL_TRAIT_NAME" Language="en_US">
+			<Text>Cheydinhal</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CHEYDINHAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_CHEYDINHAL_NAME" Language="en_US">
+			<Text>Cheydinhal</Text>
+		</Row>
+		<Row Tag="LOC_CHEYDINHAL_DESCRIPTION" Language="en_US">
+			<Text>City State of Cheydinhal</Text>
+		</Row>
+		<Row Tag="LOC_CHEYDINHAL_ADJECTIVE" Language="en_US">
+			<Text>Cheydinhal</Text>
+		</Row>
+		<!-- Bruma-->
+		<Row Tag="LOC_MINOR_CIV_BRUMA_TRAIT_NAME" Language="en_US">
+			<Text>Bruma</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BRUMA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Production [ICON_Culture].</Text>
+		</Row>
+		<Row Tag="LOC_BRUMA_NAME" Language="en_US">
+			<Text>Bruma</Text>
+		</Row>
+		<Row Tag="LOC_BRUMA_DESCRIPTION" Language="en_US">
+			<Text>City State of Bruma</Text>
+		</Row>
+		<Row Tag="LOC_BRUMA_ADJECTIVE" Language="en_US">
+			<Text>Bruma</Text>
+		</Row>
+		<!-- Rimmen-->
+		<Row Tag="LOC_MINOR_CIV_RIMMEN_TRAIT_NAME" Language="en_US">
+			<Text>Rimmen</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RIMMEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Commercial districts provide +1 [ICON_TradeRoute] Trade Route capacity each when next to a river.</Text>
+		</Row>
+		<Row Tag="LOC_RIMMEN_NAME" Language="en_US">
+			<Text>Rimmen</Text>
+		</Row>
+		<Row Tag="LOC_RIMMEN_DESCRIPTION" Language="en_US">
+			<Text>City State of Rimmen</Text>
+		</Row>
+		<Row Tag="LOC_RIMMEN_ADJECTIVE" Language="en_US">
+			<Text>Rimmen</Text>
+		</Row>
+		<!-- Baandari Clan-->
+		<Row Tag="LOC_MINOR_CIV_BAANDARI_CLAN_TRAIT_NAME" Language="en_US">
+			<Text>Baandari Clan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BAANDARI_CLAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive +2 [ICON_RESOURCE_WINE] of Wine and +1 [ICON_RESOURCE_TOBACCO] Tobacco.</Text>
+		</Row>
+		<Row Tag="LOC_BAANDARI_CLAN_NAME" Language="en_US">
+			<Text>Baandari Clan</Text>
+		</Row>
+		<Row Tag="LOC_BAANDARI_CLAN_DESCRIPTION" Language="en_US">
+			<Text>City State of Baandari</Text>
+		</Row>
+		<Row Tag="LOC_BAANDARI_CLAN_ADJECTIVE" Language="en_US">
+			<Text>Baandari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAANDARI_CLAN" Language="en_US">
+			<Text>Baandari Clan</Text>
+		</Row>
+		<!-- Skaal-->
+		<Row Tag="LOC_MINOR_CIV_SKAAL_TRAIT_NAME" Language="en_US">
+			<Text>Skaal</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SKAAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Commercial districts provide +1 [ICON_TradeRoute] Trade Route capacity each when next to a river.</Text>
+		</Row>
+		<Row Tag="LOC_SKAAL_NAME" Language="en_US">
+			<Text>Skaal</Text>
+		</Row>
+		<Row Tag="LOC_SKAAL_DESCRIPTION" Language="en_US">
+			<Text>City State of Skaal</Text>
+		</Row>
+		<Row Tag="LOC_SKAAL_ADJECTIVE" Language="en_US">
+			<Text>Skaal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SKAAL" Language="en_US">
+			<Text>Skaal</Text>
+		</Row>
+		<Row Tag="LOC_TES_DISTRICT_COAST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Coast</Text>
+		</Row>
+		<Row Tag="LOC_TES_DISTRICT_COAST_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Coast</Text>
+		</Row>
+		<!-- The Reach-->
+		<Row Tag="LOC_MINOR_CIV_THE_REACH_TRAIT_NAME" Language="en_US">
+			<Text>The Reach</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_THE_REACH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Quarries gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_THE_REACH_NAME" Language="en_US">
+			<Text>The Reach</Text>
+		</Row>
+		<Row Tag="LOC_THE_REACH_DESCRIPTION" Language="en_US">
+			<Text>City State of Markarth</Text>
+		</Row>
+		<Row Tag="LOC_THE_REACH_ADJECTIVE" Language="en_US">
+			<Text>Reacher</Text>
+		</Row>
+		<!-- Solitude-->
+		<Row Tag="LOC_MINOR_CIV_SOLITUDE_TRAIT_NAME" Language="en_US">
+			<Text>Solitude</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SOLITUDE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Harbor districts provide +1 [ICON_TradeRoute] Trade Route capacity each when next to a river.</Text>
+		</Row>
+		<Row Tag="LOC_SOLITUDE_NAME" Language="en_US">
+			<Text>Solitude</Text>
+		</Row>
+		<Row Tag="LOC_SOLITUDE_DESCRIPTION" Language="en_US">
+			<Text>City State of Solitude</Text>
+		</Row>
+		<Row Tag="LOC_SOLITUDE_ADJECTIVE" Language="en_US">
+			<Text>Solitude</Text>
+		</Row>
+		<!-- Dawnstar-->
+		<Row Tag="LOC_MINOR_CIV_DAWNSTAR_TRAIT_NAME" Language="en_US">
+			<Text>Dawnstar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_DAWNSTAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_DAWNSTAR_NAME" Language="en_US">
+			<Text>Dawnstar</Text>
+		</Row>
+		<Row Tag="LOC_DAWNSTAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Dawnstar</Text>
+		</Row>
+		<Row Tag="LOC_DAWNSTAR_ADJECTIVE" Language="en_US">
+			<Text>Dawnstar</Text>
+		</Row>
+		<!-- Falkreath-->
+		<Row Tag="LOC_MINOR_CIV_FALKREATH_TRAIT_NAME" Language="en_US">
+			<Text>Falkreath</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FALKREATH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>-50% war weariness from combat in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_FALKREATH_NAME" Language="en_US">
+			<Text>Falkreath</Text>
+		</Row>
+		<Row Tag="LOC_FALKREATH_DESCRIPTION" Language="en_US">
+			<Text>City State of Falkreath</Text>
+		</Row>
+		<Row Tag="LOC_FALKREATH_ADJECTIVE" Language="en_US">
+			<Text>Falkreath</Text>
+		</Row>
+		<!-- Riften-->
+		<Row Tag="LOC_MINOR_CIV_RIFTEN_TRAIT_NAME" Language="en_US">
+			<Text>Riften</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RIFTEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] Production toward Spies. Spy operation Siphon Funds take 50% less time.</Text>
+		</Row>
+		<Row Tag="LOC_RIFTEN_NAME" Language="en_US">
+			<Text>Riften</Text>
+		</Row>
+		<Row Tag="LOC_RIFTEN_DESCRIPTION" Language="en_US">
+			<Text>City State of Riften</Text>
+		</Row>
+		<Row Tag="LOC_RIFTEN_ADJECTIVE" Language="en_US">
+			<Text>Riften</Text>
+		</Row>
+		<!-- Whiterun-->
+		<Row Tag="LOC_MINOR_CIV_WHITERUN_TRAIT_NAME" Language="en_US">
+			<Text>Whiterun</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_WHITERUN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for routes between your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_WHITERUN_NAME" Language="en_US">
+			<Text>Whiterun</Text>
+		</Row>
+		<Row Tag="LOC_WHITERUN_DESCRIPTION" Language="en_US">
+			<Text>City State of Whiterun</Text>
+		</Row>
+		<Row Tag="LOC_WHITERUN_ADJECTIVE" Language="en_US">
+			<Text>Whiterun</Text>
+		</Row>
+		<!-- Morthal-->
+		<Row Tag="LOC_MINOR_CIV_MORTHAL_TRAIT_NAME" Language="en_US">
+			<Text>Morthal</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MORTHAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+3 [ICON_Culture] Culture for Theater districts next to a Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_MORTHAL_NAME" Language="en_US">
+			<Text>Morthal</Text>
+		</Row>
+		<Row Tag="LOC_MORTHAL_DESCRIPTION" Language="en_US">
+			<Text>City State of Morthal</Text>
+		</Row>
+		<Row Tag="LOC_MORTHAL_ADJECTIVE" Language="en_US">
+			<Text>Morthal</Text>
+		</Row>
+		<Row Tag="LOC_MYTES_DISTRICT_3MARSH_CULTURE" Language="en_US">
+			<Text>+3 [ICON_Culture] Culture for Marsh</Text>
+		</Row>
+		<!-- Firsthold-->
+		<Row Tag="LOC_MINOR_CIV_FIRSTHOLD_TRAIT_NAME" Language="en_US">
+			<Text>Firsthold</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_FIRSTHOLD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities earn +15% [ICON_Science] Science whenever you are not at war with any civilization.</Text>
+		</Row>
+		<Row Tag="LOC_FIRSTHOLD_NAME" Language="en_US">
+			<Text>Firsthold</Text>
+		</Row>
+		<Row Tag="LOC_FIRSTHOLD_DESCRIPTION" Language="en_US">
+			<Text>City State of Firsthold</Text>
+		</Row>
+		<Row Tag="LOC_FIRSTHOLD_ADJECTIVE" Language="en_US">
+			<Text>Firsthold</Text>
+		</Row>
+		<!-- Sadrith Mora-->
+		<Row Tag="LOC_MINOR_CIV_SADRITH_MORA_TRAIT_NAME" Language="en_US">
+			<Text>Sadrith Mora</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SADRITH_MORA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your districts on or next to Coast tiles provide +2 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_SADRITH_MORA_NAME" Language="en_US">
+			<Text>Sadrith Mora</Text>
+		</Row>
+		<Row Tag="LOC_SADRITH_MORA_DESCRIPTION" Language="en_US">
+			<Text>City State of Sadrith Mora</Text>
+		</Row>
+		<Row Tag="LOC_SADRITH_MORA_ADJECTIVE" Language="en_US">
+			<Text>Sadrith Mora</Text>
+		</Row>
+		<!-- Blacklight-->
+		<Row Tag="LOC_MINOR_CIV_BLACKLIGHT_TRAIT_NAME" Language="en_US">
+			<Text>Blacklight</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BLACKLIGHT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLIGHT_NAME" Language="en_US">
+			<Text>Blacklight</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLIGHT_DESCRIPTION" Language="en_US">
+			<Text>City State of Blacklight</Text>
+		</Row>
+		<Row Tag="LOC_BLACKLIGHT_ADJECTIVE" Language="en_US">
+			<Text>Blacklight</Text>
+		</Row>
+		<!-- Tear-->
+		<Row Tag="LOC_MINOR_CIV_TEAR_TRAIT_NAME" Language="en_US">
+			<Text>Tear</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TEAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Farms gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_TEAR_NAME" Language="en_US">
+			<Text>Tear</Text>
+		</Row>
+		<Row Tag="LOC_TEAR_DESCRIPTION" Language="en_US">
+			<Text>City State of Tear</Text>
+		</Row>
+		<Row Tag="LOC_TEAR_ADJECTIVE" Language="en_US">
+			<Text>Tear</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEAR" Language="en_US">
+			<Text>Tear</Text>
+		</Row>
+		<!-- Kogoruhn-->
+		<Row Tag="LOC_MINOR_CIV_KOGORUHN_TRAIT_NAME" Language="en_US">
+			<Text>Kogoruhn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_KOGORUHN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_FAITH] Faith adjacency bonus from hills to Holy Site</Text>
+		</Row>
+		<Row Tag="LOC_KOGORUHN_NAME" Language="en_US">
+			<Text>Kogoruhn</Text>
+		</Row>
+		<Row Tag="LOC_KOGORUHN_DESCRIPTION" Language="en_US">
+			<Text>City State of Kogoruhn</Text>
+		</Row>
+		<Row Tag="LOC_KOGORUHN_ADJECTIVE" Language="en_US">
+			<Text>Kogoruhn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOGORUHN" Language="en_US">
+			<Text>Kogoruhn</Text>
+		</Row>
+		<Row Tag="LOC_KOGORUHN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Culture for Hills</Text>
+		</Row>
+		<!-- Kothringi-->
+		<Row Tag="LOC_MINOR_CIV_KOTHRINGI_TRAIT_NAME" Language="en_US">
+			<Text>Kothringi</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_KOTHRINGI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_KOTHRINGI_NAME" Language="en_US">
+			<Text>Kothringi</Text>
+		</Row>
+		<Row Tag="LOC_KOTHRINGI_DESCRIPTION" Language="en_US">
+			<Text>City State of Kothringi</Text>
+		</Row>
+		<Row Tag="LOC_KOTHRINGI_ADJECTIVE" Language="en_US">
+			<Text>Kothringi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOTHRINGI" Language="en_US">
+			<Text>Kothringi</Text>
+		</Row>
+		<!-- Thras-->
+		<Row Tag="LOC_MINOR_CIV_THRAS_TRAIT_NAME" Language="en_US">
+			<Text>Thras</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_THRAS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Provides you with 1 of each Strategic resource you have revealed but do not own.</Text>
+		</Row>
+		<Row Tag="LOC_THRAS_NAME" Language="en_US">
+			<Text>Thras</Text>
+		</Row>
+		<Row Tag="LOC_THRAS_DESCRIPTION" Language="en_US">
+			<Text>City State of Thras</Text>
+		</Row>
+		<Row Tag="LOC_THRAS_ADJECTIVE" Language="en_US">
+			<Text>Thras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THRAS" Language="en_US">
+			<Text>Thras</Text>
+		</Row>
+		<!-- Snow Elves-->
+		<Row Tag="LOC_MINOR_CIV_SNOW_ELVES_TRAIT_NAME" Language="en_US">
+			<Text>Snow Elves</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SNOW_ELVES_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Campus gains +1 [ICON_Science] Science for adjacency to Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_SNOW_ELVES_NAME" Language="en_US">
+			<Text>Snow Elves</Text>
+		</Row>
+		<Row Tag="LOC_SNOW_ELVES_DESCRIPTION" Language="en_US">
+			<Text>City State of Snow Elves</Text>
+		</Row>
+		<Row Tag="LOC_SNOW_ELVES_ADJECTIVE" Language="en_US">
+			<Text>Snow Elves</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SNOW_ELVES" Language="en_US">
+			<Text>Snow Elves</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SNOW_ELVES_TUNDRA_SCIENCE" Language="en_US">
+			<Text>+1 [ICON_Science] Science for Tundra</Text>
+		</Row>
+		<!-- Esroniet-->
+		<Row Tag="LOC_MINOR_CIV_ESRONIET_TRAIT_NAME" Language="en_US">
+			<Text>Esroniet</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ESRONIET_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
+		</Row>
+		<Row Tag="LOC_ESRONIET_NAME" Language="en_US">
+			<Text>Esroniet</Text>
+		</Row>
+		<Row Tag="LOC_ESRONIET_DESCRIPTION" Language="en_US">
+			<Text>City State of Esroniet</Text>
+		</Row>
+		<Row Tag="LOC_ESRONIET_ADJECTIVE" Language="en_US">
+			<Text>Esroniet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESRONIET" Language="en_US">
+			<Text>Esroniet</Text>
+		</Row>
+		<!-- Yneslea-->
+		<Row Tag="LOC_MINOR_CIV_YNESLEA_TRAIT_NAME" Language="en_US">
+			<Text>Yneslea</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_YNESLEA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_YNESLEA_NAME" Language="en_US">
+			<Text>Yneslea</Text>
+		</Row>
+		<Row Tag="LOC_YNESLEA_DESCRIPTION" Language="en_US">
+			<Text>City State of Yneslea</Text>
+		</Row>
+		<Row Tag="LOC_YNESLEA_ADJECTIVE" Language="en_US">
+			<Text>Yneslea</Text>
+		</Row>
+		<!-- Cathnoquey-->
+		<Row Tag="LOC_MINOR_CIV_CATHNOQUEY_TRAIT_NAME" Language="en_US">
+			<Text>Cathnoquey</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CATHNOQUEY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_CATHNOQUEY_NAME" Language="en_US">
+			<Text>Cathnoquey</Text>
+		</Row>
+		<Row Tag="LOC_CATHNOQUEY_DESCRIPTION" Language="en_US">
+			<Text>City State of Cathnoquey</Text>
+		</Row>
+		<Row Tag="LOC_CATHNOQUEY_ADJECTIVE" Language="en_US">
+			<Text>Cathnoquey</Text>
+		</Row>
+		<!-- Tang Mo-->
+		<Row Tag="LOC_MINOR_CIV_TANG_MO_TRAIT_NAME" Language="en_US">
+			<Text>Tang Mo</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TANG_MO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>When you enter a new era, earn 1 random [ICON_CivicBoosted] Inspiration from that era.</Text>
+		</Row>
+		<Row Tag="LOC_TANG_MO_NAME" Language="en_US">
+			<Text>Tang Mo</Text>
+		</Row>
+		<Row Tag="LOC_TANG_MO_DESCRIPTION" Language="en_US">
+			<Text>City State of Tang Mo</Text>
+		</Row>
+		<Row Tag="LOC_TANG_MO_ADJECTIVE" Language="en_US">
+			<Text>Tang Mo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TANG_MO" Language="en_US">
+			<Text>Tang Mo</Text>
+		</Row>
+		<!-- Roscrea-->
+		<Row Tag="LOC_MINOR_CIV_ROSCREA_TRAIT_NAME" Language="en_US">
+			<Text>Roscrea</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ROSCREA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_ROSCREA_NAME" Language="en_US">
+			<Text>Roscrea</Text>
+		</Row>
+		<Row Tag="LOC_ROSCREA_DESCRIPTION" Language="en_US">
+			<Text>City State of Roscrea</Text>
+		</Row>
+		<Row Tag="LOC_ROSCREA_ADJECTIVE" Language="en_US">
+			<Text>Roscrea</Text>
+		</Row>
+		<!--<Row Tag="LOC_CITY_NAME_SKAVYN" Language="en_US">
+			<Text>Evermore</Text>
+		</Row>-->
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_EIGHT_DIVINES" Language="en_US">
+			<Text>Eight Divines</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_NINE_DIVINES" Language="en_US">
+			<Text>Nine Divines</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_AURI_EL" Language="en_US">
+			<Text>Auri-El</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_YFFRE" Language="en_US">
+			<Text>Y'ffre</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MAGNUS" Language="en_US">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ALKOSH" Language="en_US">
+			<Text>Alkosh</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_RIDDLE_THAR" Language="en_US">
+			<Text>Riddle'Thar</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TALOS" Language="en_US">
+			<Text>Talos</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SHOR" Language="en_US">
+			<Text>Shor</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ALDUIN" Language="en_US">
+			<Text>Alduin</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SATAKAL" Language="en_US">
+			<Text>Satakal</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ALMSIVI" Language="en_US">
+			<Text>ALMSIVI</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_HIST" Language="en_US">
+			<Text>Hist</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MERIDIA" Language="en_US">
+			<Text>Meridia</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MALACATH" Language="en_US">
+			<Text>Malacath</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MEHRUNES_DAGON" Language="en_US">
+			<Text>Mehrunes Dagon</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MOLAG_BAL" Language="en_US">
+			<Text>Molag Bal</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_BLACK_DRAGON" Language="en_US">
+			<Text>The Black Dragon</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_NUMIDIUM" Language="en_US">
+			<Text>Numidium</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ZEN" Language="en_US">
+			<Text>Z'en</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_NEW_TEMPLE" Language="en_US">
+			<Text>The New Temple</Text>
+		</Row>
+		<!--  Rivers -->
+		<Row Tag="LOC_NAMED_RIVER_THE_WHITE_RIVER_NAME" Language="en_US">
+			<Text>The White River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YORGRIM_NAME" Language="en_US">
+			<Text>Yorgrim River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DARKWATER_NAME" Language="en_US">
+			<Text>Darkwater River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TREVA_NAME" Language="en_US">
+			<Text>Treva River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KARTH_NAME" Language="en_US">
+			<Text>Karth River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HJAAL_NAME" Language="en_US">
+			<Text>Hjaal River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IGGNIR_NAME" Language="en_US">
+			<Text>Iggnir River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HARSTRAD_NAME" Language="en_US">
+			<Text>Harstrad River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ISILD_NAME" Language="en_US">
+			<Text>Isild River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHASE_NAME" Language="en_US">
+			<Text>Chase River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THIR_NAME" Language="en_US">
+			<Text>Thir River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NABIA_NAME" Language="en_US">
+			<Text>Nabia River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ODAI_NAME" Language="en_US">
+			<Text>Odai River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAMSI_NAME" Language="en_US">
+			<Text>Samsi River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PRYAI_NAME" Language="en_US">
+			<Text>Pryai River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BJOULSAE_NAME" Language="en_US">
+			<Text>Bjoulsae River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IRK_NAME" Language="en_US">
+			<Text>Irk River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TARK_NAME" Language="en_US">
+			<Text>Tark River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NIBEN_NAME" Language="en_US">
+			<Text>Niben River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WHITE_ROSE_NAME" Language="en_US">
+			<Text>White Rose River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CORBOLO_NAME" Language="en_US">
+			<Text>Corbolo River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_REED_NAME" Language="en_US">
+			<Text>Reed River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SILVERFISH_NAME" Language="en_US">
+			<Text>Silverfish River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LARSIUS_NAME" Language="en_US">
+			<Text>Larsius River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRENA_NAME" Language="en_US">
+			<Text>Brena River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PANTHER_NAME" Language="en_US">
+			<Text>Panther River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_STRID_NAME" Language="en_US">
+			<Text>Strid River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CRESCENT_NAME" Language="en_US">
+			<Text>Crescent River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_XYLO_NAME" Language="en_US">
+			<Text>Xylo River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DICETO_NAME" Language="en_US">
+			<Text>Diceto River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CLOER_NAME" Language="en_US">
+			<Text>Cloer River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KEEL_SAKKA_NAME" Language="en_US">
+			<Text>Keel-Sakka River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ONKOBRA_NAME" Language="en_US">
+			<Text>Onkobra River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MERATSIES_NAME" Language="en_US">
+			<Text>Meratsies River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TOPARA_NAME" Language="en_US">
+			<Text>Topara River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GOLISHAR_NAME" Language="en_US">
+			<Text>Golishar River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KAN_SO_NAME" Language="en_US">
+			<Text>Kan So River</Text>
+		</Row>
+		<!-- Volcanos -->
+		<Row Tag="LOC_NAMED_VOLCANO_ASH_MOUNTAIN_NAME" Language="en_US">
+			<Text>Ash Mountain</Text>
+		</Row>
+		<!-- Desert -->
+		<Row Tag="LOC_NAMED_DESERT_ALIKR_NAME" Language="en_US">
+			<Text>Alik'r Desert</Text>
+		</Row>
+		<!-- Mountains -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_JERALL_NAME" Language="en_US">
+			<Text>Jerall Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VALUS_NAME" Language="en_US">
+			<Text>Valus Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WROTHGARIAN_NAME" Language="en_US">
+			<Text>Wrothgarian Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGONS_TEETH_NAME" Language="en_US">
+			<Text>Dragon's Teeth Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGONTAIL_NAME" Language="en_US">
+			<Text>Dragontail Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OGRES_TOOTH_NAME" Language="en_US">
+			<Text>Ogres Tooth Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VELOTHI_NAME" Language="en_US">
+			<Text>Velothi Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRUADACH_NAME" Language="en_US">
+			<Text>Druadach Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MOESRING_NAME" Language="en_US">
+			<Text>Moesring Mountains</Text>
+		</Row>
+		<!-- Wonders-->
+		<Row Tag="LOC_FEATURE_RED_MOUNTAIN_NAME" Language="en_US" >
+			<Text>Red Mountain</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RED_MOUNTAIN_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Production] Production and +2 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RED_MOUNTAIN_QUOTE" Language="en_US">
+			<Text>“Beneath Red Mountain, Dwemer miners discovered a great magical stone. By diverse methods, Lord Kagrenac, High Priest and Magecrafter of the ancient Dwemer, determined that this magical stone was the heart of the god Lorkhan, cast here in the Dawn Era as a punishment for his mischief in creating the mortal world.”[NEWLINE]– Gilvas Barelo</Text>		
+		</Row>
+		<Row Tag="LOC_FEATURE_THROAT_OFTHE_WORLD_NAME" Language="en_US" >
+			<Text>Throat of the World</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_THROAT_OFTHE_WORLD_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_THROAT_OFTHE_WORLD_QUOTE" Language="en_US">
+			<Text>The Throat of the World or the Snow-Tower is an enormous mountain located in the region of Whiterun Hold, which is in the province of Skyrim. The Throat of the World is the highest peak in all of Tamriel.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ETON_NIR_NAME" Language="en_US" >
+			<Text>Eton Nir</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ETON_NIR_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +1 [ICON_Science] Science to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_ETON_NIR_QUOTE" Language="en_US">
+			<Text>Eton Nir is the largest mountain in the province of the Summerset Isles, and subsequently in the southwestern world of Tamriel. Eton Nir takes up a large majority of the Isle of Summerset, stretching towards the northwest and northeast coasts as well as the central plains.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ELDEN_GROVE_NAME" Language="en_US" >
+			<Text>Elden Grove</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ELDEN_GROVE_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as Marsh and provides +3 [ICON_Faith] Faith, +3 [ICON_Science] Science.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_ELDEN_GROVE_QUOTE" Language="en_US">
+			<Text>“The Elden Grove is said to be the birthplace of the sacred First Tree, that which gave life to all the forests on the continent of Tamriel. Its location has been a closely guarded secret, so guarded in fact that many believe that even the Elves have forgotten its true location.”[NEWLINE]– Ria Silmane</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MURKWOOD_NAME" Language="en_US" >
+			<Text>Murkwood</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MURKWOOD_DESCRIPTION" Language="en_US" >
+			<Text>Four tile natural wonder. It appears as Marsh and provides +1 [ICON_Faith] Faith, +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MURKWOOD_QUOTE" Language="en_US">
+			<Text>“The mists of Murkwood, the Black Forest, swirl about. Inside the dark forest can be heard faint cries of danger, souls who have lost their way within its cunning web..”</Text>
 		</Row>
 	</LocalizedText>
 </GameData>

@@ -311,7 +311,7 @@
 			<Text>Camoran Dynasty</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CAMORAN_DYNASTY_DESCRIPTION" Language="en_US">
-			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Russia (+1 per 3 technologies or civics ahead). All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
+			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Aeradan (+1 per 3 technologies or civics ahead). All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_HAYMON_CAMORAN_NAME" Language="en_US">
 			<Text>Haymon Camoran</Text>

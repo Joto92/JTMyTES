@@ -1,13 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-<!-- 
-Talos : Empire
-Ysmir: nORDS
-oRCS: Malacath
-Y'ffre: BOSMER
-Anui-El: Altmeri 
-Akatosh: Breton
-The Tribunal: Dumner
-https://elderscrolls.fandom.com/wiki/Nine_Divines
--->
+	<Types>
+		<Row Type="RELIGION_EIGHT_DIVINES" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_NINE_DIVINES" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_AURI_EL" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_YFFRE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MAGNUS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ALKOSH" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_RIDDLE_THAR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_TALOS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_SHOR" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ALDUIN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_SATAKAL" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ALMSIVI" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_HIST" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MERIDIA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MALACATH" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MEHRUNES_DAGON" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MOLAG_BAL" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_BLACK_DRAGON" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_NUMIDIUM" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ZEN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_NEW_TEMPLE" Kind="KIND_RELIGION" />
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_EIGHT_DIVINES" Name="LOC_RELIGION_EIGHT_DIVINES" Iconstring="Ed" RequiresCustomName="0" Color="COLOR_RELIGION_EIGHT_DIVINES"/>
+		<Row ReligionType="RELIGION_NINE_DIVINES" Name="LOC_RELIGION_NINE_DIVINES" Iconstring="Nd" RequiresCustomName="0" Color="COLOR_RELIGION_NINE_DIVINES"/>
+		<Row ReligionType="RELIGION_AURI_EL" Name="LOC_RELIGION_AURI_EL" Iconstring="AE" RequiresCustomName="0" Color="COLOR_RELIGION_AURI_EL"/>
+		<Row ReligionType="RELIGION_YFFRE" Name="LOC_RELIGION_YFFRE" Iconstring="Yf" RequiresCustomName="0" Color="COLOR_RELIGION_YFFRE"/>
+		<Row ReligionType="RELIGION_MAGNUS" Name="LOC_RELIGION_MAGNUS" Iconstring="Mg" RequiresCustomName="0" Color="COLOR_RELIGION_MAGNUS"/>
+		<Row ReligionType="RELIGION_ALKOSH" Name="LOC_RELIGION_ALKOSH" Iconstring="Ak" RequiresCustomName="0" Color="COLOR_RELIGION_ALKOSH"/>
+		<Row ReligionType="RELIGION_RIDDLE_THAR" Name="LOC_RELIGION_RIDDLE_THAR" Iconstring="RT" RequiresCustomName="0" Color="COLOR_RELIGION_RIDDLE_THAR"/>
+		<Row ReligionType="RELIGION_TALOS" Name="LOC_RELIGION_TALOS" Iconstring="Tl" RequiresCustomName="0" Color="COLOR_RELIGION_TALOS"/>
+		<Row ReligionType="RELIGION_SHOR" Name="LOC_RELIGION_SHOR" Iconstring="Sh" RequiresCustomName="0" Color="COLOR_RELIGION_SHOR"/>
+		<Row ReligionType="RELIGION_ALDUIN" Name="LOC_RELIGION_ALDUIN" Iconstring="AD" RequiresCustomName="0" Color="COLOR_RELIGION_ALDUIN"/>
+		<Row ReligionType="RELIGION_SATAKAL" Name="LOC_RELIGION_SATAKAL" Iconstring="SK" RequiresCustomName="0" Color="COLOR_RELIGION_SATAKAL"/>
+		<Row ReligionType="RELIGION_ALMSIVI" Name="LOC_RELIGION_ALMSIVI" Iconstring="AV" RequiresCustomName="0" Color="COLOR_RELIGION_ALMSIVI"/>
+		<Row ReligionType="RELIGION_HIST" Name="LOC_RELIGION_HIST" Iconstring="HS" RequiresCustomName="0" Color="COLOR_RELIGION_HIST"/>
+		<Row ReligionType="RELIGION_MERIDIA" Name="LOC_RELIGION_MERIDIA" Iconstring="MR" RequiresCustomName="0" Color="COLOR_RELIGION_MERIDIA"/>
+		<Row ReligionType="RELIGION_MALACATH" Name="LOC_RELIGION_MALACATH" Iconstring="MC" RequiresCustomName="0" Color="COLOR_RELIGION_MALACATH"/>
+		<Row ReligionType="RELIGION_MEHRUNES_DAGON" Name="LOC_RELIGION_MEHRUNES_DAGON" Iconstring="MD" RequiresCustomName="0" Color="COLOR_RELIGION_MEHRUNES_DAGON"/>
+		<Row ReligionType="RELIGION_MOLAG_BAL" Name="LOC_RELIGION_MOLAG_BAL" Iconstring="MB" RequiresCustomName="0" Color="COLOR_RELIGION_MOLAG_BAL"/>
+		<Row ReligionType="RELIGION_BLACK_DRAGON" Name="LOC_RELIGION_BLACK_DRAGON" Iconstring="BD" RequiresCustomName="0" Color="COLOR_RELIGION_BLACK_DRAGON"/>
+		<Row ReligionType="RELIGION_NUMIDIUM" Name="LOC_RELIGION_NUMIDIUM" Iconstring="Nm" RequiresCustomName="0" Color="COLOR_RELIGION_NUMIDIUM"/>
+		<Row ReligionType="RELIGION_ZEN" Name="LOC_RELIGION_ZEN" Iconstring="Ze" RequiresCustomName="0" Color="COLOR_RELIGION_ZEN"/>
+		<Row ReligionType="RELIGION_NEW_TEMPLE" Name="LOC_RELIGION_NEW_TEMPLE" Iconstring="NT" RequiresCustomName="0" Color="COLOR_RELIGION_NEW_TEMPLE"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_ALESSIA" ReligionType="RELIGION_EIGHT_DIVINES" />
+		<Row LeaderType="LEADER_REMAN_CYRODIIL" ReligionType="RELIGION_EIGHT_DIVINES" />
+		<Row LeaderType="LEADER_TIBER_SEPTIM" ReligionType="RELIGION_EIGHT_DIVINES" />
+		<Row LeaderType="LEADER_URIEL_SEPTIM_VII" ReligionType="RELIGION_NINE_DIVINES" />
+		<Row LeaderType="LEADER_TITUS_MEDEII" ReligionType="RELIGION_EIGHT_DIVINES" />
+		<Row LeaderType="LEADER_AYRENN" ReligionType="RELIGION_AURI_EL" />
+		<Row LeaderType="LEADER_AERADAN_CAMORAN" ReligionType="RELIGION_YFFRE" />
+		<Row LeaderType="LEADER_HAYMON_CAMORAN" ReligionType="RELIGION_YFFRE" />
+		<Row LeaderType="LEADER_EMERIC_CUMBERLAND" ReligionType="RELIGION_MAGNUS" />
+		<Row LeaderType="LEADER_CASIMIR" ReligionType="RELIGION_MAGNUS" />
+		<Row LeaderType="LEADER_RANSER" ReligionType="RELIGION_MAGNUS" />
+		<Row LeaderType="LEADER_KEIRGO_ANAQUINA" ReligionType="RELIGION_ALKOSH" />
+		<Row LeaderType="LEADER_ESHITA_PELLITINE" ReligionType="RELIGION_RIDDLE_THAR" />
+		<Row LeaderType="LEADER_ULFRIC_STORMCLOAK" ReligionType="RELIGION_TALOS" />
+		<Row LeaderType="LEADER_JORUNN" ReligionType="RELIGION_SHOR" />
+		<Row LeaderType="LEADER_YSGRAMOR" ReligionType="RELIGION_ALDUIN" />
+		<Row LeaderType="LEADER_FAHARA_JAD" ReligionType="RELIGION_SATAKAL" />
+		<Row LeaderType="LEADER_ORGANUM" ReligionType="RELIGION_SATAKAL" />
+		<Row LeaderType="LEADER_ALMALEXIA" ReligionType="RELIGION_ALMSIVI" />
+		<Row LeaderType="LEADER_VIVEC" ReligionType="RELIGION_ALMSIVI" />
+		<Row LeaderType="LEADER_SOTHA_SIL" ReligionType="RELIGION_ALMSIVI" />
+		<Row LeaderType="LEADER_HIST_SPEAKER_ANXILEEL" ReligionType="RELIGION_HIST" />
+		<Row LeaderType="LEADER_RED_BRAMMAN" ReligionType="RELIGION_HIST" />
+		<Row LeaderType="LEADER_HADHUUL" ReligionType="RELIGION_MERIDIA" />
+		<Row LeaderType="LEADER_LALORIARAN" ReligionType="RELIGION_MERIDIA" />
+		<Row LeaderType="LEADER_GORTWOG" ReligionType="RELIGION_MALACATH" />
+		<Row LeaderType="LEADER_MEHRUNES_DAGON" ReligionType="RELIGION_MEHRUNES_DAGON" />
+		<Row LeaderType="LEADER_MOLAG_BAL" ReligionType="RELIGION_MOLAG_BAL" />
+		<Row LeaderType="LEADER_DIRKAMAL" ReligionType="RELIGION_MOLAG_BAL" />
+		<Row LeaderType="LEADER_TOSH_RAKA" ReligionType="RELIGION_BLACK_DRAGON" />
+		<Row LeaderType="LEADER_DUMAC" ReligionType="RELIGION_NUMIDIUM" />
+		<Row LeaderType="LEADER_VERSIDUE_SHAIE" ReligionType="RELIGION_ZEN" />
+		<Row LeaderType="LEADER_HLAALU_HELSETH" ReligionType="RELIGION_NEW_TEMPLE" />
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_EIGHT_DIVINES</Type>
+			<Red>0.502</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_NINE_DIVINES</Type>
+			<Red>0.321</Red>
+			<Green>0</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_AURI_EL</Type>
+			<Red>0.176</Red>
+			<Green>0.306</Green>
+			<Blue>0.102</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_YFFRE</Type>
+			<Red>0.192</Red>
+			<Green>0.439</Green>
+			<Blue>0.231</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MAGNUS</Type>
+			<Red>0.129</Red>
+			<Green>0.788</Green>
+			<Blue>0.686</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ALKOSH</Type>
+			<Red>0.776</Red>
+			<Green>0.321</Green>
+			<Blue>0.231</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_RIDDLE_THAR</Type>
+			<Red>0.737</Red>
+			<Green>0.768</Green>
+			<Blue>0.313</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_TALOS</Type>
+			<Red>0.466</Red>
+			<Green>0.317</Green>
+			<Blue>0.086</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_SHOR</Type>
+			<Red>0.768</Red>
+			<Green>0.517</Green>
+			<Blue>0.145</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ALDUIN</Type>
+			<Red>0.156</Red>
+			<Green>0.063</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_SATAKAL</Type>
+			<Red>0</Red>
+			<Green>0.627</Green>
+			<Blue>0.345</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ALMSIVI</Type>
+			<Red>0.486</Red>
+			<Green>0.259</Green>
+			<Blue>0.192</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_HIST</Type>
+			<Red>0.211</Red>
+			<Green>0.243</Green>
+			<Blue>0.176</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MERIDIA</Type>
+			<Red>0.478</Red>
+			<Green>0.462</Green>
+			<Blue>0.074</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MALACATH</Type>
+			<Red>0.239</Red>
+			<Green>0.054</Green>
+			<Blue>0.054</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MEHRUNES_DAGON</Type>
+			<Red>1</Red>
+			<Green>0.137</Green>
+			<Blue>0.054</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MOLAG_BAL</Type>
+			<Red>0.137</Red>
+			<Green>0.258</Green>
+			<Blue>0.337</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_BLACK_DRAGON</Type>
+			<Red>0.001</Red>
+			<Green>0.002</Green>
+			<Blue>0.003</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_NUMIDIUM</Type>
+			<Red>0.478</Red>
+			<Green>0.447</Green>
+			<Blue>0.290</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_ZEN</Type>
+			<Red>0.376</Red>
+			<Green>0.376</Green>
+			<Blue>0.376</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_NEW_TEMPLE</Type>
+			<Red>0.184</Red>
+			<Green>0.184</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
 </GameData>
